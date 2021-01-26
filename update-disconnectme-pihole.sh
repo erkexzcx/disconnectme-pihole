@@ -13,6 +13,10 @@ cd /dev/shm/disconnectme-pihole
 
 # Update files
 go run update.go
+if [[ $? -ne 0 ]]; then
+    echo "update.go script failed"
+    exit 1
+fi
 
 # Update README.md 
 echo \#\ Disconnectme-pihole > README.md
