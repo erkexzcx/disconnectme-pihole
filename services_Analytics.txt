@@ -50,6 +50,7 @@ certifica.com
 cetrk.com
 chartbeat.com
 chartbeat.net
+clarity.ms
 clickdensity.com
 clickguard.com
 clicktale.com
