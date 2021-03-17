@@ -514,6 +514,7 @@ clickyab.com
 clicmanager.fr
 clixtell.com
 clmbtech.com
+cloud-media.fr
 clovenetwork.com
 cmads.com.tw
 cmadsasia.com
@@ -582,6 +583,7 @@ cyberplex.com
 dada.pro
 dapper.net
 dashboardad.net
+datamind.ru
 dataxu.com
 dataxu.net
 datonics.com
@@ -788,6 +790,7 @@ gleam.io
 globe7.com
 gmads.net
 gmossp-sp.jp
+gnezdo.ru
 gocampaignlive.com
 godatafeed.com
 goldbach.com
@@ -1175,6 +1178,7 @@ oversee.net
 overture.com
 owneriq.com
 owneriq.net
+ownpage.fr
 oxamedia.com
 p-advg.com
 p-td.com
@@ -1395,6 +1399,7 @@ smaato.com
 smartadserver.com
 smartclip.com
 smartyads.com
+smi2.ru
 smileymedia.com
 smowtion.com
 smrtlnks.com
@@ -1506,6 +1511,7 @@ tracking.friends2follow.com
 trackingsoft.com
 tracksimple.com
 tradedoubler.com
+tradelab.fr
 tradetracker.com
 tradetracker.net
 traffichaus.com
@@ -1529,6 +1535,7 @@ triggit.com
 triplelift.com
 trueffect.com
 trustx.org
+ttarget.ru
 tubemogul.com
 tumri.com
 tumri.net
@@ -1553,6 +1560,7 @@ up-value.de
 urtbk.com
 usebutton.com
 usemax.de
+utarget.ru
 valuead.com
 valueclick.com
 valueclick.net

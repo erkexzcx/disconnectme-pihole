@@ -659,6 +659,7 @@ clixmetrix.com
 clixpy.com
 clixtell.com
 clmbtech.com
+cloud-media.fr
 cloudapp.net
 cloudfront.net
 clovenetwork.com
@@ -771,6 +772,7 @@ dapper.net
 dashboardad.net
 dataium.com
 datalogix.com
+datamind.ru
 datapipe.com
 datasift.com
 dataxu.com
@@ -1080,6 +1082,7 @@ gmads.net
 gmail.com
 gmodules.com
 gmossp-sp.jp
+gnezdo.ru
 go-mpulse.net
 gocampaignlive.com
 godaddy.com
@@ -1871,6 +1874,7 @@ oversee.net
 overture.com
 owneriq.com
 owneriq.net
+ownpage.fr
 oxamedia.com
 p-advg.com
 p-td.com
@@ -2182,6 +2186,7 @@ smartadserver.com
 smartclip.com
 smartlook.com
 smartyads.com
+smi2.ru
 smileymedia.com
 smowtion.com
 smrtlnks.com
@@ -2348,6 +2353,7 @@ trackingsoft.com
 trackset.com
 tracksimple.com
 tradedoubler.com
+tradelab.fr
 tradetracker.com
 tradetracker.net
 trafficfacts.com
@@ -2378,6 +2384,7 @@ trueffect.com
 trumba.com
 truste.com
 trustx.org
+ttarget.ru
 tubemogul.com
 tulip18.com
 tumblr.com
@@ -2434,6 +2441,7 @@ usemax.de
 userapi.com
 userplane.com
 uservoice.com
+utarget.ru
 v12data.com
 v12group.com
 valuead.com
