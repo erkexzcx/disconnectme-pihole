@@ -1,7 +1,9 @@
+00px.net
 103092804.com
 1rx.io
 247realmedia.com
 2leep.com
+2mdnsys.com
 2o7.net
 33across.com
 360yield.com
@@ -222,6 +224,7 @@ adspirit.net
 adsrevenue.net
 adsrvr.org
 adstours.com
+adstune.com
 adsty.com
 adsummos.com
 adsummos.net
@@ -326,6 +329,7 @@ an.yandex.ru
 anadcoads.com
 andbeyond.media
 anonymous-media.com
+ansira.com
 aolcloud.net
 apmebf.com
 appcast.io
@@ -734,6 +738,7 @@ fathomdelivers.com
 fathomseo.com
 federatedmedia.net
 feedperfect.com
+fengkongcloud.com
 fetchback.com
 ffn.com
 fg8dgt.com
@@ -855,6 +860,7 @@ ientry.com
 ignitad.com
 ignitionone.com
 ignitionone.net
+iivt.com
 im-apps.net
 imiclk.com
 impact-ad.jp
@@ -930,6 +936,7 @@ keywordmax.com
 kissmyads.com
 kitaramedia.com
 kitd.com
+kitewheel.com
 kokteyl.com
 komli.com
 kontera.com
@@ -1288,6 +1295,7 @@ react2media.com
 realmedia.com
 reduxmedia.com
 reemo-ad.jp
+refersion.com
 reichelcormier.bid
 rekko.com
 reklamport.com
@@ -1399,6 +1407,7 @@ smaato.com
 smartadserver.com
 smartclip.com
 smartyads.com
+smct.io
 smi2.ru
 smileymedia.com
 smowtion.com
@@ -1448,6 +1457,7 @@ storygize.com
 storygize.net
 streamray.com
 strikead.com
+stripst.com
 struq.com
 sublime.xyz
 sublimemedia.net
@@ -1530,6 +1540,7 @@ travoramedia.com
 tremorhub.com
 tremormedia.com
 tremorvideo.com
+trendemon.com
 tribalfusion.com
 triggit.com
 triplelift.com
@@ -1547,6 +1558,7 @@ twyn.com
 tyroo.com
 ucfunnel.com
 udmserve.net
+ufpcdn.com
 unanimis.co.uk
 underdogmedia.com
 undertone.com
@@ -1594,13 +1606,17 @@ visualdna.com
 visualrevenue.com
 vizu.com
 vizury.com
+vocento.com
+vpsvc.com
 vresp.com
 vserv.com
 vserv.mobi
+vtex.com.br
 vtrenz.net
 w55c.net
 wahoha.com
 wanmo.com
+warumbistdusoarm.space
 waterfrontmedia.com
 wayfair.com
 web-visor.com
@@ -1632,6 +1648,7 @@ xaxis.com
 xcvgdf.party
 xertivemedia.com
 xg4ken.com
+xiaoyuanzhao.com
 xmladed.com
 xplosion.de
 xplusone.com
@@ -1675,6 +1692,7 @@ yume.com
 yumenetworks.com
 z5x.com
 z5x.net
+zadn.vn
 zaful.com
 zango.com
 zanox-affiliate.de
@@ -1792,6 +1810,7 @@ extreme-dm.com
 extremetracking.com
 eyeota.net
 feedjit.com
+fndrsp.net
 footprintlive.com
 free-pagerank.com
 freeonlineusers.com
@@ -1954,6 +1973,7 @@ tealiumiq.com
 techsolutions.com.tw
 tensquare.com
 thecounter.com
+thirdwatch.ai
 tns-counter.ru
 tns-cs.net
 tnsglobal.com
@@ -1976,6 +1996,7 @@ vizisense.net
 voicefive.com
 w3counter.com
 w3roi.com
+weatherwidget.io
 web-stat.com
 webclicktracker.com
 webtrackingservices.com
@@ -1985,6 +2006,7 @@ webtrekk.net
 webtrends.com
 webtrendslive.com
 whiteops.com
+widgetic.com
 wingify.com
 woopra-ns.com
 woopra.com
@@ -2607,6 +2629,7 @@ adsrvr.org
 adsymptotic.com
 adwords.google.com
 albacross.com
+appcast.io
 apps.fbsbx.com
 atdmt.com
 atlassolutions.com
@@ -2716,7 +2739,9 @@ voice.google.com
 wave.google.com
 yieldmo.com
 ytsa.net
+00px.net
 24smi.net
+2mdnsys.com
 aamapi.com
 aamsitecertifier.com
 ad-maven.com
@@ -2727,12 +2752,13 @@ adgainersolutions.com
 admicro.vn
 adnium.com
 adsco.re
+adstune.com
 affasi.com
 agreensdistra.info
 aivalabs.com
+ansira.com
 answerscloud.com
 antifraudjs.friends2follow.com
-appcast.io
 attributionmodel.com
 auditedmedia.com
 augur.io
@@ -2765,6 +2791,7 @@ ecsanalytics.com
 ero-advertising.com
 eyereturn.com
 eyereturnmarketing.com
+fengkongcloud.com
 foresee.com
 franecki.net
 fraudjs.io
@@ -2774,14 +2801,17 @@ fuelx.com
 graphenedigitalanalytics.in
 guoshipartners.com
 gw-ec.com
+hcaptcha.com
 hilltopads.net
 hotelchamp.com
 ie8eamus.com
+iivt.com
 imedia.cz
 islay.tech
 ismatlab.com
 itch.io
 k-analytix.com
+kitewheel.com
 konduto.com
 leadlander.com
 leadtrackingdata.com
@@ -2810,6 +2840,7 @@ provers.pro
 psonstrentie.info
 pulpix.com
 quitzon.net
+refersion.com
 reichelcormier.bid
 rensovetors.info
 rollick.io
@@ -2824,20 +2855,33 @@ shorte.st
 siftscience.com
 signifyd.com
 simility.com
+smct.io
 storeland.ru
 stripe.network
+stripst.com
 sweeterge.info
 techsolutions.com.tw
+thirdwatch.ai
 tongdun.net
+trendemon.com
+ufpcdn.com
 vcmedia.vn
 verticalhealth.net
+vocento.com
+vtex.com.br
+warumbistdusoarm.space
+weatherwidget.io
 webmecanik.com
+widgetic.com
 wisokykulas.bid
 wrethicap.info
 xcvgdf.party
+xiaoyuanzhao.com
 y-track.com
+zadn.vn
 zaful.com
 ze-fir.com
+zipmoney.com.au
 ztsrv.com
 address.yahoo.com
 addthis.com

@@ -13,6 +13,7 @@ adsrvr.org
 adsymptotic.com
 adwords.google.com
 albacross.com
+appcast.io
 apps.fbsbx.com
 atdmt.com
 atlassolutions.com

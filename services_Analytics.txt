@@ -101,6 +101,7 @@ extreme-dm.com
 extremetracking.com
 eyeota.net
 feedjit.com
+fndrsp.net
 footprintlive.com
 free-pagerank.com
 freeonlineusers.com
@@ -263,6 +264,7 @@ tealiumiq.com
 techsolutions.com.tw
 tensquare.com
 thecounter.com
+thirdwatch.ai
 tns-counter.ru
 tns-cs.net
 tnsglobal.com
@@ -285,6 +287,7 @@ vizisense.net
 voicefive.com
 w3counter.com
 w3roi.com
+weatherwidget.io
 web-stat.com
 webclicktracker.com
 webtrackingservices.com
@@ -294,6 +297,7 @@ webtrekk.net
 webtrends.com
 webtrendslive.com
 whiteops.com
+widgetic.com
 wingify.com
 woopra-ns.com
 woopra.com
