@@ -2736,9 +2736,11 @@ valueclick.net
 valueclickmedia.com
 vendemore.com
 voice.google.com
+vtex.com.br
 wave.google.com
 yieldmo.com
 ytsa.net
+zadn.vn
 00px.net
 24smi.net
 2mdnsys.com
@@ -2868,7 +2870,6 @@ ufpcdn.com
 vcmedia.vn
 verticalhealth.net
 vocento.com
-vtex.com.br
 warumbistdusoarm.space
 weatherwidget.io
 webmecanik.com
@@ -2878,7 +2879,6 @@ wrethicap.info
 xcvgdf.party
 xiaoyuanzhao.com
 y-track.com
-zadn.vn
 zaful.com
 ze-fir.com
 zipmoney.com.au
