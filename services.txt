@@ -130,6 +130,7 @@ adlucent.com
 admagnet.com
 admagnet.net
 admailtiser.com
+adman.gr
 admanager-xertive.com
 admarketplace.com
 admarketplace.net
@@ -210,6 +211,8 @@ adsfac.sg
 adsfac.us
 adshuffle.com
 adside.com
+adskeeper.co.uk
+adskeeper.com
 adsmarket.com
 adsmart.com
 adsnative.com
@@ -402,6 +405,7 @@ bidr.io
 bidswitch.net
 bidsystem.com
 bidtellect.com
+bidtheatre.com
 bidvertiser.com
 bigmir.net
 binlayer.com
@@ -1524,6 +1528,7 @@ tradedoubler.com
 tradelab.fr
 tradetracker.com
 tradetracker.net
+traffic-media.co.uk
 traffichaus.com
 traffichouse.com
 trafficjunky.com
@@ -1581,6 +1586,7 @@ various.com
 vcmedia.vn
 vdna-assets.com
 vdopia.com
+vdx.tv
 veeseo.com
 velti.com
 vemba.com
@@ -1630,6 +1636,7 @@ weborama.com
 weborama.fr
 webtraffic.no
 webtraffic.se
+widespace.com
 widgetserver.com
 wiredminds.com
 wiredminds.de
@@ -1644,6 +1651,7 @@ wunderloop.net
 xa.net
 xad.com
 xaded.com
+xandr.com
 xaxis.com
 xcvgdf.party
 xertivemedia.com
