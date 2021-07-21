@@ -224,6 +224,7 @@ adsperity.com
 adspirit.com
 adspirit.de
 adspirit.net
+adsquare.com
 adsrevenue.net
 adsrvr.org
 adstours.com
@@ -364,6 +365,7 @@ audience2media.com
 audienceadnetwork.com
 audienceinsights.net
 audienceiq.com
+audiencemanager.de
 audiencescience.com
 auditude.com
 augme.com
@@ -927,6 +929,7 @@ jivox.com
 jobthread.com
 juicyads.com
 jumptap.com
+justpremium.com
 justuno.com
 kanoodle.com
 kantarmedia.com
@@ -1159,6 +1162,7 @@ oneupweb.com
 onevision.com.tw
 online-metrix.net
 onm.de
+opecloud.com
 openx.com
 openx.net
 openx.org
@@ -1300,6 +1304,7 @@ realmedia.com
 reduxmedia.com
 reemo-ad.jp
 refersion.com
+reflow.tv
 reichelcormier.bid
 rekko.com
 reklamport.com
@@ -1605,6 +1610,7 @@ vidible.tv
 viewablemedia.net
 viglink.com
 virgul.com
+visarity.com
 visbrands.com
 visiblemeasures.com
 visualdna-stats.com

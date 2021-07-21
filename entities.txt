@@ -241,6 +241,7 @@ adsfac.us
 adshuffle.com
 adside.com
 adskeeper.co.uk
+adskeeper.com
 adsmarket.com
 adsmart.com
 adsnative.com
@@ -252,6 +253,7 @@ adsperity.com
 adspirit.com
 adspirit.de
 adspirit.net
+adsquare.com
 adsrevenue.net
 adsrvr.org
 adstours.com
@@ -429,6 +431,7 @@ audience2media.com
 audienceadnetwork.com
 audienceinsights.net
 audienceiq.com
+audiencemanager.de
 audiencescience.com
 auditedmedia.com
 auditude.com
@@ -1491,6 +1494,7 @@ js-kit.com
 jsecoin.com
 juicyads.com
 jumptap.com
+justpremium.com
 justuno.com
 k-analytix.com
 kaltura.com
@@ -1852,6 +1856,7 @@ onm.de
 onmicrosoft.com
 oo4.com
 ooyala.com
+opecloud.com
 openstat.com
 openstat.ru
 opentracker.net
@@ -2032,6 +2037,7 @@ reduxmedia.com
 reedge.com
 reemo-ad.jp
 refersion.com
+reflow.tv
 reichelcormier.bid
 reinvigorate.net
 rekko.com
@@ -2504,6 +2510,7 @@ vimeocdn.com
 vindicogroup.com
 vindicosuite.com
 virgul.com
+visarity.com
 visbrands.com
 visiblemeasures.com
 visistat.com
