@@ -2749,6 +2749,7 @@ valueclick.com
 valueclick.net
 valueclickmedia.com
 vendemore.com
+vocento.com
 voice.google.com
 vtex.com.br
 wave.google.com
@@ -2883,7 +2884,6 @@ trendemon.com
 ufpcdn.com
 vcmedia.vn
 verticalhealth.net
-vocento.com
 warumbistdusoarm.space
 webmecanik.com
 widgetic.com
