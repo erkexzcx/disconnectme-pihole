@@ -2733,7 +2733,8 @@ vkontakte.ru
 vocento.com
 voice2page.com
 voicefive.com
-vpsvc.com
+vpdcp.com
+vptms.com
 vresp.com
 vserv.com
 vserv.mobi
