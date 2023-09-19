@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import os
 import glob
 from jinja2 import Environment, FileSystemLoader
@@ -12,7 +14,7 @@ env = Environment(loader=file_loader)
 
 template = env.get_template('README.md.j2')
 
-output = template.render(content=files_str)
+output = template.render(files=files_str, suffix=suffix)
 
 with open('./README.md', 'w') as f:
     f.write(output)
