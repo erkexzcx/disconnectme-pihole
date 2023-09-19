@@ -1,0 +1,35 @@
+name: Update lists
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      SUFFIX: https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Clear existing *.txt files
+      run: rm -f *.txt
+    
+    - name: Update lists
+      run: python3 update.py
+        
+    - name: Update README.md
+      run: python3 update_readme.py
+
+    - name: Configure Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Commit and push if changed
+      run: |
+        git add -A .
+        DATE=$(date +'%Y-%m-%d')
+        git commit -m "update $DATE" || exit 0
+        git push
