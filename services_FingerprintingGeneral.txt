@@ -22,10 +22,9 @@ audienceiq.com
 auditude.com
 avantlink.com
 avantmetrics.com
-bkrtx.com
-bluekai.com
 cc-dt.com
 choozle.com
+consumable.com
 conversantmedia.com
 crwdcntrl.net
 demdex.com
@@ -114,7 +113,6 @@ teracent.com
 teracent.net
 thetradedesk.com
 touchclarity.com
-tracksimple.com
 tvpixel.com
 valueclick.com
 valueclick.net
@@ -124,6 +122,7 @@ vocento.com
 voice.google.com
 vtex.com.br
 wave.google.com
+y-track.com
 yieldmo.com
 ytsa.net
 zadn.vn

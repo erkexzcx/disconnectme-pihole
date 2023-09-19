@@ -34,8 +34,6 @@ btbuckets.com
 bufferapp.com
 bunchball.com
 buysafe.com
-buzzfed.com
-buzzfeed.com
 cambio.com
 cbox.ws
 cbsinteractive.com
@@ -77,7 +75,6 @@ flattr.com
 flickr.com
 formalyzer.com
 freewheel.tv
-fwmrm.net
 fyre.co
 games.com
 gamesforwindows.com
@@ -297,17 +294,14 @@ health.google.com
 healthvault.com
 heyzap.com
 homesessive.com
-hubspot.com
 huffingtonpost.com
 ieaddons.com
 iegallery.com
-iesnare.com
 images.google.com
 instagram.com
 instantservice.com
 intensedebate.com
 investor.google.com
-iovation.com
 istrack.com
 joystiq.com
 js-kit.com
@@ -320,7 +314,6 @@ komli.net
 limelight.com
 live.com
 livefyre.com
-liveperson.net
 liverail.com
 llnwd.net
 longtailvideo.com
@@ -342,6 +335,7 @@ moviefone.com
 msn.com
 msndirect.com
 music.google.com
+my.mail.ru
 news.google.com
 newsinc.com
 newstogram.com
@@ -365,13 +359,11 @@ pinterest.com
 pixazza.com
 play.google.com
 postini.com
-punchtab.com
 qoof.com
 recaptcha.net
 res-x.com
 rim.com
 s-msn.com
-salesforceliveagent.com
 saymedia.com
 scanalert.com
 scoreloop.com
@@ -403,7 +395,6 @@ theboot.com
 thinglink.com
 thismoment.com
 thummit.com
-tidaltv.com
 toolbar.google.com
 topsy.com
 tracemyip.org
@@ -421,7 +412,6 @@ tweetboard.com
 tweetmeme.com
 tweetup.com
 twittercounter.com
-tynt.com
 typekit.com
 typepad.com
 ubermedia.com
@@ -476,8 +466,6 @@ yimg.com
 youtube.com
 ypolicyblog.com
 yuilibrary.com
-zendesk.com
 zenfs.com
-zopim.com
 zune.com
 zune.net
