@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_A
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Cryptomining.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Email.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Anti-fraud.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Social.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt
