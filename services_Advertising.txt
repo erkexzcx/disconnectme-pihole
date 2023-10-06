@@ -33,11 +33,13 @@ act-on.com
 actisens.com
 activeconversion.com
 activemeter.com
+activengage.com
 actonsoftware.com
 acuity.com
 acuityads.com
 acuityplatform.com
 ad-alliance.de
+ad-delivery.net
 ad-maven.com
 ad-score.com
 ad-srv.net
@@ -397,6 +399,7 @@ auditude.com
 audrte.com
 augme.com
 autocentre.ua
+automattic.com
 avalanchers.com
 avantlink.com
 avidglobalmedia.com
@@ -523,6 +526,7 @@ cdn-sitegainer.com
 cdnma.com
 cedato.com
 centraliprom.com
+certona.com
 channeladvisor.com
 channelintelligence.com
 chartboost.com
@@ -632,6 +636,7 @@ csdata3.com
 csi-tracking.com
 csm-secure.com
 ctasnet.com
+ctnsnet.com
 curalate.com
 customerconversio.com
 cxense.com
@@ -830,6 +835,7 @@ franecki.net
 fraudjs.io
 freedom.com
 freeskreen.com
+freewheel.tv
 frogsex.com
 ftjcfx.com
 fulltango.com
@@ -837,6 +843,7 @@ futureads.com
 fwmrm.net
 fxj.com.au
 fyber.com
+fyre.co
 game-advertising-online.com
 games2win.com
 gamned.com
@@ -857,6 +864,8 @@ getiton.com
 getpolymorph.com
 getrockerbox.com
 giantrealm.com
+gigcount.com
+gigya.com
 gismads.jp
 glam.com
 glammedia.com
@@ -899,6 +908,7 @@ harrenmedianetwork.com
 healthpricer.com
 hearst.com
 heias.com
+heyzap.com
 hi-media.com
 hilltopads.com
 hilltopads.net
@@ -1003,6 +1013,7 @@ jinkads.com
 jirbo.com
 jivox.com
 jobthread.com
+joystiq.com
 jsrdn.com
 juicyads.com
 jumptap.com
@@ -1242,6 +1253,7 @@ nugg.ad
 nuggad.net
 nxtck.com
 oath.com
+oberon-media.com
 oggifinogi.com
 ohana-media.com
 ohanaqb.com
@@ -1302,6 +1314,7 @@ pagefair.com
 pagefair.net
 pages05.net
 paid-to-promote.net
+patch.com
 payhit.com
 paypopup.com
 pbbl.co
@@ -1430,6 +1443,7 @@ relestar.com
 relevad.com
 relevant-digital.com
 renegadeinternet.com
+res-x.com
 resetdigital.co
 resolutionmedia.com
 reson8.com
@@ -1488,6 +1502,7 @@ samurai-factory.jp
 sapient.com
 sas.com
 sascdn.com
+saymedia.com
 sc-static.net
 scandinavianadnetworks.com
 scanscout.com
@@ -1554,6 +1569,7 @@ smrtlnks.com
 smtad.net
 snap.com
 snapchat.com
+snapengage.com
 snigelweb.com
 socdm.com
 socialinterface.com
@@ -1654,6 +1670,7 @@ thesearchagency.net
 thetradedesk.com
 thewheelof.com
 thinkrealtime.com
+thismoment.com
 thrtle.com
 tidaltv.com
 tiktok.com
@@ -1714,6 +1731,7 @@ tubemogul.com
 tumri.com
 tumri.net
 turn.com
+turntonetworks.com
 tvpixel.com
 twelvefold.com
 twyn-group.com
@@ -1764,12 +1782,15 @@ vi.ai
 vibrantmedia.com
 vic-m.co
 vidazoo.com
+videologygroup.com
 videoplaza.tv
 videostep.com
 vidible.tv
 vidoomy.com
 viewablemedia.net
+viewbix.com
 viglink.com
+vindicosuite.com
 viralize.tv
 virgul.com
 visarity.com

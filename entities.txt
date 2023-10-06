@@ -39,7 +39,6 @@ aamapiv2.com
 aamsitecertifier.com
 abaxinteractive.com
 abmr.net
-aboutecho.com
 abtasty.com
 acblnk.com
 accelerator-media.com
@@ -71,6 +70,7 @@ acuityplatform.com
 acxiom.com
 acxiomapac.com
 ad-alliance.de
+ad-delivery.net
 ad-maven.com
 ad-miner.com
 ad-score.com
@@ -388,7 +388,6 @@ aivalabs.com
 akamai.com
 akamaihd.net
 akncdn.com
-akqa.com
 albacross.com
 alexa.com
 alexametrics.com
@@ -934,6 +933,7 @@ csdata3.com
 csi-tracking.com
 csm-secure.com
 ctasnet.com
+ctnsnet.com
 cuebiq.com
 curalate.com
 customer.io
@@ -953,7 +953,6 @@ dashboardad.net
 dataium.com
 datalogix.com
 datamind.ru
-datapipe.com
 datasift.com
 dataxu.com
 dataxu.net
@@ -1710,7 +1709,6 @@ itisatracker.com
 itsoneiota.com
 ivdopia.com
 ivwbox.de
-iwin.com
 ixactcontact.com
 ixs1.net
 jaroop.com
@@ -1722,6 +1720,7 @@ jirbo.com
 jivosite.com
 jivox.com
 jobthread.com
+joystiq.com
 js-kit.com
 jsecoin.com
 jsrdn.com
@@ -1755,7 +1754,6 @@ kitewheel.com
 klaviyo.com
 kokteyl.com
 komli.com
-komli.net
 konduto.com
 kontera.com
 korrelate.com
@@ -1885,7 +1883,6 @@ marinsoftware.com
 marketgid.com
 marketo.com
 marketo.net
-markit.com
 markmonitor.com
 marktest.com
 marktest.pt
@@ -2417,7 +2414,6 @@ qjex.net
 qksz.com
 qksz.net
 qnsr.com
-qoof.com
 qsstats.com
 quadrantone.com
 quakemarketing.com
@@ -2718,7 +2714,6 @@ sptag2.com
 sptag3.com
 sputnik.ru
 spylog.com
-srtk.net
 ssl-images-amazon.com
 sslverify.info
 stable.cz
@@ -2908,7 +2903,6 @@ tvpixel.com
 tweetboard.com
 tweetdeck.com
 tweetmeme.com
-tweetup.com
 twelvefold.com
 twimg.com
 twitter.com
@@ -2991,7 +2985,6 @@ viafoura.co
 vibrantmedia.com
 vic-m.co
 vidazoo.com
-videoegg.com
 videologygroup.com
 videoplaza.tv
 videostep.com
@@ -3004,7 +2997,6 @@ viglink.com
 vimeo.com
 vimeocdn.com
 vinc.fr
-vindicogroup.com
 vindicosuite.com
 viralhosts.com
 viralize.tv
@@ -3068,6 +3060,16 @@ webmining.co
 weborama.com
 weborama.fr
 websitealive.com
+websitealive0.com
+websitealive1.com
+websitealive2.com
+websitealive3.com
+websitealive4.com
+websitealive5.com
+websitealive6.com
+websitealive7.com
+websitealive8.com
+websitealive9.com
 webtrackingservices.com
 webtraffic.no
 webtraffic.se
@@ -3197,7 +3199,6 @@ youknowbest.com
 youtube.com
 yp.com
 yt1187.net
-yuilibrary.com
 yume.com
 yumenetworks.com
 z5x.com

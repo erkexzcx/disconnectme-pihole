@@ -22,6 +22,8 @@ audienceiq.com
 auditude.com
 avantlink.com
 avantmetrics.com
+bkrtx.com
+bluekai.com
 cc-dt.com
 choozle.com
 consumable.com
@@ -113,6 +115,7 @@ teracent.com
 teracent.net
 thetradedesk.com
 touchclarity.com
+tracksimple.com
 tvpixel.com
 valueclick.com
 valueclick.net
