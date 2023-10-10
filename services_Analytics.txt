@@ -7,6 +7,7 @@ abmr.net
 abtasty.com
 acxiom.com
 acxiomapac.com
+adap.tv
 addfreestats.com
 adloox.com
 adlooxtracking.com
@@ -16,6 +17,7 @@ adxyield.com
 adzmath.com
 aidata.me
 aivalabs.com
+alexa.com
 alexametrics.com
 amadesa.com
 amazingcounters.com
@@ -26,8 +28,10 @@ analytics.yahoo.com
 anormal-media.de
 anormal-tracker.de
 antifraudjs.friends2follow.com
+aol.com
 apnewsregistry.com
 at-o.net
+atgsvcs.com
 atinternet.com
 attracta.com
 autoblog.com
@@ -63,6 +67,8 @@ buysafe.com
 cardlytics.com
 cbox.ws
 cbsinteractive.com
+cedexis.com
+cedexis.net
 certifica.com
 cetrk.com
 chartbeat.com
@@ -133,6 +139,7 @@ extreme-dm.com
 extremetracking.com
 eyeota.net
 feedjit.com
+flattr.com
 flux-cdn.com
 fndrsp.net
 footprintlive.com
@@ -160,8 +167,6 @@ googleoptimize.com
 gosquared.com
 gostats.com
 graphenedigitalanalytics.in
-gravity.com
-grvcdn.com
 gtop.ro
 gtopstats.com
 haloscan.com
@@ -205,11 +210,14 @@ leadforensics.com
 leadinfo.net
 limelight.com
 linezing.com
+livefyre.com
 liveperson.com
 liveperson.net
 llnwd.net
 logdy.com
+longtailvideo.com
 lotame.com
+ltassrv.com
 luckyorange.com
 luckyorange.net
 lynchpin.com
@@ -226,6 +234,7 @@ maxymiser.com
 mdotlabs.com
 mediametrie-estat.com
 merkleinc.com
+microsoftstore.com
 mixpanel.com
 ml314.com
 mm7.net
@@ -254,10 +263,12 @@ nurago.de
 observerapp.com
 oewa.at
 oewabox.at
+officelive.com
 onaudience.com
 onestat.com
 onlinewebstats.com
 onthe.io
+ooyala.com
 openfpcdn.io
 openstat.ru
 opentracker.net
@@ -316,6 +327,7 @@ sensic.net
 sesamestats.com
 sessioncam.com
 shinystat.com
+shoutcast.com
 sift.com
 simpleanalyticscdn.com
 sitecompass.com
@@ -346,12 +358,14 @@ thirdwatch.ai
 tns-counter.ru
 tns-cs.net
 tnsglobal.com
+tracemyip.org
 tracify.ai
 trackersimulator.org
 trackingsoft.com
 trackset.com
 trafficfacts.com
 trafficscore.com
+truste.com
 turnto.com
 tweetdeck.com
 tweetmeme.com

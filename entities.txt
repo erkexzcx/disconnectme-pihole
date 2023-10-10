@@ -374,7 +374,6 @@ agilemeasure.com
 agkn.com
 aidata.io
 aidata.me
-aim.com
 aim4media.com
 aimatch.com
 airpr.com
@@ -511,8 +510,6 @@ basis.net
 basiscommunicatie.nl
 batanga.com
 batanganetwork.com
-baynote.com
-baynote.net
 bazaarvoice.com
 bdstatic.com
 beachfront.com
@@ -545,7 +542,6 @@ bidsystem.com
 bidtellect.com
 bidtheatre.com
 bidvertiser.com
-bigdoor.com
 bigmir.net
 bing.com
 binlayer.com
@@ -610,7 +606,6 @@ brilig.com
 browser-update.org
 browseranalytic.com
 browsiprod.com
-btbuckets.com
 btloader.com
 btrll.com
 btstatic.com
@@ -723,7 +718,6 @@ clicktripz.com
 clickwinks.com
 clickyab.com
 clicmanager.fr
-clipsyndicate.com
 clixmetrix.com
 clixpy.com
 clixtell.com
@@ -798,7 +792,6 @@ conduit-services.com
 conduit.com
 confiant-integrations.net
 confirmsubscription.com
-congoo.com
 connatix.com
 connectad.io
 connectedads.net
@@ -919,7 +912,6 @@ cxense.com
 cya2.net
 cyberplex.com
 dada.pro
-dailyme.com
 daphnecm.com
 dapper.net
 dartsearch.net
@@ -1216,7 +1208,6 @@ genesismedia.com
 genesismediaus.com
 geniee.co.jp
 geniegroupltd.co.uk
-genius.com
 geoads.com
 geoedge.be
 gestionpub.com
@@ -1245,8 +1236,6 @@ glammedia.com
 glanceguide.com
 gleam.io
 gliq.com
-globaltakeoff.com
-globaltakeoff.net
 globe7.com
 glomex.com
 glotgrx.com
@@ -1473,14 +1462,12 @@ gramombird.com
 grapeshot.co.uk
 graphenedigitalanalytics.in
 gravatar.com
-gravity.com
 greystripe.com
 gridcash.net
 groceryshopping.net
 groovinads.com
 groupm.com
 grow.me
-grvcdn.com
 gsicommerce.com
 gsimedia.net
 gssprt.jp
@@ -1636,7 +1623,6 @@ ismatlab.com
 isocket.com
 ispot.tv
 istlandoll.com
-istrack.com
 itch.io
 itisatracker.com
 itsoneiota.com
@@ -1675,7 +1661,6 @@ keyade.com
 keymetric.net
 keywee.co
 keywordmax.com
-kikin.com
 kissinsights.com
 kissmetrics.com
 kissmyads.com
@@ -1766,7 +1751,6 @@ ltassrv.com
 lucidmedia.com
 luckyorange.com
 luckyorange.net
-luminate.com
 lynchpin.com
 lypn.com
 lyris.com
@@ -1815,7 +1799,6 @@ marktest.pt
 martiniadnetwork.com
 martinimedianetwork.com
 mashero.com
-mashlogic.com
 match.com
 matchbin.com
 mathtag.com
@@ -1866,7 +1849,6 @@ mercent.com
 merchantadvantage.com
 merchenta.com
 merkleinc.com
-messenger.com
 metadsp.co.uk
 metanetwork.com
 meteorsolutions.com
@@ -2073,7 +2055,6 @@ neustar.biz
 newrelic.com
 newscgp.com
 newsinc.com
-newstogram.com
 newtention.de
 newtention.net
 newtentionassets.net
@@ -2114,7 +2095,6 @@ oberon-media.com
 observerapp.com
 oewa.at
 oewabox.at
-office.com
 officelive.com
 oggifinogi.com
 ohana-media.com
@@ -2131,14 +2111,12 @@ oneiota.co.uk
 onesignal.com
 onestat.com
 onetag-sys.com
-onetruefan.com
 oneupweb.com
 onevision.com.tw
 online-metrix.net
 onlinewebstats.com
 onnetwork.tv
 onthe.io
-oo4.com
 ooyala.com
 opecloud.com
 openeducat.org
@@ -2234,7 +2212,6 @@ pinterest.com
 pippio.com
 piwik.org
 pixanalytics.com
-pixazza.com
 pixel.sg
 pixfuture.com
 piximedia.com
@@ -2395,7 +2372,6 @@ richrelevance.com
 rightaction.com
 rightinbox.com
 rightmedia.com
-rim.com
 rimmkaufman.com
 ringier.cz
 rkdms.com
@@ -2424,7 +2400,6 @@ runads.com
 runadtag.com
 rundsp.com
 rutarget.ru
-s-msn.com
 s-onetag.com
 sa-as.com
 sabavision.com
@@ -2452,8 +2427,6 @@ scanalert.com
 scandinavianadnetworks.com
 scanscout.com
 scorecardresearch.com
-scoreloop.com
-scribefire.com
 scribol.com
 scupio.com
 sddan.com
@@ -2528,11 +2501,9 @@ sitegainer.com
 sitemeter.com
 sitescout.com
 sitestat.com
-sixapart.com
 skem1.com
 skimlinks.com
 skimresources.com
-skribit.com
 skupenet.com
 skype.com
 slickstream.com
@@ -2590,7 +2561,6 @@ sportradarserving.com
 spot200.com
 spotx.tv
 spotxchange.com
-springmetrics.com
 springserve.com
 sproutinc.com
 sptag.com
@@ -2691,12 +2661,10 @@ thenumagroup.com
 thesearchagency.com
 thesearchagency.net
 thetradedesk.com
-thinglink.com
 thinkrealtime.com
 thirdwatch.ai
 thismoment.com
 thrtle.com
-thummit.com
 tidaltv.com
 tiktok.com
 tinder.com
@@ -2715,7 +2683,6 @@ todacell.com
 tonefuse.com
 tonemedia.com
 tongdun.net
-topsy.com
 touchclarity.com
 touchcommerce.com
 tp88trk.com
@@ -2761,7 +2728,6 @@ tribalfusion.com
 triggit.com
 triplelift.com
 trkn.us
-trovus.co.uk
 trueffect.com
 trumba.com
 truste.com
@@ -2778,14 +2744,12 @@ turn.com
 turnto.com
 turntonetworks.com
 tvpixel.com
-tweetboard.com
 tweetdeck.com
 tweetmeme.com
 twelvefold.com
 twimg.com
 twitter.com
 twitter.jp
-twittercounter.com
 twyn-group.com
 twyn.com
 tynt.com
@@ -2793,7 +2757,6 @@ typekit.com
 typepad.com
 tyroo.com
 ubermedia.com
-ubertags.com
 ucfunnel.com
 udmserve.net
 ufpcdn.com
@@ -2893,7 +2856,6 @@ vkontakte.ru
 vocento.com
 vocstatic.com
 vocus.io
-voice2page.com
 voicefive.com
 vpdcp.com
 vptms.com
@@ -2991,7 +2953,6 @@ xplosion.de
 xplusone.com
 xpressmail.hu
 xtendmedia.com
-xtify.com
 xtremepush.com
 xylionmail.pl
 y-track.com
@@ -3060,7 +3021,6 @@ zedo.com
 zemanta.com
 zendable.com
 zendesk.com
-zenfs.com
 zeotap.com
 zestad.com
 zetaemailsolutions.com
