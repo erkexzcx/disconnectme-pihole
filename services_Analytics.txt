@@ -17,6 +17,7 @@ adxyield.com
 adzmath.com
 aidata.me
 aivalabs.com
+akstat.io
 alexa.com
 alexametrics.com
 amadesa.com
@@ -203,11 +204,13 @@ itisatracker.com
 ivwbox.de
 jivosite.com
 js-kit.com
+jwpltx.com
 keymetric.net
 kissinsights.com
 kissmetrics.com
 leadforensics.com
 leadinfo.net
+lightboxcdn.com
 limelight.com
 linezing.com
 livefyre.com
@@ -426,6 +429,7 @@ yabidos.com
 yahoofs.com
 yandex.ua
 yellowtracker.com
+yimg.jp
 yoox.it
 zendesk.com
 zoominfo.com

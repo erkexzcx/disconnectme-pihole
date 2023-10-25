@@ -479,6 +479,7 @@ brandscreen.com
 brandsideplatform.com
 breaktime.com.tw
 brealtime.com
+brid.tv
 bridgetrack.com
 brightroll.com
 brighttag.com
@@ -1326,6 +1327,7 @@ peer39.com
 peer39.net
 peerfly.com
 peerset.com
+pepperjam.com
 percentmobile.com
 perfectmarket.com
 perfiliate.com
@@ -1347,11 +1349,16 @@ pixel.sg
 pixfuture.com
 piximedia.com
 pixlee.com
+pjatr.com
+pjtra.com
 platform-one.co.jp
 playground.xyz
 playwire.com
 plista.com
 pm14.com
+pntra.com
+pntrac.com
+pntrs.com
 po.st
 pocketcents.com
 pointroll.com
@@ -1756,6 +1763,7 @@ unicast.com
 uniqlick.com
 unrulymedia.com
 up-value.de
+upsellit.com
 urtbk.com
 usebutton.com
 usemax.de

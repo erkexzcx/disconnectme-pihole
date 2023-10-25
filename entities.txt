@@ -363,6 +363,7 @@ affine.tv
 affinesystems.com
 affinity.co
 affinity.com
+affirm.com
 aforesponse.com
 afterdownload.com
 afy11.net
@@ -382,6 +383,7 @@ aisleahead.com
 aivalabs.com
 akamai.com
 akncdn.com
+akstat.io
 albacross.com
 alexa.com
 alexametrics.com
@@ -495,6 +497,8 @@ awltovhc.com
 awstrack.me
 axf8.net
 ayads.co
+azure.com
+azurefd.net
 b0e8.com
 backbeatmedia.com
 baidu.com
@@ -597,6 +601,7 @@ brandsideplatform.com
 branica.com
 breaktime.com.tw
 brealtime.com
+brid.tv
 bridgetrack.com
 brightcove.com
 brightedge.com
@@ -657,6 +662,7 @@ cbproads.com
 cbsinteractive.com
 cc-dt.com
 cdn-sitegainer.com
+cdninstagram.com
 cdnma.com
 cdnwidget.com
 cedato.com
@@ -724,7 +730,9 @@ clixtell.com
 clmbtech.com
 close.io
 cloud-media.fr
+cloudflare.com
 cloudflareinsights.com
+cloudflarestream.com
 cloudfront.net
 clovenetwork.com
 clustrmaps.com
@@ -1006,6 +1014,7 @@ dwin1.com
 dwstat.cn
 dynadmic.com
 dynamicoxygen.com
+dynamics.com
 dynata.com
 dyntrk.com
 e-kolay.net
@@ -1188,6 +1197,7 @@ frontapp.com
 ftjcfx.com
 fullstory.com
 fulltango.com
+fundraiseup.com
 futureads.com
 fwmrm.net
 fxj.com.au
@@ -1242,7 +1252,6 @@ glotgrx.com
 gmads.net
 gmail.com
 gmelius.com
-gmodules.com
 gmossp-sp.jp
 gnezdo.ru
 go-mpulse.net
@@ -1647,6 +1656,8 @@ juicyads.com
 jumptap.com
 justpremium.com
 justuno.com
+jwpcdn.com
+jwpltx.com
 k-analytix.com
 kaltura.com
 kameleoon.eu
@@ -1706,6 +1717,7 @@ licdn.com
 lifestreetmedia.com
 liftdna.com
 ligatus.com
+lightboxcdn.com
 lijit.com
 limelight.com
 linezing.com
@@ -2176,6 +2188,7 @@ pardot.com
 parsely.com
 patch.com
 payhit.com
+paypal.com
 paypopup.com
 pbbl.co
 pbstck.com
@@ -2185,6 +2198,7 @@ peer39.net
 peerfly.com
 peerius.com
 peerset.com
+pepperjam.com
 percentmobile.com
 perfdrive.com
 perfectmarket.com
@@ -2216,12 +2230,17 @@ pixel.sg
 pixfuture.com
 piximedia.com
 pixlee.com
+pjatr.com
+pjtra.com
 platform-one.co.jp
 playground.xyz
 playwire.com
 plista.com
 plugin.management
 pm14.com
+pntra.com
+pntrac.com
+pntrs.com
 po.st
 pocketcents.com
 pointroll.com
@@ -2481,6 +2500,8 @@ sharethis.com
 sharethrough.com
 shinobi.jp
 shinystat.com
+shopifyapps.com
+shopifysvc.com
 shopzilla.com
 shortcuts.com
 shorte.st
@@ -2597,6 +2618,7 @@ streak.com
 streamray.com
 strikead.com
 strikestack.com
+stripe.com
 stripe.network
 stripst.com
 struq.com
@@ -2748,6 +2770,7 @@ tweetdeck.com
 tweetmeme.com
 twelvefold.com
 twimg.com
+twitch.tv
 twitter.com
 twitter.jp
 twyn-group.com
@@ -2775,6 +2798,7 @@ uniqlick.com
 unrulymedia.com
 unseenreport.com
 up-value.de
+upsellit.com
 uptrends.com
 urtbk.com
 usabilitysciences.com
@@ -2926,6 +2950,7 @@ woowup.com
 wordfly.com
 wordstream.com
 wowanalytics.co.uk
+wp.com
 wpadmngr.com
 wpncdn.com
 wpp.com
@@ -2967,6 +2992,7 @@ yandex.by
 yandex.com
 yandex.com.tr
 yandex.md
+yandex.net
 yandex.ru
 yandex.st
 yandex.ua
@@ -2991,6 +3017,7 @@ yieldmanager.net
 yieldmo.com
 yieldoptimizer.com
 yimg.com
+yimg.jp
 yldbt.com
 yldmgrimg.net
 ymail.com
@@ -3002,6 +3029,7 @@ yololike.space
 yoox.it
 yotpo.com
 youknowbest.com
+youtube-nocookie.com
 youtube.com
 yp.com
 yt1187.net
@@ -3019,6 +3047,7 @@ zapunited.com
 zatnoh.com
 zedo.com
 zemanta.com
+zencdn.net
 zendable.com
 zendesk.com
 zeotap.com
