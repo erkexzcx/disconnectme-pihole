@@ -1026,7 +1026,6 @@ ebayimg.com
 ebaystatic.com
 echosearch.com
 edgesuite.net
-editions.com
 edrone.me
 effectivemeasure.com
 effectivemeasure.net
@@ -1050,6 +1049,7 @@ emlnk1.com
 emltrk.com
 emxdgt.com
 emxdigital.com
+en25.com
 encoremetrics.com
 enecto.com
 engagebay.com
@@ -1205,7 +1205,6 @@ fyber.com
 fyre.co
 game-advertising-online.com
 games2win.com
-gamesforwindows.com
 gamned.com
 gannett.com
 gasv1.com
@@ -1223,7 +1222,6 @@ geoedge.be
 gestionpub.com
 getblueshift.com
 getclicky.com
-getgamesmart.com
 getglue.com
 getintent.com
 getiton.com
@@ -1488,6 +1486,7 @@ gumgum.com
 gunggo.com
 guoshipartners.com
 gwallet.com
+hadronid.net
 haloscan.com
 hands.com.br
 harrenmedia.com
@@ -1495,7 +1494,6 @@ harrenmedianetwork.com
 hashing.win
 hcaptcha.com
 healthpricer.com
-healthvault.com
 heapanalytics.com
 hearst.com
 heias.com
@@ -1650,6 +1648,7 @@ jivox.com
 jobthread.com
 joystiq.com
 js-kit.com
+js7k.com
 jsecoin.com
 jsrdn.com
 juicyads.com
@@ -1662,6 +1661,7 @@ k-analytix.com
 kaltura.com
 kameleoon.eu
 kameleoon.io
+kampyle.com
 kanoodle.com
 kantarmedia.com
 kargo.com
@@ -2022,7 +2022,6 @@ mouseflow.com
 movielush.com
 mparticle.com
 msads.net
-msndirect.com
 mts.ru
 multiplestreammktg.com
 mundomedia.com
@@ -2074,6 +2073,7 @@ nexac.com
 nexage.com
 nextaction.net
 nextag.com
+nextdoor.com
 nextperformance.com
 nextstat.com
 nhlnka.com
@@ -2318,6 +2318,7 @@ qualtrics.com
 quantcast.com
 quantserve.com
 quantum-advertising.com
+quantummetric.com
 questionmarket.com
 quicknoodles.com
 quinstreet.com
@@ -2445,6 +2446,7 @@ sc-static.net
 scanalert.com
 scandinavianadnetworks.com
 scanscout.com
+scarabresearch.com
 scorecardresearch.com
 scribol.com
 scupio.com
@@ -2503,7 +2505,6 @@ shinystat.com
 shopifyapps.com
 shopifysvc.com
 shopzilla.com
-shortcuts.com
 shorte.st
 shorttailmedia.com
 shoutcast.com
@@ -2574,7 +2575,6 @@ specificclick.net
 specificmedia.com
 spectate.com
 sphere.com
-spinner.com
 spongecell.com
 spongegroup.com
 sponsorads.de
@@ -2635,7 +2635,6 @@ sunmedia.tv
 superfish.com
 superhuman.com
 supersonicads.com
-surphace.com
 survata.com
 svlu.net
 swiftmining.win
@@ -2807,7 +2806,6 @@ usemax.de
 usemessages.com
 user.com
 userapi.com
-userplane.com
 uservoice.com
 utarget.ru
 v12data.com
@@ -2843,6 +2841,7 @@ vibrantmedia.com
 vic-m.co
 vidazoo.com
 videologygroup.com
+videoplayerhub.com
 videoplaza.tv
 videostep.com
 vidible.tv

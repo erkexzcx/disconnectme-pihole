@@ -744,6 +744,7 @@ emerse.com
 emjcd.com
 emxdgt.com
 emxdigital.com
+en25.com
 enecto.com
 engagebdr.com
 engago.com
@@ -904,6 +905,7 @@ gunggo.com
 guoshipartners.com
 gw-ec.com
 gwallet.com
+hadronid.net
 hands.com.br
 harrenmedia.com
 harrenmedianetwork.com
@@ -1016,6 +1018,7 @@ jirbo.com
 jivox.com
 jobthread.com
 joystiq.com
+js7k.com
 jsrdn.com
 juicyads.com
 jumptap.com
@@ -1238,6 +1241,7 @@ nexac.com
 nexage.com
 nextaction.net
 nextag.com
+nextdoor.com
 nextperformance.com
 ninua.com
 noktamedya.com
@@ -1515,6 +1519,7 @@ saymedia.com
 sc-static.net
 scandinavianadnetworks.com
 scanscout.com
+scarabresearch.com
 scribol.com
 scupio.com
 sddan.com
@@ -1794,6 +1799,7 @@ vibrantmedia.com
 vic-m.co
 vidazoo.com
 videologygroup.com
+videoplayerhub.com
 videoplaza.tv
 videostep.com
 vidible.tv

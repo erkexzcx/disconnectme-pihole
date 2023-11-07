@@ -205,6 +205,7 @@ ivwbox.de
 jivosite.com
 js-kit.com
 jwpltx.com
+kampyle.com
 keymetric.net
 kissinsights.com
 kissmetrics.com
@@ -299,6 +300,7 @@ px-cloud.net
 pxlclnmdecom-a.akamaihd.net
 qualaroo.com
 qualtrics.com
+quantummetric.com
 questionmarket.com
 quintelligence.com
 raasnet.com
