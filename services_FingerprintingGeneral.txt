@@ -5,7 +5,6 @@ adbrn.com
 adjust.com
 admeld.com
 admob.com
-adroitinteractive.com
 adserver.com
 adservice.google.ca
 adservice.google.com
@@ -105,7 +104,6 @@ rqtrk.eu
 servedbyopenx.com
 smartlock.google.com
 smartyads.com
-smtad.net
 socital.com
 steelhouse.com
 steelhousemedia.com
@@ -114,7 +112,6 @@ teracent.com
 teracent.net
 thetradedesk.com
 touchclarity.com
-tracksimple.com
 tvpixel.com
 valueclick.com
 valueclick.net
