@@ -6,7 +6,6 @@ adjust.com
 admeld.com
 admob.com
 adserver.com
-adservice.google.ca
 adservice.google.com
 adsrvr.org
 adsymptotic.com
@@ -23,7 +22,6 @@ avantlink.com
 avantmetrics.com
 bkrtx.com
 bluekai.com
-cc-dt.com
 choozle.com
 consumable.com
 conversantmedia.com
@@ -46,7 +44,6 @@ emjcd.com
 everestads.net
 everestjs.net
 everesttech.net
-experian.com
 eyenewton.ru
 facebook.com
 facebook.de

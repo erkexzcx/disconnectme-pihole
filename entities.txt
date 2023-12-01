@@ -4,7 +4,6 @@
 10web.io
 1q2w3.website
 1rx.io
-247realmedia.com
 24smi.net
 2leep.com
 2mdn.net
@@ -405,7 +404,6 @@ apps.fbsbx.com
 appsflyer.com
 appssavvy.com
 aprecision.net
-apture.com
 aquantive.com
 aralego.com
 aroa.io
@@ -422,7 +420,6 @@ atomex.net
 atompark.com
 atoomic.com
 atrinsic.com
-att.com
 attn.tv
 attracta.com
 attracto.com
@@ -519,7 +516,6 @@ blogads.com
 blogcatalog.com
 blogcounter.de
 blogger.com
-blogher.com
 blogherads.com
 bluecava.com
 blueconic.net
@@ -606,7 +602,6 @@ causes.com
 cbox.ws
 cbproads.com
 cbsinteractive.com
-cc-dt.com
 cdn-sitegainer.com
 cdninstagram.com
 cdnma.com
@@ -902,7 +897,6 @@ dl-rms.com
 dlqm.net
 dmpxs.com
 dmtracker.com
-dmtry.com
 dmxleo.com
 do-not-tracker.org
 domdex.com
@@ -969,7 +963,6 @@ engagebdr.com
 engagingnetworks.app
 engago.com
 engineseeker.com
-enquisite.com
 ensighten.com
 entireweb.com
 epicadvertising.com
@@ -1007,7 +1000,6 @@ exelator.com
 exitjunction.com
 exoclick.com
 exosrv.com
-experian.com
 expo-max.com
 exponea.com
 exponential.com
@@ -1067,11 +1059,9 @@ fmpub.net
 fndrsp.net
 followup.cc
 footprintlive.com
-forbes.com
 formalyzer.com
 forwardtomyfriend.com
 fout.jp
-foxnetworks.com
 foxonestop.com
 fpnpmcdn.net
 fqtag.com
@@ -1101,7 +1091,6 @@ fyre.co
 game-advertising-online.com
 games2win.com
 gamned.com
-gannett.com
 gasv1.com
 gaug.es
 gb-world.net
@@ -1383,7 +1372,6 @@ harrenmedianetwork.com
 hashing.win
 hcaptcha.com
 heapanalytics.com
-hearst.com
 heias.com
 helpscout.net
 heronpartners.com.au
@@ -1447,7 +1435,6 @@ impact-ad.jp
 impressiondesk.com
 improvedigital.com
 imrworldwide.com
-inboundwriter.com
 indexww.com
 indieclick.com
 industrybrains.com
@@ -1555,6 +1542,7 @@ kokteyl.com
 komli.com
 konduto.com
 kontera.com
+krushmedia.com
 krux.com
 kruxdigital.com
 krxd.net
@@ -1599,7 +1587,6 @@ list.ru
 listenlayer.com
 listrak.com
 listrakbi.com
-live.com
 livefyre.com
 liveintent.com
 liveinternet.ru
@@ -1615,7 +1602,6 @@ localytics.com
 lockerdome.com
 lockerz.com
 logdy.com
-longboardmedia.com
 longtailvideo.com
 lookery.com
 loomia.com
@@ -1665,7 +1651,6 @@ mandatory.com
 mandrillapp.com
 manifest.ru
 mapixl.com
-mapquest.com
 marchex.com
 marinsm.com
 marketgid.com
@@ -1684,7 +1669,6 @@ matomymarket.com
 maxbounty.com
 maxmind.com
 maxpointinteractive.com
-maxusglobal.com
 maxymiser.com
 mb01.com
 mcafee.com
@@ -1697,7 +1681,6 @@ media.net
 media6degrees.com
 mediabong.com
 mediabrix.com
-mediacom.com
 mediaforge.com
 mediago.io
 mediaiprom.com
@@ -1730,7 +1713,6 @@ mgid.com
 microad.jp
 microsoft.com
 microsoftstore.com
-millennialmedia.com
 mindshare.nl
 mineralt.io
 minescripts.info
@@ -1869,7 +1851,6 @@ montwam.top
 mookie1.com
 moolahmedia.com
 mopub.com
-motigo.com
 mouseflow.com
 mparticle.com
 msads.net
@@ -2000,7 +1981,6 @@ otracking.com
 otto.de
 out-there-media.com
 outbrain.com
-outlook.com
 outrch.com
 outreach.io
 oversee.net
@@ -2112,7 +2092,6 @@ proclivitysystems.com
 programattik.com
 projectwonderful.com
 prometheusintelligencetechnology.com
-pronunciator.com
 propellerads.com
 propelleremail.co.uk
 prosperent.com
@@ -2358,7 +2337,6 @@ smowtion.com
 smrtlnks.com
 smtp2go.com
 smtp2go.net
-snap.com
 snapchat.com
 snapengage.com
 snigelweb.com
@@ -2480,7 +2458,6 @@ thismoment.com
 thrtle.com
 tidaltv.com
 tiktok.com
-tinder.com
 tinyletter.com
 tiqiq.com
 tisoomi.com
@@ -2549,7 +2526,6 @@ turn.com
 turnto.com
 turntonetworks.com
 tvpixel.com
-tweetdeck.com
 tweetmeme.com
 twelvefold.com
 twimg.com
@@ -2639,7 +2615,6 @@ visarity.com
 visbrands.com
 visiblemeasures.com
 visistat.com
-visitorville.com
 visitstreamer.com
 visme.co
 visualdna.com
@@ -2647,7 +2622,6 @@ visualrevenue.com
 visualwebsiteoptimizer.com
 visx.net
 vizisense.net
-vizu.com
 vizury.com
 vk.com
 vkontakte.ru
@@ -2722,7 +2696,6 @@ wowanalytics.co.uk
 wp.com
 wpadmngr.com
 wpncdn.com
-wpp.com
 wrethicap.info
 wsod.com
 wsservices.org
@@ -2796,7 +2769,6 @@ yotpo.com
 youknowbest.com
 youtube-nocookie.com
 youtube.com
-yp.com
 yume.com
 yumenetworks.com
 zadn.vn

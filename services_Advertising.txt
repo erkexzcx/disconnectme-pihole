@@ -1,7 +1,6 @@
 00px.net
 103092804.com
 1rx.io
-247realmedia.com
 2leep.com
 2mdn.net
 2o7.net
@@ -204,7 +203,6 @@ adserver.com
 adserver.yahoo.com
 adserverplus.com
 adserverpub.com
-adservice.google.ca
 adservice.google.com
 adsfac.eu
 adsfac.net
@@ -351,7 +349,6 @@ atemda.com
 atlassolutions.com
 atomex.net
 atrinsic.com
-att.com
 attn.tv
 attracto.com
 atwola.com
@@ -414,7 +411,6 @@ blacklabelads.com
 blismedia.com
 blogads.com
 blogcatalog.com
-blogher.com
 blogherads.com
 bluekai.com
 bluelithium.com
@@ -477,7 +473,6 @@ cart.ro
 carts.guru
 casalemedia.com
 cbproads.com
-cc-dt.com
 cdn-sitegainer.com
 cdnma.com
 cedato.com
@@ -627,7 +622,6 @@ disqusads.com
 districtm.io
 dmpxs.com
 dmtracker.com
-dmtry.com
 dmxleo.com
 domdex.com
 dotomi.com
@@ -702,7 +696,6 @@ exelator.com
 exitjunction.com
 exoclick.com
 exosrv.com
-experian.com
 expo-max.com
 exponential.com
 extend.tv
@@ -739,9 +732,7 @@ flux-cdn.com
 flux.jp
 flytxt.com
 fmpub.net
-forbes.com
 fout.jp
-foxnetworks.com
 foxonestop.com
 fqtag.com
 franecki.net
@@ -759,7 +750,6 @@ fyre.co
 game-advertising-online.com
 games2win.com
 gamned.com
-gannett.com
 gb-world.net
 gemius.com
 gemius.pl
@@ -814,7 +804,6 @@ hadronid.net
 hands.com.br
 harrenmedia.com
 harrenmedianetwork.com
-hearst.com
 heias.com
 heyzap.com
 hi-media.com
@@ -933,6 +922,7 @@ klaviyo.com
 kokteyl.com
 komli.com
 kontera.com
+krushmedia.com
 krux.com
 kruxdigital.com
 krxd.net
@@ -974,7 +964,6 @@ lkqd.net
 localyokelmedia.com
 localytics.com
 lockerdome.com
-longboardmedia.com
 lookery.com
 loomia.com
 loopfuse.net
@@ -1011,7 +1000,6 @@ matomy.com
 matomymarket.com
 maxbounty.com
 maxpointinteractive.com
-maxusglobal.com
 maxymiser.com
 mb01.com
 mc.yandex.md
@@ -1024,7 +1012,6 @@ media.net
 media6degrees.com
 mediabong.com
 mediabrix.com
-mediacom.com
 mediaforge.com
 mediago.io
 mediaiprom.com
@@ -1050,7 +1037,6 @@ mexad.com
 mfadsrvr.com
 mgid.com
 microad.jp
-millennialmedia.com
 mindshare.nl
 minutemedia-prebid.com
 mirando.de
@@ -1361,8 +1347,6 @@ sa-as.com
 sabavision.com
 sabre.com
 sabrehospitality.com
-salesforce.com
-salesforceliveagent.com
 samplicio.us
 samurai-factory.jp
 sapient.com
@@ -1428,7 +1412,6 @@ smi2.ru
 smilewanted.com
 smowtion.com
 smrtlnks.com
-snap.com
 snapchat.com
 snapengage.com
 snigelweb.com
@@ -1519,7 +1502,6 @@ thismoment.com
 thrtle.com
 tidaltv.com
 tiktok.com
-tinder.com
 tiqiq.com
 tisoomi.com
 tk0x1.com
@@ -1634,7 +1616,6 @@ visistat.com
 visualdna.com
 visualrevenue.com
 visx.net
-vizu.com
 vizury.com
 vocento.com
 vocstatic.com
@@ -1670,7 +1651,6 @@ wordstream.com
 wowanalytics.co.uk
 wpadmngr.com
 wpncdn.com
-wpp.com
 wrethicap.info
 wtp101.com
 wunderloop.net
@@ -1713,7 +1693,6 @@ yoc-performance.com
 yoc.com
 yoggrt.com
 youknowbest.com
-yp.com
 ytsa.net
 yume.com
 yumenetworks.com

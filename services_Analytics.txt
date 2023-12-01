@@ -114,7 +114,6 @@ drift.com
 driftt.com
 dwstat.cn
 eloqua.com
-enquisite.com
 eproof.com
 estat.com
 etracker.com
@@ -168,7 +167,6 @@ hs-analytics.net
 hubspot.com
 ibm.com
 iesnare.com
-inboundwriter.com
 infernotions.com
 infonline.de
 infostars.ru
@@ -218,7 +216,6 @@ ml314.com
 mmapiws.com
 mongoosemetrics.com
 monitus.net
-motigo.com
 mouseflow.com
 mparticle.com
 mxpnl.com
@@ -260,7 +257,6 @@ piwik.org
 pixanalytics.com
 polldaddy.com
 postrank.com
-pronunciator.com
 punchtab.com
 px-cdn.net
 px-cloud.net
@@ -281,6 +277,8 @@ rollick.io
 roxr.net
 safecount.net
 sageanalyst.net
+salesforce.com
+salesforceliveagent.com
 scanalert.com
 scorecardresearch.com
 sedotracker.com
@@ -330,7 +328,6 @@ trackset.com
 trafficfacts.com
 truste.com
 turnto.com
-tweetdeck.com
 tweetmeme.com
 ubermedia.com
 umbel.com
@@ -344,7 +341,6 @@ valuedopinions.co.uk
 verticalacuity.com
 vertster.com
 viafoura.co
-visitorville.com
 visitstreamer.com
 visualwebsiteoptimizer.com
 vizisense.net

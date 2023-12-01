@@ -4,7 +4,6 @@ affirm.com
 akamai.com
 amazon.com
 aolcdn.com
-apture.com
 azure.com
 azurefd.net
 bazaarvoice.com
@@ -19,7 +18,6 @@ cloudfront.net
 dynamics.com
 edgesuite.net
 fbcdn.net
-feedburner.com
 flickr.com
 fundraiseup.com
 ggpht.com
@@ -219,20 +217,15 @@ googleapis.com
 googleusercontent.com
 gravatar.com
 gstatic.com
-huffingtonpost.com
 instagram.com
 jwpcdn.com
 kaltura.com
 kinopoisk.ru
-live.com
-mapquest.com
 mcafee.com
 microsoft.com
-moviefone.com
 msn.com
 my.mail.ru
 oracle.com
-outlook.com
 paypal.com
 pinimg.com
 pinterest.com
@@ -242,7 +235,6 @@ shopifysvc.com
 skype.com
 staticflickr.com
 stripe.com
-techcrunch.com
 trumba.com
 tumblr.com
 twitch.tv
