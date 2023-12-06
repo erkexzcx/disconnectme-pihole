@@ -26,6 +26,7 @@ accordantmedia.com
 accuenmedia.com
 acint.net
 acquisio.com
+acsbapp.com
 act-on.com
 actisens.com
 activeconversion.com
@@ -123,6 +124,7 @@ adlantis.jp
 adleadevent.com
 adleave.com
 adlegend.com
+adlightning.com
 adloox.com
 adlooxtracking.com
 adlucent.com
@@ -247,6 +249,7 @@ adultadworld.com
 adultfriendfinder.com
 adultmoda.com
 adv-adserver.com
+advangelists.com
 adventive.com
 adventori.com
 adversal.com
@@ -556,6 +559,7 @@ cpalead.com
 cpmadvisors.com
 cpmatic.com
 cpmstar.com
+cpx.to
 cpxadroit.com
 cpxinteractive.com
 creative-serving.com
@@ -703,6 +707,7 @@ extensionfactory.com
 eyeblaster.com
 eyenewton.ru
 eyeviewdigital.com
+ezodn.com
 facilitatedigital.com
 fairfax.com.au
 fanplayr.com
@@ -819,6 +824,7 @@ horyzon-media.com
 hotmart.com
 hotwords.com
 hotwords.es
+hs-banner.com
 httpool.com
 huntmads.com
 hurra.com
@@ -1025,6 +1031,7 @@ mediashakers.com
 mediatrust.com
 mediavine.com
 mediavoice.com
+mediawallah.com
 medicxmedia.com
 medley.com
 meetic-partners.com
@@ -1116,6 +1123,7 @@ oath.com
 oberon-media.com
 ohana-media.com
 ohanaqb.com
+omappapi.com
 omnicomgroup.com
 omnitagjs.com
 omniture.com
@@ -1282,6 +1290,7 @@ ratevoice.com
 reachlocal.com
 realmedia.com
 realsrv.com
+redditstatic.com
 reduxmedia.com
 reemo-ad.jp
 refersion.com
@@ -1542,6 +1551,7 @@ triggit.com
 triplelift.com
 trkn.us
 trueffect.com
+trustpilot.com
 trustx.org
 trvdp.com
 tsyndicate.com

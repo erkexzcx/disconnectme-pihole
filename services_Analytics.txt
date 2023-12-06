@@ -7,6 +7,7 @@ abmr.net
 abtasty.com
 adap.tv
 addfreestats.com
+adobedc.net
 advombat.ru
 adxyield.com
 adzmath.com
@@ -43,6 +44,7 @@ belstat.fr
 belstat.nl
 betrad.com
 betssonpalantir.com
+bitrix.info
 blaze.com
 blogcounter.de
 bluecava.com
@@ -52,6 +54,7 @@ bmmetrix.com
 boldchat.com
 branica.com
 brightedge.com
+browser-intake-datadoghq.com
 browseranalytic.com
 bubblestat.com
 bufferapp.com
@@ -95,12 +98,15 @@ convert.com
 convertro.com
 conviva.com
 coremetrics.com
+cquotient.com
 crashlytics.com
 crazyegg.com
 crowdscience.com
 cuebiq.com
 curalate.com
 daphnecm.com
+datadoghq-browser-agent.com
+datadoghq.com
 dataium.com
 datasift.com
 demandbase.com
@@ -113,6 +119,7 @@ doubleverify.com
 drift.com
 driftt.com
 dwstat.cn
+dynatrace.com
 eloqua.com
 eproof.com
 estat.com
@@ -120,6 +127,7 @@ etracker.com
 etracker.de
 eulerian.com
 eulerian.net
+evgnet.com
 eviltracker.net
 extreme-dm.com
 extremetracking.com
@@ -167,8 +175,10 @@ hs-analytics.net
 hubspot.com
 ibm.com
 iesnare.com
+igodigital.com
 infernotions.com
 infonline.de
+informer.yandex.ru
 infostars.ru
 inq.com
 inrix.com
@@ -209,9 +219,11 @@ marktest.com
 marktest.pt
 maxmind.com
 mdotlabs.com
+medallia.com
 merkleinc.com
 microsoftstore.com
 mixpanel.com
+mktoresp.com
 ml314.com
 mmapiws.com
 mongoosemetrics.com

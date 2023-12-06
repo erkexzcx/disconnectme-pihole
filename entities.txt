@@ -50,6 +50,7 @@ acint.net
 acmbtrc.com
 acmtrk.com
 acquisio.com
+acsbapp.com
 acsmedia.us
 act-on.com
 actisens.com
@@ -156,6 +157,7 @@ adleadevent.com
 adleave.com
 adlegend.com
 adless.io
+adlightning.com
 adloox.com
 adlooxtracking.com
 adlucent.com
@@ -191,6 +193,7 @@ adnologies.com
 adnxs-simple.com
 adnxs.com
 adobe.com
+adobedc.net
 adocean-global.com
 adocean.pl
 adoftheyear.com
@@ -280,6 +283,7 @@ adultadworld.com
 adultfriendfinder.com
 adultmoda.com
 adv-adserver.com
+advangelists.com
 adventive.com
 adventori.com
 adventure-novels.com
@@ -505,6 +509,7 @@ binlayer.com
 bitcoin-pay.eu
 bitcoinplus.com
 bitmedia.io
+bitrix.info
 bitrix24.com
 bizo.com
 bizographics.com
@@ -551,6 +556,7 @@ brightcove.com
 brightedge.com
 brightroll.com
 brighttag.com
+browser-intake-datadoghq.com
 browser-update.org
 browseranalytic.com
 browsiprod.com
@@ -779,8 +785,10 @@ cpmatic.com
 cpmstar.com
 cpro20.com
 cpro30.com
+cpx.to
 cpxadroit.com
 cpxinteractive.com
+cquotient.com
 crashlytics.com
 crazyegg.com
 createsend1.com
@@ -843,6 +851,8 @@ dada.pro
 daphnecm.com
 dapper.net
 dartsearch.net
+datadoghq-browser-agent.com
+datadoghq.com
 dataium.com
 datamind.ru
 datasift.com
@@ -924,6 +934,7 @@ dwstat.cn
 dynadmic.com
 dynamics.com
 dynata.com
+dynatrace.com
 dyntrk.com
 e-kolay.net
 e-planning.net
@@ -988,6 +999,7 @@ everestads.net
 everestjs.net
 everesttech.net
 evergage.com
+evgnet.com
 eviltracker.net
 evolvemediametrics.com
 ewaydirect.com
@@ -1011,6 +1023,7 @@ eyeblaster.com
 eyenewton.ru
 eyeota.net
 eyeviewdigital.com
+ezodn.com
 ezymarketer.net
 facebook.com
 facebook.de
@@ -1400,6 +1413,7 @@ hotmart.com
 hotwords.com
 hotwords.es
 hs-analytics.net
+hs-banner.com
 hsms06.com
 httpool.com
 hubspot.com
@@ -1427,6 +1441,7 @@ iesnare.com
 ignitad.com
 ignitionone.com
 ignitionone.net
+igodigital.com
 iivt.com
 im-apps.net
 imedia.cz
@@ -1676,6 +1691,7 @@ mdadx.com
 mdotlabs.com
 mdotm.com
 mecglobal.com
+medallia.com
 media-servers.net
 media.net
 media6degrees.com
@@ -1694,6 +1710,7 @@ mediashakers.com
 mediatrust.com
 mediavine.com
 mediavoice.com
+mediawallah.com
 medicxmedia.com
 medley.com
 meebo.com
@@ -1822,6 +1839,7 @@ mkt9775.com
 mkt9862.com
 mkt9923.com
 mkt9942.com
+mktoresp.com
 ml314.com
 mltrk.io
 mmapiws.com
@@ -1931,6 +1949,7 @@ oewa.at
 officelive.com
 ohana-media.com
 ohanaqb.com
+omappapi.com
 omnicomgroup.com
 omnitagjs.com
 omniture.com
@@ -2142,6 +2161,7 @@ realsrv.com
 reauthenticator.com
 recaptcha.net
 reddit.com
+redditstatic.com
 reduxmedia.com
 reedge.com
 reemo-ad.jp
@@ -2513,6 +2533,7 @@ trkn.us
 trueffect.com
 trumba.com
 truste.com
+trustpilot.com
 trustx.org
 trvdp.com
 tsyndicate.com
