@@ -2,7 +2,6 @@
 1-2-1marketing.com
 103092804.com
 10web.io
-1q2w3.website
 1rx.io
 24smi.net
 2leep.com
@@ -68,7 +67,6 @@ acxiomapac.com
 ad-alliance.de
 ad-delivery.net
 ad-maven.com
-ad-miner.com
 ad-score.com
 ad-srv.net
 ad-stir.com
@@ -139,6 +137,7 @@ adiant.com
 adify.com
 adimg.net
 adingo.jp
+adinplay.com
 adinsight.com
 adinsight.eu
 adinterax.com
@@ -353,8 +352,6 @@ akstat.io
 albacross.com
 alexa.com
 alexametrics.com
-alflying.date
-alflying.win
 allstarmediagroup.com
 aloodo.com
 altergeo.ru
@@ -387,7 +384,6 @@ ansira.com
 answerbook.com
 answerscloud.com
 antifraudjs.friends2follow.com
-anybest.site
 aol.com
 aolcdn.com
 aolcloud.net
@@ -404,7 +400,6 @@ applifier.com
 applovin.com
 appmetrx.com
 appnexus.com
-apps.fbsbx.com
 appsflyer.com
 appssavvy.com
 aprecision.net
@@ -412,7 +407,6 @@ aquantive.com
 aralego.com
 aroa.io
 assoc-amazon.com
-aster18cdn.nl
 at-o.net
 atdmt.com
 atedra.com
@@ -421,7 +415,7 @@ atgsvcs.com
 atinternet.com
 atlassolutions.com
 atomex.net
-atompark.com
+atomicpark.email
 atoomic.com
 atrinsic.com
 attn.tv
@@ -481,7 +475,6 @@ beanstockmedia.com
 begun.ru
 behavioralengine.com
 belboon.com
-belicimo.pw
 belstat.be
 belstat.com
 belstat.de
@@ -506,7 +499,6 @@ bidvertiser.com
 bigmir.net
 bing.com
 binlayer.com
-bitcoin-pay.eu
 bitcoinplus.com
 bitmedia.io
 bitrix.info
@@ -534,7 +526,6 @@ bmst.pw
 bnmla.com
 boldchat.com
 boo-box.com
-boomeranggmail.com
 boomtrain.com
 boostbox.com.br
 bounceexchange.com
@@ -711,12 +702,9 @@ cmail8.com
 cmail9.com
 cmcore.com
 cmmeglobal.com
-cnhv.co
 cnzz.com
 cobalt.com
 cognitivlabs.com
-coin-hive.com
-coinhive.com
 coinpot.co
 collarity.com
 collective-media.net
@@ -740,7 +728,6 @@ confiant-integrations.net
 confirmsubscription.com
 connatix.com
 connectad.io
-connectedads.net
 connectif.cloud
 connexity.com
 connexity.net
@@ -836,8 +823,6 @@ crwdcntrl.net
 cryptaloot.pro
 crypto-loot.com
 crypto-webminer.com
-cryptolootminer.com
-csd.io
 csdata1.com
 csdata2.com
 csdata3.com
@@ -884,7 +869,6 @@ dgit.com
 dianomi.com
 did-it.com
 didit.com
-didtheyreadit.com
 digbro.com
 digg.com
 digitaleast.mobi
@@ -894,7 +878,6 @@ digitalwindow.com
 digitize.ie
 digitru.st
 dinclinx.com
-dinorslick.icu
 directadvert.ru
 directresponsegroup.com
 directtrack.com
@@ -937,6 +920,7 @@ dynata.com
 dynatrace.com
 dyntrk.com
 e-kolay.net
+e-mail-servers.com
 e-planning.net
 earnify.com
 ebay.com
@@ -952,10 +936,10 @@ ekolay.net
 eleavers.com
 eloqua.com
 email-messaging.com
+email-signature-image.com
 email81.com
 emailinc.net
 emaillabs.co
-emailtracker.website
 emediate.biz
 emediate.com
 emediate.dk
@@ -986,7 +970,6 @@ esm1.net
 estara.com
 estat.com
 etargetnet.com
-ethpocket.de
 ethtrader.de
 etineria.com
 etracker.com
@@ -1053,14 +1036,9 @@ financialcontent.com
 first-id.fr
 fksnk.com
 flashtalking.com
-flashx.pw
 flattr.com
 flickr.com
-flightsy.bid
-flightsy.win
-flightzy.bid
 flightzy.date
-flightzy.win
 flite.com
 flocktory.com
 fluct.jp
@@ -1082,7 +1060,6 @@ franecki.net
 fraudjs.io
 fraudmetrix.cn
 free-pagerank.com
-freecontent.bid
 freecontent.date
 freecontent.stream
 freeonlineusers.com
@@ -1121,7 +1098,6 @@ getclicky.com
 getglue.com
 getintent.com
 getiton.com
-getnotify.com
 getpolymorph.com
 getrockerbox.com
 getsatisfaction.com
@@ -1143,7 +1119,6 @@ glomex.com
 glotgrx.com
 gmads.net
 gmail.com
-gmelius.com
 gmossp-sp.jp
 gnezdo.ru
 go-mpulse.net
@@ -1363,7 +1338,6 @@ grapeshot.co.uk
 graphenedigitalanalytics.in
 gravatar.com
 greystripe.com
-gridcash.net
 groceryshopping.net
 groovinads.com
 groupm.com
@@ -1650,14 +1624,13 @@ mailbutler.io
 mailcamp.net.pl
 mailcamp.nl
 mailchimp.com
-mailerjet.com
 mailerlite.com
+mailfoogae.appspot.com
 maillist-manage.com
 maillist-manage.com.au
 maillist-manage.eu
 maillist-manage.in
 mailmktool.com
-mailspice.com
 mailstat.us
 mailtag.io
 mailtrack.io
@@ -1713,8 +1686,6 @@ mediavoice.com
 mediawallah.com
 medicxmedia.com
 medley.com
-meebo.com
-meebocdn.net
 meetic-partners.com
 megaindex.ru
 mepirtedic.com
@@ -1731,7 +1702,6 @@ microad.jp
 microsoft.com
 microsoftstore.com
 mindshare.nl
-mineralt.io
 minescripts.info
 minexmr.stream
 minutemedia-prebid.com
@@ -1877,6 +1847,7 @@ multiplestreammktg.com
 mundomedia.com
 mxpnl.com
 mxptint.net
+my-email-signature.link
 myads.com
 mybloglog.com
 mybuys.com
@@ -1920,7 +1891,6 @@ nexage.com
 nextdoor.com
 nextperformance.com
 nhlnka.com
-nhsrv.cf
 nielsen.com
 nofraud.com
 noktamedya.com
@@ -1961,6 +1931,7 @@ oneiota.co.uk
 onesignal.com
 onestat.com
 onetag-sys.com
+onetrust.com
 oneupweb.com
 onevision.com.tw
 online-metrix.net
@@ -2009,13 +1980,13 @@ owneriq.net
 ownpage.fr
 p-advg.com
 p-n.io
+p7cloud.net
 pagefair.com
 pagefair.net
 pages05.net
 paid-to-promote.net
 pampopholf.com
 pantherssl.com
-papayamobile.com
 pardot.com
 parsely.com
 patch.com
@@ -2148,6 +2119,7 @@ quintelligence.com
 quisma.com
 quismatch.com
 quitzon.net
+qwtag.com
 raasnet.com
 radarurl.com
 radiumone.com
@@ -2192,6 +2164,7 @@ retargeter.com
 retirement-living.com
 returnpath.net
 revcontent.com
+revenuegrid.com
 revenuemax.de
 revinet.com
 revjet.com
@@ -2248,7 +2221,6 @@ sailthru.com
 salesforce.com
 salesforceiq.com
 salesforceliveagent.com
-saleshandy.com
 salesloft.com
 salesloftlinks.com
 samplicio.us
@@ -2312,6 +2284,7 @@ shareaholic.com
 shareasale.com
 sharethis.com
 sharethrough.com
+shetrk.com
 shinobi.jp
 shinystat.com
 shopifyapps.com
@@ -2320,7 +2293,6 @@ shopzilla.com
 shorte.st
 shorttailmedia.com
 shoutcast.com
-showlanding.com
 showmeinn.com
 siftscience.com
 signifyd.com
@@ -2345,7 +2317,6 @@ smaato.net
 smartadserver.com
 smartclip.com
 smartclip.net
-smartcloudconnect.io
 smartlook.com
 smartsendy.com
 smartyads.com
@@ -2389,7 +2360,6 @@ sproutinc.com
 sptag3.com
 sputnik.ru
 spylog.com
-sslverify.info
 stable.cz
 stackadapt.com
 stackla.com
@@ -2412,7 +2382,6 @@ stormiq.com
 storygize.com
 storygize.net
 stratigent.com
-streak.com
 streamray.com
 strikead.com
 strikestack.com
@@ -2464,6 +2433,7 @@ telstra.com.au
 tensquare.com
 tercabilis.info
 terra.com.br
+the-ozone-project.com
 theblogfrog.com
 thebrighttag.com
 thecounter.com
@@ -2621,7 +2591,6 @@ videoplaza.tv
 videostep.com
 vidible.tv
 vidoomy.com
-vidzi.tv
 viewablemedia.net
 viewbix.com
 viglink.com
@@ -2719,7 +2688,6 @@ wpadmngr.com
 wpncdn.com
 wrethicap.info
 wsod.com
-wsservices.org
 wtp101.com
 wunderloop.net
 wysistat.com
@@ -2731,8 +2699,6 @@ xaxis.com
 xertivemedia.com
 xfyun.cn
 xg4ken.com
-xgraph.com
-xgraph.net
 xiaoyuanzhao.com
 xiti.com
 xlivrdr.com
@@ -2784,7 +2750,6 @@ ynxs.io
 yoc-performance.com
 yoc.com
 yoggrt.com
-yololike.space
 yoox.it
 yotpo.com
 youknowbest.com
@@ -2811,5 +2776,4 @@ zopim.com
 ztsrv.com
 zumobi.com
 zymerget.bid
-zymerget.faith
 zypmedia.com

@@ -13,7 +13,6 @@ adwords.google.com
 albacross.com
 ansira.com
 appcast.io
-apps.fbsbx.com
 atdmt.com
 atlassolutions.com
 audienceiq.com
@@ -68,7 +67,6 @@ googletagservices.com
 greystripe.com
 hitbox.com
 hotmart.com
-inbox.google.com
 infolinks.com
 invitemedia.com
 justuno.com
@@ -79,7 +77,6 @@ lduhtrp.net
 liftdna.com
 liveramp.com
 lotame.com
-mail.google.com
 mathtag.com
 mediamath.com
 mediaplex.com
@@ -117,7 +114,6 @@ vendemore.com
 vocento.com
 voice.google.com
 vtex.com.br
-wave.google.com
 y-track.com
 yieldmo.com
 ytsa.net
