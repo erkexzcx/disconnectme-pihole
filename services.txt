@@ -1508,11 +1508,9 @@ themig.com
 thesearchagency.com
 thesearchagency.net
 thetradedesk.com
-thewheelof.com
 thinkrealtime.com
 thismoment.com
 thrtle.com
-tidaltv.com
 tiktok.com
 tiqiq.com
 tisoomi.com
@@ -1520,7 +1518,6 @@ tk0x1.com
 tlvmedia.com
 tmogul.com
 tncid.app
-tonefuse.com
 tonemedia.com
 touchclarity.com
 tp88trk.com
@@ -1610,7 +1607,6 @@ vi.ai
 vibrantmedia.com
 vic-m.co
 vidazoo.com
-videologygroup.com
 videoplayerhub.com
 videoplaza.tv
 videostep.com
@@ -2118,7 +2114,6 @@ yabidos.com
 yahoofs.com
 yandex.ua
 yellowtracker.com
-yimg.jp
 yoox.it
 zendesk.com
 zoominfo.com
@@ -2398,6 +2393,7 @@ yandex.net
 yandex.ru
 yandex.st
 yimg.com
+yimg.jp
 youtube-nocookie.com
 youtube.com
 zencdn.net

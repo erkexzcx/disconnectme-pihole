@@ -255,6 +255,7 @@ yandex.net
 yandex.ru
 yandex.st
 yimg.com
+yimg.jp
 youtube-nocookie.com
 youtube.com
 zencdn.net
