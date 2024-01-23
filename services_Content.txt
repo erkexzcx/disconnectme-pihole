@@ -15,6 +15,7 @@ cdninstagram.com
 cloudflare.com
 cloudflarestream.com
 cloudfront.net
+cloudinary.com
 dynamics.com
 edgesuite.net
 fbcdn.net
@@ -217,6 +218,7 @@ googleapis.com
 googleusercontent.com
 gravatar.com
 gstatic.com
+imgix.net
 instagram.com
 jwpcdn.com
 kaltura.com
@@ -225,16 +227,19 @@ mcafee.com
 microsoft.com
 msn.com
 my.mail.ru
+nuance.com
 oracle.com
 paypal.com
 pinimg.com
 pinterest.com
 recaptcha.net
+scene7.com
 shopifyapps.com
 shopifysvc.com
 skype.com
 staticflickr.com
 stripe.com
+techlab-cdn.com
 trumba.com
 tumblr.com
 twitch.tv
