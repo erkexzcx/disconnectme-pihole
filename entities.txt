@@ -327,6 +327,7 @@ adzmath.com
 aerifymedia.com
 aerserv.com
 afdads.com
+affasi.com
 affbuzzads.com
 affec.tv
 affili.net
@@ -356,8 +357,10 @@ airpush.com
 aisleahead.com
 aivalabs.com
 akamai.com
+akamaihd.net
 akstat.io
 albacross.com
+alenty.com
 alexa.com
 alexametrics.com
 allstarmediagroup.com
@@ -569,6 +572,7 @@ browser-intake-datadoghq.com
 browser-update.org
 browseranalytic.com
 browsiprod.com
+brsrvr.com
 btloader.com
 btrll.com
 btstatic.com
@@ -1013,6 +1017,7 @@ esm1.net
 espssl.com
 estara.com
 estat.com
+etarget.eu
 etargetnet.com
 ethtrader.de
 etineria.com
@@ -1404,6 +1409,7 @@ gtopstats.com
 guj.de
 gumgum.com
 guoshipartners.com
+gw-ec.com
 gwallet.com
 hadronid.net
 haloscan.com
@@ -2055,6 +2061,8 @@ openx.org
 openxcdn.net
 openxenterprise.com
 opera.com
+operamediaworks.com
+operasoftware.com
 operationchicken.com
 opinary.com
 opinionbar.com
@@ -2118,6 +2126,7 @@ perfectmarket.com
 perfiliate.com
 performancing.com
 perimeterx.com
+perimeterx.net
 permodo.com
 permutive.app
 permutive.com
@@ -2163,6 +2172,7 @@ polarcdn-pentos.com
 polarcdn-terrax.com
 polarcdn.com
 polarmobile.com
+polen.com.br
 polldaddy.com
 polymail.io
 pontiflex.com
@@ -2226,6 +2236,7 @@ qsstats.com
 qualaroo.com
 qualtrics.com
 quantcast.com
+quantcount.com
 quantserve.com
 quantum-advertising.com
 quantumdex.io
@@ -2491,6 +2502,7 @@ sparechange.io
 sparklit.com
 sparkstudios.com
 specificclick.net
+specificmedia.co.uk
 specificmedia.com
 spectate.com
 speedcurve.com
@@ -2587,6 +2599,8 @@ techsolutions.com.tw
 tellapart.com
 telstra.com.au
 tensquare.com
+teracent.com
+teracent.net
 tercabilis.info
 terra.com.br
 the-ozone-project.com
@@ -2932,6 +2946,7 @@ yotpo.com
 youknowbest.com
 youtube-nocookie.com
 youtube.com
+ytsa.net
 yume.com
 yumenetworks.com
 zadn.vn
