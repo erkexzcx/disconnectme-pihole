@@ -642,6 +642,7 @@ dianomi.com
 did-it.com
 didit.com
 digbro.com
+digiseg.net
 digitaleast.mobi
 digitalriver.com
 digitaltarget.ru
@@ -824,6 +825,7 @@ gimbal.com
 glam.com
 glammedia.com
 gleam.io
+globo.com
 glomex.com
 glotgrx.com
 gmads.net
@@ -1515,6 +1517,7 @@ showmeinn.com
 silverpop.com
 simpli.fi
 singlefeed.com
+singular.net
 sitegainer.com
 sitemeter.com
 sitescout.com
@@ -1538,6 +1541,7 @@ smrtb.com
 smrtlnks.com
 snapchat.com
 snapengage.com
+sng.link
 snigelweb.com
 socdm.com
 sociomantic.com
@@ -1603,7 +1607,9 @@ t.co
 t13.io
 taboola.com
 tacoda.net
+tail.digital
 tailsweep.com
+tailtarget.com
 tap.me
 tapad.com
 tapit.com

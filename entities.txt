@@ -908,6 +908,7 @@ did-it.com
 didit.com
 digbro.com
 digg.com
+digiseg.net
 digitaleast.mobi
 digitalriver.com
 digitaltarget.ru
@@ -1173,6 +1174,7 @@ glammedia.com
 glanceguide.com
 gleam.io
 gliq.com
+globo.com
 glomex.com
 glotgrx.com
 gmads.net
@@ -2451,6 +2453,7 @@ simpleanalyticscdn.com
 simpli.fi
 simply.com
 singlefeed.com
+singular.net
 sitegainer.com
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -2485,6 +2488,7 @@ smtp2go.com
 smtp2go.net
 snapchat.com
 snapengage.com
+sng.link
 snigelweb.com
 snoobi.com
 snplow.net
@@ -2579,7 +2583,9 @@ t.co
 t13.io
 taboola.com
 tacoda.net
+tail.digital
 tailsweep.com
+tailtarget.com
 tap.me
 tapad.com
 tapit.com
