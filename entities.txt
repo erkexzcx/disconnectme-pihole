@@ -2,6 +2,7 @@
 1-2-1marketing.com
 103092804.com
 10web.io
+1dmp.io
 1rx.io
 24smi.net
 2leep.com
@@ -28,6 +29,7 @@
 7a75ebcbd7.com
 8d8.biz
 9c9media.ca
+a-ads.com
 a-mo.net
 a-mx.com
 a2dfp.net
@@ -219,6 +221,7 @@ adpersia.com
 adplan-ds.com
 adpredictive.com
 adprs.net
+adpushup.com
 adrdgt.com
 adreactor.com
 adready.com
@@ -602,6 +605,7 @@ bvmedia.ca
 c1exchange.com
 c3metrics.com
 c3tag.com
+cabnnr.com
 cadreon.com
 callrail.com
 campaign-archive1.com
@@ -794,6 +798,7 @@ convertkit.com
 convertro.com
 conviva.com
 cookiebot.com
+cookieless-data.com
 cootlogix.com
 copper.com
 coremetrics.com
@@ -1136,6 +1141,7 @@ fyber.com
 fyre.co
 game-advertising-online.com
 games2win.com
+gammaplatform.com
 gamned.com
 gasv1.com
 gaug.es
@@ -1152,6 +1158,7 @@ geoedge.be
 gestionpub.com
 getblueshift.com
 getclicky.com
+getelevar.com
 getglue.com
 getintent.com
 getiton.com
@@ -1389,6 +1396,7 @@ googleoptimize.com
 googlesyndication.com
 googletagservices.com
 googleusercontent.com
+googlevideo.com
 gorgias.chat
 gorillanation.com
 gosquared.com
@@ -1422,6 +1430,7 @@ hashing.win
 hcaptcha.com
 heapanalytics.com
 heias.com
+hellobar.com
 helpscout.net
 heronpartners.com.au
 heyzap.com
@@ -1497,6 +1506,7 @@ imiclk.com
 impact-ad.jp
 impactcdn.com
 impactradius-event.com
+impactradius-go.com
 impressiondesk.com
 improvedigital.com
 imrworldwide.com
@@ -1568,6 +1578,7 @@ itch.io
 itisatracker.com
 itsoneiota.com
 ivdopia.com
+ivitrack.com
 ivwbox.de
 ixactcontact.com
 ixs1.net
@@ -1590,7 +1601,10 @@ jumptap.com
 justpremium.com
 justuno.com
 jwpcdn.com
+jwplatform.com
+jwplayer.com
 jwpltx.com
+jwpsrv.com
 k-analytix.com
 kaltura.com
 kameleoon.com
@@ -1736,6 +1750,7 @@ mapixl.com
 marchex.com
 marinsm.com
 marketgid.com
+marketiq.com
 marketo.com
 marketo.net
 markmonitor.com
@@ -1789,6 +1804,7 @@ megaindex.ru
 mepirtedic.com
 mercadopago.com
 mercent.com
+merchant-center-analytics.goog
 merchantadvantage.com
 merkleinc.com
 metadsp.co.uk
@@ -1999,6 +2015,7 @@ nextperformance.com
 nhlnka.com
 nielsen.com
 ninthdecimal.com
+nitropay.com
 nofraud.com
 noibu.com
 noktamedya.com
@@ -2033,6 +2050,7 @@ ohanaqb.com
 ojrq.net
 omappapi.com
 omnicomgroup.com
+omnisnippet1.com
 omnitagjs.com
 omniture.com
 omtrdc.net
@@ -2070,6 +2088,7 @@ opinary.com
 opinionbar.com
 opolen.com.br
 opt.ne.jp
+opti-digital.com
 optify.net
 optim.al
 optimatic.com
@@ -2151,6 +2170,7 @@ pinterest.com
 pippio.com
 piwik.org
 pixanalytics.com
+pixel.ad
 pixel.sg
 pixfuture.com
 piximedia.com
@@ -2231,6 +2251,7 @@ px-cdn.net
 px-cloud.net
 px-eu.dynamicyield.com
 px.dynamicyield.com
+pxf.io
 qksz.com
 qksz.net
 qnsr.com
@@ -2347,6 +2368,7 @@ rtk.io
 rtmark.net
 ru4.com
 rubiconproject.com
+rudderlabs.com
 runads.com
 runadtag.com
 rundsp.com
@@ -2778,6 +2800,7 @@ viafoura.net
 vibrantmedia.com
 vic-m.co
 vidazoo.com
+videoamp.com
 videoplayerhub.com
 videoplaza.tv
 videostep.com
@@ -2868,6 +2891,7 @@ winamp.com
 wingify.com
 wiredminds.com
 wiredminds.de
+wisepops.net
 wishabi.com
 wishabi.net
 wisokykulas.bid

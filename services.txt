@@ -1,5 +1,6 @@
 00px.net
 103092804.com
+1dmp.io
 1rx.io
 2leep.com
 2mdn.net
@@ -18,6 +19,7 @@
 6sc.co
 777seo.com
 7a75ebcbd7.com
+a-ads.com
 a-mo.net
 a-mx.com
 a2dfp.net
@@ -186,6 +188,7 @@ adpersia.com
 adplan-ds.com
 adpredictive.com
 adprs.net
+adpushup.com
 adrdgt.com
 adreactor.com
 adready.com
@@ -483,6 +486,7 @@ bvmedia.ca
 c1exchange.com
 c3metrics.com
 c3tag.com
+cabnnr.com
 cadreon.com
 callrail.com
 campaign-archive1.com
@@ -582,6 +586,7 @@ conversive.nl
 convertglobal.com
 convertkit.com
 cookiebot.com
+cookieless-data.com
 cootlogix.com
 coremotives.com
 coveo.com
@@ -800,6 +805,7 @@ fyber.com
 fyre.co
 game-advertising-online.com
 games2win.com
+gammaplatform.com
 gamned.com
 gb-world.net
 geistm.com
@@ -811,6 +817,7 @@ geniee.co.jp
 geoads.com
 geoedge.be
 gestionpub.com
+getelevar.com
 getglue.com
 getintent.com
 getiton.com
@@ -860,6 +867,7 @@ hands.com.br
 harrenmedia.com
 harrenmedianetwork.com
 heias.com
+hellobar.com
 heyzap.com
 hi-media.com
 hilltopads.com
@@ -910,6 +918,7 @@ imiclk.com
 impact-ad.jp
 impactcdn.com
 impactradius-event.com
+impactradius-go.com
 impressiondesk.com
 improvedigital.com
 imrworldwide.com
@@ -962,6 +971,7 @@ isocket.com
 ispot.tv
 itsoneiota.com
 ivdopia.com
+ivitrack.com
 ixs1.net
 jads.co
 jaroop.com
@@ -1069,6 +1079,7 @@ marchex.com
 marinsm.com
 marketgid.com
 marketingsolutions.yahoo.com
+marketiq.com
 marketo.com
 marketo.net
 martiniadnetwork.com
@@ -1191,6 +1202,7 @@ nextdoor.com
 nextmillmedia.com
 nextperformance.com
 ninthdecimal.com
+nitropay.com
 noktamedya.com
 nonstoppartner.net
 nostringsattached.com
@@ -1213,6 +1225,7 @@ ohanaqb.com
 ojrq.net
 omappapi.com
 omnicomgroup.com
+omnisnippet1.com
 omnitagjs.com
 omniture.com
 omtrdc.net
@@ -1238,6 +1251,7 @@ operationchicken.com
 opinary.com
 opinionbar.com
 opt.ne.jp
+opti-digital.com
 optify.net
 optim.al
 optimatic.com
@@ -1296,6 +1310,7 @@ pictela.com
 pictela.net
 pinpoll.com
 pippio.com
+pixel.ad
 pixel.sg
 pixfuture.com
 piximedia.com
@@ -1364,6 +1379,7 @@ pulsemgr.com
 pulsepoint.com
 px-eu.dynamicyield.com
 px.dynamicyield.com
+pxf.io
 qksz.com
 qksz.net
 qnsr.com
@@ -1454,6 +1470,7 @@ rtk.io
 rtmark.net
 ru4.com
 rubiconproject.com
+rudderlabs.com
 runads.com
 runadtag.com
 rundsp.com
@@ -1750,6 +1767,7 @@ viafoura.net
 vibrantmedia.com
 vic-m.co
 vidazoo.com
+videoamp.com
 videoplayerhub.com
 videoplaza.tv
 videostep.com
@@ -1797,6 +1815,7 @@ widespace.com
 widgetserver.com
 wiredminds.com
 wiredminds.de
+wisepops.net
 wishabi.com
 wishabi.net
 wisokykulas.bid
@@ -2098,6 +2117,7 @@ marktest.pt
 maxmind.com
 mdotlabs.com
 medallia.com
+merchant-center-analytics.goog
 merkleinc.com
 microsoftstore.com
 mixpanel.com
@@ -2534,11 +2554,15 @@ google.vu
 google.ws
 googleapis.com
 googleusercontent.com
+googlevideo.com
 gravatar.com
 gstatic.com
 imgix.net
 instagram.com
 jwpcdn.com
+jwplatform.com
+jwplayer.com
+jwpsrv.com
 kaltura.com
 kinopoisk.ru
 mcafee.com

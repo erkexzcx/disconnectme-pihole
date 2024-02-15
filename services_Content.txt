@@ -216,11 +216,15 @@ google.vu
 google.ws
 googleapis.com
 googleusercontent.com
+googlevideo.com
 gravatar.com
 gstatic.com
 imgix.net
 instagram.com
 jwpcdn.com
+jwplatform.com
+jwplayer.com
+jwpsrv.com
 kaltura.com
 kinopoisk.ru
 mcafee.com
