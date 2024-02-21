@@ -53,7 +53,6 @@ bmmetrix.com
 boldchat.com
 branica.com
 browser-intake-datadoghq.com
-browseranalytic.com
 bubblestat.com
 bufferapp.com
 bugsnag.com
@@ -197,6 +196,9 @@ iocnt.net
 iovation.com
 ipcounter.de
 ipify.org
+ipinfo.io
+ipqualityscore.com
+ipregistry.co
 islay.tech
 itisatracker.com
 ivwbox.de
@@ -208,6 +210,7 @@ kampyle.com
 keymetric.net
 kissinsights.com
 kissmetrics.com
+leadfeeder.com
 lightboxcdn.com
 limelight.com
 linezing.com
@@ -339,6 +342,7 @@ slickstream.com
 smartlook.com
 snoobi.com
 snplow.net
+solarwinds.com
 speedcurve.com
 sputnik.ru
 spylog.com

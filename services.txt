@@ -17,6 +17,7 @@
 51network.com
 600z.com
 6sc.co
+6sense.com
 777seo.com
 7a75ebcbd7.com
 a-ads.com
@@ -675,6 +676,7 @@ doublepimp.com
 doublepositive.com
 dp-dhl.com
 drawbrid.ge
+driveniq.com
 dsmmadvantage.com
 dsnextgen.com
 dsply.com
@@ -814,6 +816,7 @@ gemius.pl
 genesismedia.com
 genesismediaus.com
 geniee.co.jp
+geniusmonkey.com
 geoads.com
 geoedge.be
 gestionpub.com
@@ -997,6 +1000,7 @@ kenshoo.com
 keyade.com
 keywee.co
 keywordmax.com
+kickfire.com
 kissmyads.com
 kitd.com
 kitewheel.com
@@ -1405,6 +1409,7 @@ reachlocal.com
 reaktion.com
 realmedia.com
 realsrv.com
+rebid.co
 rebuyengine.com
 reconditerespect.com
 redditstatic.com
@@ -1516,6 +1521,7 @@ semasio.net
 sendpulse.com
 sensis.com.au
 sensisdata.com.au
+seoptiks.com
 servebom.com
 servedbyopenx.com
 servenobid.com
@@ -1758,6 +1764,7 @@ vendemore.com
 vendio.com
 veoxa.com
 veremedia.com
+versium.com
 vertamedia.com
 verticalhealth.net
 verticalresponse.com
@@ -1938,7 +1945,6 @@ bmmetrix.com
 boldchat.com
 branica.com
 browser-intake-datadoghq.com
-browseranalytic.com
 bubblestat.com
 bufferapp.com
 bugsnag.com
@@ -2082,6 +2088,9 @@ iocnt.net
 iovation.com
 ipcounter.de
 ipify.org
+ipinfo.io
+ipqualityscore.com
+ipregistry.co
 islay.tech
 itisatracker.com
 ivwbox.de
@@ -2093,6 +2102,7 @@ kampyle.com
 keymetric.net
 kissinsights.com
 kissmetrics.com
+leadfeeder.com
 lightboxcdn.com
 limelight.com
 linezing.com
@@ -2224,6 +2234,7 @@ slickstream.com
 smartlook.com
 snoobi.com
 snplow.net
+solarwinds.com
 speedcurve.com
 sputnik.ru
 spylog.com
@@ -2320,6 +2331,7 @@ zoominfo.com
 zopim.com
 adxyield.com
 adzmath.com
+browseranalytic.com
 clean.gg
 clickguard.com
 geetest.com

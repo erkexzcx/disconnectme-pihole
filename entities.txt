@@ -25,6 +25,7 @@
 600z.com
 63squares.com
 6sc.co
+6sense.com
 777seo.com
 7a75ebcbd7.com
 8d8.biz
@@ -950,6 +951,7 @@ dp-dhl.com
 drawbrid.ge
 drift.com
 driftt.com
+driveniq.com
 dsmmadvantage.com
 dsnextgen.com
 dsply.com
@@ -1153,6 +1155,7 @@ gemius.pl
 genesismedia.com
 genesismediaus.com
 geniee.co.jp
+geniusmonkey.com
 geoads.com
 geoedge.be
 gestionpub.com
@@ -1561,9 +1564,12 @@ iovation.com
 ipcounter.de
 iperceptions.com
 ipify.org
+ipinfo.io
 iponweb.com
 iponweb.net
+ipqualityscore.com
 ipredictive.com
+ipregistry.co
 iprom.net
 iprom.si
 ipromote.com
@@ -1619,6 +1625,7 @@ keyade.com
 keymetric.net
 keywee.co
 keywordmax.com
+kickfire.com
 kissinsights.com
 kissmetrics.com
 kissmyads.com
@@ -1646,6 +1653,7 @@ lduhtrp.net
 leadbolt.com
 leadboxer.com
 leadersend.com
+leadfeeder.com
 leadforce1.com
 leadforensics.com
 leadformix.com
@@ -2285,6 +2293,7 @@ reaktion.com
 realmedia.com
 realsrv.com
 reauthenticator.com
+rebid.co
 rebuyengine.com
 recaptcha.net
 reconditerespect.com
@@ -2440,6 +2449,7 @@ sensis.com.au
 sensisdata.com.au
 sentry-cdn.com
 sentry.io
+seoptiks.com
 serv1swork.com
 servebom.com
 servedbyadbutler.com
@@ -2519,6 +2529,7 @@ sociomantic.com
 socital.com
 sodoit.com
 sojern.com
+solarwinds.com
 somoaudience.com
 sonobi.com
 sophus3.com
@@ -2788,6 +2799,7 @@ vendemore.com
 vendio.com
 veoxa.com
 veremedia.com
+versium.com
 vertamedia.com
 verticalacuity.com
 verticalhealth.net
