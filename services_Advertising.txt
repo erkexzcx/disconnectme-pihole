@@ -302,6 +302,7 @@ affbuzzads.com
 affec.tv
 affili.net
 affiliatetracking.com
+affilimate.io
 affilinet-inside.de
 affine.tv
 affinesystems.com
@@ -321,6 +322,7 @@ aivalabs.com
 albacross.com
 alenty.com
 allstarmediagroup.com
+alocdn.com
 aloodo.com
 altergeo.ru
 am.ua
@@ -396,6 +398,7 @@ awio.com
 awltovhc.com
 ayads.co
 b0e8.com
+b2.ai
 backbeatmedia.com
 banner-rotation.com
 bannerbank.ru
@@ -443,6 +446,7 @@ bluestreak.com
 blutrumpet.com
 bnmla.com
 boo-box.com
+bookmsg.com
 boomtrain.com
 boostbox.com.br
 bounceexchange.com
@@ -522,9 +526,12 @@ chitika.net
 chocolateplatform.com
 choicestream.com
 choozle.com
+cityspark.com
 cj.com
 ck-ie.com
 clarium.io
+clearbit.com
+clearbitjs.com
 clearlink.com
 clearsaleing.com
 clearsearchmedia.com
@@ -723,6 +730,7 @@ engineseeker.com
 ensighten.com
 entireweb.com
 epicadvertising.com
+episerver.net
 epsilon.com
 eqads.com
 ero-advertising.com
@@ -753,6 +761,7 @@ expo-max.com
 exponential.com
 extend.tv
 extensionfactory.com
+extole.io
 eyeblaster.com
 eyenewton.ru
 eyeviewdigital.com
@@ -870,6 +879,7 @@ harrenmedia.com
 harrenmedianetwork.com
 heias.com
 hellobar.com
+hextom.com
 heyzap.com
 hi-media.com
 hilltopads.com
@@ -892,6 +902,7 @@ hscollectedforms.net
 hsforms.com
 hsleadflows.net
 htlbid.com
+htplayground.com
 httpool.com
 hubapi.com
 huntmads.com
@@ -1017,6 +1028,7 @@ ktkjmp.com
 kueezrtb.com
 ladsp.com
 lakana.com
+lasso.link
 layer-ads.net
 lduhtrp.net
 leadbolt.com
@@ -1358,6 +1370,7 @@ pressflex.com
 pricegrabber.com
 primevisibility.com
 primis.tech
+privacy-center.org
 privacymanager.io
 prmutv.co
 pro-market.net
@@ -1500,6 +1513,7 @@ scanscout.com
 scarabresearch.com
 scribol.com
 scupio.com
+sda.fyi
 sddan.com
 seadform.net
 searchforce.com
@@ -1507,6 +1521,7 @@ searchforce.net
 searchignite.com
 searchmarketing.com
 searchserverapi.com
+searchspring.io
 securedvisit.com
 seedtag.com
 seevast.com
@@ -1518,6 +1533,7 @@ semantiqo.com
 semasio.com
 semasio.net
 sendpulse.com
+sendtonews.com
 sensis.com.au
 sensisdata.com.au
 seoptiks.com
@@ -1833,6 +1849,7 @@ wpadmngr.com
 wpncdn.com
 wrethicap.info
 wtp101.com
+wunderkind.co
 wunderloop.net
 xa.net
 xad.com

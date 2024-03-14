@@ -336,6 +336,7 @@ affbuzzads.com
 affec.tv
 affili.net
 affiliatetracking.com
+affilimate.io
 affilinet-inside.de
 affine.tv
 affinesystems.com
@@ -368,6 +369,7 @@ alenty.com
 alexa.com
 alexametrics.com
 allstarmediagroup.com
+alocdn.com
 aloodo.com
 altergeo.ru
 am.ua
@@ -448,6 +450,7 @@ audienceinsights.net
 audienceiq.com
 audiencemanager.de
 audiencescience.com
+audioeye.com
 auditedmedia.com
 auditude.com
 audrte.com
@@ -475,6 +478,7 @@ ayads.co
 azure.com
 azurefd.net
 b0e8.com
+b2.ai
 backbeatmedia.com
 baidu.com
 bandzoogle.com
@@ -549,6 +553,7 @@ bmst.pw
 bnmla.com
 boldchat.com
 boo-box.com
+bookmsg.com
 boomtrain.com
 boostbox.com.br
 bounceexchange.com
@@ -615,6 +620,7 @@ campaignmonitor.com
 cams.com
 capitalaudience.com
 capitaldata.fr
+captcha-delivery.com
 carambo.la
 caraytech.com.ar
 carbonads.com
@@ -656,11 +662,14 @@ chocolateplatform.com
 choicestream.com
 choozle.com
 cirrusinsight.com
+cityspark.com
 cj.com
 ck-ie.com
 clarity.ms
 clarium.io
 clean.gg
+clearbit.com
+clearbitjs.com
 clearlink.com
 clearsaleing.com
 clearsearchmedia.com
@@ -881,6 +890,7 @@ dartsearch.net
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+datadome.co
 dataium.com
 datamind.ru
 datasift.com
@@ -1016,6 +1026,7 @@ engineseeker.com
 ensighten.com
 entireweb.com
 epicadvertising.com
+episerver.net
 eproof.com
 epsilon.com
 eqads.com
@@ -1058,6 +1069,7 @@ exponea.com
 exponential.com
 extend.tv
 extensionfactory.com
+extole.io
 extreme-dm.com
 extremetracking.com
 eyeblaster.com
@@ -1134,6 +1146,7 @@ frontapp.com
 ftjcfx.com
 fullstory.com
 fulltango.com
+funcaptcha.com
 fundraiseup.com
 fuseplatform.net
 futureads.com
@@ -1436,6 +1449,7 @@ heias.com
 hellobar.com
 helpscout.net
 heronpartners.com.au
+hextom.com
 heyzap.com
 hi-media.com
 hilltopads.com
@@ -1472,6 +1486,7 @@ hsforms.net
 hsleadflows.net
 hsms06.com
 htlbid.com
+htplayground.com
 httpool.com
 hubapi.com
 hubspot.com
@@ -1647,6 +1662,7 @@ kueezrtb.com
 ladsp.com
 lahar.com.br
 lakana.com
+lasso.link
 lassocrm.com
 layer-ads.net
 lduhtrp.net
@@ -2227,6 +2243,7 @@ pressflex.com
 pricegrabber.com
 primevisibility.com
 primis.tech
+privacy-center.org
 privacy-mgmt.com
 privacymanager.io
 prmutv.co
@@ -2415,6 +2432,7 @@ scene7.com
 scorecardresearch.com
 scribol.com
 scupio.com
+sda.fyi
 sddan.com
 seadform.net
 searchforce.com
@@ -2422,6 +2440,7 @@ searchforce.net
 searchignite.com
 searchmarketing.com
 searchserverapi.com
+searchspring.io
 securedvisit.com
 sedotracker.com
 sedotracker.de
@@ -2444,6 +2463,7 @@ sendgrid.net
 sendiio.app
 sendpul.se
 sendpulse.com
+sendtonews.com
 sensic.net
 sensis.com.au
 sensisdata.com.au
@@ -2470,6 +2490,7 @@ sharethrough.com
 shetrk.com
 shinobi.jp
 shinystat.com
+shop.app
 shop.pe
 shopifyapps.com
 shopifysvc.com
@@ -2921,6 +2942,7 @@ wpncdn.com
 wrethicap.info
 wsod.com
 wtp101.com
+wunderkind.co
 wunderloop.net
 wysistat.com
 xa.net

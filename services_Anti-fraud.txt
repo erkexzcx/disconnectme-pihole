@@ -1,8 +1,11 @@
 adxyield.com
 adzmath.com
 browseranalytic.com
+captcha-delivery.com
 clean.gg
 clickguard.com
+datadome.co
+funcaptcha.com
 geetest.com
 hcaptcha.com
 nofraud.com
