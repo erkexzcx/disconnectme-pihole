@@ -1,7 +1,6 @@
 5min.com
 adobe.com
 affirm.com
-akamai.com
 amazon.com
 aolcdn.com
 azure.com
@@ -17,7 +16,6 @@ cloudflarestream.com
 cloudfront.net
 cloudinary.com
 dynamics.com
-edgesuite.net
 fbcdn.net
 flickr.com
 fundraiseup.com
