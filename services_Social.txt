@@ -48,4 +48,5 @@ vk.com
 vkontakte.ru
 voice.google.com
 webmessenger.yahoo.com
+x.com
 ymail.com
