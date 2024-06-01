@@ -1796,7 +1796,6 @@ searchforce.net
 searchignite.com
 searchmarketing.com
 searchserverapi.com
-searchspring.io
 secretturtle.com
 securedvisit.com
 seedtag.com
@@ -2982,6 +2981,7 @@ pinimg.com
 pinterest.com
 recaptcha.net
 scene7.com
+searchspring.io
 shop.app
 shopifyapps.com
 shopifysvc.com
