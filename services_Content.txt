@@ -232,6 +232,7 @@ msn.com
 my.mail.ru
 nuance.com
 oracle.com
+org.coveo.com
 paypal.com
 pinimg.com
 pinterest.com
@@ -242,6 +243,7 @@ shop.app
 shopifyapps.com
 shopifysvc.com
 skype.com
+static.cloud.coveo.com
 staticflickr.com
 stripe.com
 techlab-cdn.com

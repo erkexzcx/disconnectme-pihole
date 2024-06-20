@@ -357,6 +357,18 @@ amigos.com
 amobee.com
 ampxchange.com
 an.yandex.ru
+analytics-au.cloud.coveo.com
+analytics-ca.cloud.coveo.com
+analytics-eu.cloud.coveo.com
+analytics.cloud.coveo.com
+analytics.org.coveo.com
+analytics.orgdev.coveo.com
+analytics.orghipaa.coveo.com
+analytics.orgstg.coveo.com
+analyticsdev-eu.cloud.coveo.com
+analyticsdev.cloud.coveo.com
+analyticshipaa.cloud.coveo.com
+analyticsstg.cloud.coveo.com
 ancientact.com
 andbeyond.media
 aniview.com
@@ -677,7 +689,6 @@ cootlogix.com
 copycarpenter.com
 coremotives.com
 courageousbaby.com
-coveo.com
 coxdigitalsolutions.com
 cozyhillside.com
 cpalead.com
@@ -1550,7 +1561,9 @@ pjatr.com
 pjtra.com
 placidperson.com
 planebasin.com
+platform-eu.cloud.coveo.com
 platform-one.co.jp
+platform.cloud.coveo.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -2114,6 +2127,9 @@ up-value.de
 uplynk.com
 upsellit.com
 urtbk.com
+usageanalytics.coveo.com
+usageanalyticsdev.coveo.com
+usageanalyticshipaa.coveo.com
 usebutton.com
 uselesslumber.com
 usemax.de
@@ -2975,6 +2991,7 @@ msn.com
 my.mail.ru
 nuance.com
 oracle.com
+org.coveo.com
 paypal.com
 pinimg.com
 pinterest.com
@@ -2985,6 +3002,7 @@ shop.app
 shopifyapps.com
 shopifysvc.com
 skype.com
+static.cloud.coveo.com
 staticflickr.com
 stripe.com
 techlab-cdn.com
