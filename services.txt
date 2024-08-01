@@ -683,7 +683,6 @@ conversionruler.com
 conversive.nl
 convertglobal.com
 convertkit.com
-cookiebot.com
 cookieless-data.com
 cootlogix.com
 copycarpenter.com
@@ -2757,6 +2756,8 @@ signifyd.com
 simility.com
 stripe.network
 whiteops.com
+cookiebot.com
+cookiebot.eu
 5min.com
 adobe.com
 affirm.com
