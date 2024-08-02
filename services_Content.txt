@@ -2,6 +2,7 @@
 adobe.com
 affirm.com
 amazon.com
+anyclip.com
 aolcdn.com
 azure.com
 azurefd.net

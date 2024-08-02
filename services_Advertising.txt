@@ -291,6 +291,7 @@ adworx.at
 adworx.be
 adworx.nl
 adx1.com
+adxbid.info
 adxcel-ec2.com
 adxpansion.com
 adxpose.com
@@ -474,6 +475,7 @@ bidsystem.com
 bidtellect.com
 bidtheatre.com
 bidvertiser.com
+bigcrunch.com
 bigmir.net
 bikesboard.com
 billowybelief.com
@@ -1416,6 +1418,7 @@ netelixir.com
 netflame.cc
 netmining.com
 netmng.com
+netpub.media
 netseer.com
 netshelter.com
 netshelter.net
@@ -1522,6 +1525,7 @@ paid-to-promote.net
 pailpatch.com
 pamelarandom.com
 panoramicplane.com
+papayads.net
 partplanes.com
 passivepolo.com
 patch.com
@@ -1552,6 +1556,7 @@ pictela.net
 pinpoll.com
 pippio.com
 pixel.ad
+pixel.anyclip.com
 pixel.sg
 pixfuture.com
 piximedia.com
@@ -2184,6 +2189,7 @@ visualdna.com
 visualrevenue.com
 visx.net
 vizury.com
+vlitag.com
 vocento.com
 vocstatic.com
 volatileprofit.com

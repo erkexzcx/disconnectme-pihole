@@ -291,6 +291,7 @@ adworx.at
 adworx.be
 adworx.nl
 adx1.com
+adxbid.info
 adxcel-ec2.com
 adxpansion.com
 adxpose.com
@@ -474,6 +475,7 @@ bidsystem.com
 bidtellect.com
 bidtheatre.com
 bidvertiser.com
+bigcrunch.com
 bigmir.net
 bikesboard.com
 billowybelief.com
@@ -1416,6 +1418,7 @@ netelixir.com
 netflame.cc
 netmining.com
 netmng.com
+netpub.media
 netseer.com
 netshelter.com
 netshelter.net
@@ -1522,6 +1525,7 @@ paid-to-promote.net
 pailpatch.com
 pamelarandom.com
 panoramicplane.com
+papayads.net
 partplanes.com
 passivepolo.com
 patch.com
@@ -1552,6 +1556,7 @@ pictela.net
 pinpoll.com
 pippio.com
 pixel.ad
+pixel.anyclip.com
 pixel.sg
 pixfuture.com
 piximedia.com
@@ -2184,6 +2189,7 @@ visualdna.com
 visualrevenue.com
 visx.net
 vizury.com
+vlitag.com
 vocento.com
 vocstatic.com
 volatileprofit.com
@@ -2316,6 +2322,7 @@ amazingcounters.com
 amocrm.ru
 amplitude.com
 amung.us
+analytics.google.com
 analytics.yahoo.com
 anormal-media.de
 anormal-tracker.de
@@ -2331,6 +2338,7 @@ audienceinsights.net
 audioeye.com
 autoblog.com
 axf8.net
+b3mxnuvcer.com
 baidu.com
 bdstatic.com
 behavioralengine.com
@@ -2394,6 +2402,7 @@ convert.com
 convertexperiments.com
 convertro.com
 conviva.com
+cookielaw.org
 coremetrics.com
 cquotient.com
 crashlytics.com
@@ -2555,6 +2564,7 @@ netapplications.com
 newrelic.com
 newsinc.com
 nielsen.com
+nocodelytics.com
 nofraud.com
 noibu.com
 notolytix.com
@@ -2616,6 +2626,7 @@ safecount.net
 sageanalyst.net
 salesforce.com
 salesforceliveagent.com
+sardine.ai
 scanalert.com
 scorecardresearch.com
 sedotracker.com
@@ -2762,6 +2773,7 @@ cookiebot.eu
 adobe.com
 affirm.com
 amazon.com
+anyclip.com
 aolcdn.com
 azure.com
 azurefd.net
@@ -3775,6 +3787,7 @@ reichelcormier.bid
 revoffers.com
 rollick.io
 rsz.sk
+sardine.ai
 selectablemedia.com
 semantiqo.com
 sendpulse.com
