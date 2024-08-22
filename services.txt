@@ -664,6 +664,7 @@ condemnedcomb.com
 conditioncrush.com
 confesschairs.com
 confiant-integrations.net
+config-cdn.ksearchnet.com
 connatix.com
 connectad.io
 connexity.com
@@ -1162,6 +1163,8 @@ iprom.net
 iprom.si
 ipromote.com
 iprospect.com
+ipv4check.ksearchnet.com
+ipv6check.ksearchnet.com
 iqzone.com
 ismatlab.com
 isocket.com
@@ -1202,7 +1205,7 @@ kitd.com
 kitewheel.com
 klarnaservices.com
 klaviyo.com
-klevu.com
+klavyio.klevu.com
 knottyswing.com
 kokteyl.com
 komli.com
@@ -1374,6 +1377,8 @@ mobiletheory.com
 mobsmith.com
 mochila.com
 modularmental.com
+moi-ai.ksearchnet.com
+moicustomizations.klevu.com
 moikrug.ru
 mojiva.com
 monetate.com
@@ -1607,6 +1612,7 @@ powerlinks.com
 ppcprotect.com
 ppctracking.net
 ppjol.net
+pqa-analytics.service.ksearchnet.com
 precisionclick.com
 predictad.com
 prepareplanes.com
@@ -1939,6 +1945,9 @@ stalesummer.com
 stamped.io
 stargamesaffiliate.com
 statistics.ro
+stats.klevu.com
+stats.ksearchnet.com
+statsjs.klevu.com
 steadfastseat.com
 steadfastsystem.com
 stealsteel.com
@@ -2185,6 +2194,7 @@ visarity.com
 visbrands.com
 visiblemeasures.com
 visistat.com
+visitor.service.ksearchnet.com
 visualdna.com
 visualrevenue.com
 visx.net
@@ -2298,7 +2308,9 @@ zemanta.com
 zeotap.com
 zestycrime.com
 zincx.com
+zjs.klevu.com
 zlp6s.pw
+zstats.klevu.com
 zumobi.com
 zypmedia.com
 3dstats.com
