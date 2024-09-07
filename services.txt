@@ -2614,7 +2614,6 @@ piwik.org
 pixanalytics.com
 polldaddy.com
 postrank.com
-privacy-mgmt.com
 punchtab.com
 px-cdn.net
 px-cloud.net
@@ -2674,7 +2673,6 @@ statistik-gallup.net
 statsit.com
 storeland.ru
 stratigent.com
-summerhamster.com
 svlu.net
 swymrelay.com
 synacor.com
@@ -2781,6 +2779,8 @@ stripe.network
 whiteops.com
 cookiebot.com
 cookiebot.eu
+privacy-mgmt.com
+summerhamster.com
 5min.com
 adobe.com
 affirm.com
