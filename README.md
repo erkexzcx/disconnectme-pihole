@@ -15,15 +15,15 @@ If you want to customize **services.txt** file, use below blocklists instead (*i
 ```
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_EmailAggressive.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Cryptomining.txt
-https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Social.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Advertising.txt
-https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Content.txt
-https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Email.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_ConsentManagers.txt
-https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt
-https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Social.txt
 https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Anti-fraud.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Content.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt
 ```
 
 **Source**: https://github.com/disconnectme/disconnect-tracking-protection
