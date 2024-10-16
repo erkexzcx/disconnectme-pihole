@@ -1507,7 +1507,6 @@ orangesoda.com
 orbengine.com
 oridian.com
 origo.hu
-osano.com
 otm-r.com
 otracking.com
 otto.de
@@ -2779,6 +2778,7 @@ stripe.network
 whiteops.com
 cookiebot.com
 cookiebot.eu
+osano.com
 privacy-mgmt.com
 summerhamster.com
 5min.com
