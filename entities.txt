@@ -117,6 +117,7 @@ addfreestats.com
 addthis.com
 addthiscdn.com
 addthisedge.com
+addtoany.com
 addvantagemedia.com
 addynamix.com
 addynamo.com
@@ -367,6 +368,7 @@ agreeabletouch.com
 aheadday.com
 aidata.io
 aidata.me
+aidemsrv.com
 aim4media.com
 aimatch.com
 airpr.com
@@ -700,6 +702,7 @@ ccgateway.net
 cdn-sitegainer.com
 cdninstagram.com
 cdnma.com
+cdnsnapwidget.com
 cdnwidget.com
 ceciliavenus.com
 cedato.com
@@ -730,6 +733,7 @@ chitika.net
 chocolateplatform.com
 choicestream.com
 choozle.com
+cintnetworks.com
 circlelevel.com
 cirrusinsight.com
 cityspark.com
@@ -1089,6 +1093,7 @@ durchsichtig.xyz
 dustydime.com
 dwin1.com
 dwstat.cn
+dxkulture.com
 dynadmic.com
 dynamics.com
 dynata.com
@@ -1163,6 +1168,7 @@ etracker.com
 etracker.de
 etrigue.com
 eu-1-id5-sync.com
+euid.eu
 eulerian.com
 eulerian.net
 euroclick.com
@@ -1668,6 +1674,7 @@ hurra.com
 hybrid.ai
 hystericalcloth.com
 i-behavior.com
+i-mobile.co.jp
 i.ua
 iac.com
 iasds01.com
@@ -1688,6 +1695,7 @@ ignitionone.com
 ignitionone.net
 igodigital.com
 iivt.com
+illumin.com
 im-apps.net
 imdb.com
 imedia.cz
@@ -1764,6 +1772,7 @@ iprom.net
 iprom.si
 ipromote.com
 iprospect.com
+iqm.com
 iqzone.com
 islay.tech
 ismatlab.com
@@ -1925,6 +1934,7 @@ luckyorange.com
 luckyorange.net
 ludicrousarch.com
 lumpylumber.com
+lunamedia.live
 lunchroomlock.com
 lynchpin.com
 lypn.com
@@ -2256,6 +2266,7 @@ noibu.com
 noktamedya.com
 nondescriptnote.com
 nonstoppartner.net
+nordicdataresources.net
 nostalgicneed.com
 nostringsattached.com
 notolytix.com
@@ -2310,6 +2321,7 @@ onnetwork.tv
 onthe.io
 ooyala.com
 opecloud.com
+open-adsyield.com
 openeducat.org
 openfpcdn.io
 openstat.ru
@@ -2340,8 +2352,10 @@ optnmstr.com
 oracle.com
 orangesoda.com
 orbengine.com
+orbsrv.com
 oridian.com
 origo.hu
+ortb.net
 osano.com
 otm-r.com
 otracking.com
@@ -2366,6 +2380,7 @@ paid-to-promote.net
 pailpatch.com
 pamelarandom.com
 pampopholf.com
+pangle-ads.com
 panoramicplane.com
 pantherssl.com
 papayads.net
@@ -2457,6 +2472,7 @@ pontiflex.com
 pop6.com
 popads.net
 popadscdn.net
+popcash.net
 popin.cc
 poprule.com
 popularmedia.com
@@ -2654,6 +2670,7 @@ rqtrk.eu
 rs6.net
 rsz.sk
 rtactivate.com
+rtb.mx
 rtbhouse.com
 rtbidder.net
 rtbsystem.com
@@ -2671,6 +2688,7 @@ rutarget.ru
 ruthlessdegree.com
 s-onetag.com
 sa-as.com
+saambaa.com
 sabavision.com
 sabre.com
 sabrehospitality.com
@@ -2845,6 +2863,7 @@ smtp2go.com
 smtp2go.net
 snapchat.com
 snapengage.com
+snapwidget.com
 sng.link
 snigelweb.com
 snoobi.com
@@ -2941,6 +2960,7 @@ stripe.network
 stripst.com
 strivesidewalk.com
 strokesystem.com
+strpst.com
 struq.com
 stumble-upon.com
 stumbleupon.com
@@ -2954,6 +2974,7 @@ sulkycook.com
 summerhamster.com
 summitmedia.co.uk
 sumo.com
+sumome.com
 sundaysky.com
 sunmedia.tv
 superficialspring.com
@@ -3028,6 +3049,7 @@ thoughtlessknot.com
 threetruck.com
 thrtle.com
 tiktok.com
+tiktokv.us
 tinyletter.com
 tinypass.com
 tiqiq.com
@@ -3101,6 +3123,7 @@ trustx.org
 trvdp.com
 tsyndicate.com
 ttarget.ru
+ttvnw.net
 tubemogul.com
 tulip18.com
 tumbleicicle.com
@@ -3151,6 +3174,7 @@ unwieldyimpulse.com
 unwieldyplastic.com
 up-value.de
 uplynk.com
+upravel.com
 upsellit.com
 uptrends.com
 urtbk.com
@@ -3375,6 +3399,7 @@ yieldbuild.com
 yieldify.com
 yieldlab.de
 yieldlab.net
+yieldlove-ad-serving.net
 yieldmanager.com
 yieldmanager.net
 yieldmo.com
@@ -3402,6 +3427,7 @@ zanox-affiliate.de
 zanox.com
 zaparena.com
 zatnoh.com
+zdassets.com
 zedo.com
 zemanta.com
 zencdn.net
@@ -3415,6 +3441,7 @@ zlp6s.pw
 zoominfo.com
 zopim.com
 ztsrv.com
+zucks.net
 zumobi.com
 zymerget.bid
 zypmedia.com

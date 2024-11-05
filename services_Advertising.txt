@@ -86,6 +86,7 @@ adcolony.com
 adconion.com
 adconnexa.com
 addecisive.com
+addtoany.com
 addvantagemedia.com
 addynamix.com
 addynamo.com
@@ -326,6 +327,7 @@ agkn.com
 agreeabletouch.com
 aheadday.com
 aidata.io
+aidemsrv.com
 aim4media.com
 aimatch.com
 airpr.com
@@ -583,6 +585,7 @@ cbproads.com
 ccgateway.net
 cdn-sitegainer.com
 cdnma.com
+cdnsnapwidget.com
 ceciliavenus.com
 cedato.com
 celestialspectra.com
@@ -606,6 +609,7 @@ chitika.net
 chocolateplatform.com
 choicestream.com
 choozle.com
+cintnetworks.com
 circlelevel.com
 cityspark.com
 cj.com
@@ -818,6 +822,7 @@ durationmedia.net
 durchsichtig.xyz
 dustydime.com
 dwin1.com
+dxkulture.com
 dynadmic.com
 dynata.com
 dyntrk.com
@@ -872,6 +877,7 @@ ethereallagoon.com
 etineria.com
 etrigue.com
 eu-1-id5-sync.com
+euid.eu
 euroclick.com
 eventexistence.com
 everestads.net
@@ -1091,6 +1097,7 @@ hurra.com
 hybrid.ai
 hystericalcloth.com
 i-behavior.com
+i-mobile.co.jp
 i.ua
 iac.com
 iasds01.com
@@ -1107,6 +1114,7 @@ ignitad.com
 ignitionone.com
 ignitionone.net
 iivt.com
+illumin.com
 im-apps.net
 imdb.com
 impact-ad.jp
@@ -1165,6 +1173,7 @@ ipromote.com
 iprospect.com
 ipv4check.ksearchnet.com
 ipv6check.ksearchnet.com
+iqm.com
 iqzone.com
 ismatlab.com
 isocket.com
@@ -1278,6 +1287,7 @@ lqcdn.com
 lucidmedia.com
 ludicrousarch.com
 lumpylumber.com
+lunamedia.live
 lunchroomlock.com
 lytiks.com
 lzjl.com
@@ -1444,6 +1454,7 @@ nitropay.com
 noktamedya.com
 nondescriptnote.com
 nonstoppartner.net
+nordicdataresources.net
 nostalgicneed.com
 nostringsattached.com
 nowspots.com
@@ -1481,6 +1492,7 @@ onevision.com.tw
 online-metrix.net
 onnetwork.tv
 opecloud.com
+open-adsyield.com
 openx.com
 openx.net
 openx.org
@@ -1505,8 +1517,10 @@ optmd.com
 optnmstr.com
 orangesoda.com
 orbengine.com
+orbsrv.com
 oridian.com
 origo.hu
+ortb.net
 otm-r.com
 otracking.com
 otto.de
@@ -1528,6 +1542,7 @@ pages05.net
 paid-to-promote.net
 pailpatch.com
 pamelarandom.com
+pangle-ads.com
 panoramicplane.com
 papayads.net
 partplanes.com
@@ -1599,6 +1614,7 @@ pontiflex.com
 pop6.com
 popads.net
 popadscdn.net
+popcash.net
 popin.cc
 poprule.com
 popularmedia.com
@@ -1762,6 +1778,7 @@ rovion.com
 rqtrk.eu
 rsz.sk
 rtactivate.com
+rtb.mx
 rtbhouse.com
 rtbidder.net
 rtbsystem.com
@@ -1779,6 +1796,7 @@ rutarget.ru
 ruthlessdegree.com
 s-onetag.com
 sa-as.com
+saambaa.com
 sabavision.com
 sabre.com
 sabrehospitality.com
@@ -1896,6 +1914,7 @@ smrtb.com
 smrtlnks.com
 snapchat.com
 snapengage.com
+snapwidget.com
 sng.link
 snigelweb.com
 socdm.com
@@ -1971,9 +1990,11 @@ stretchsister.com
 stretchsquirrel.com
 strikead.com
 stripchat.com
+stripe.network
 stripst.com
 strivesidewalk.com
 strokesystem.com
+strpst.com
 struq.com
 stupendoussnow.com
 stupidscene.com
@@ -1983,6 +2004,7 @@ suite66.com
 sulkycook.com
 summitmedia.co.uk
 sumo.com
+sumome.com
 sundaysky.com
 sunmedia.tv
 superficialspring.com
@@ -2045,6 +2067,7 @@ thoughtlessknot.com
 threetruck.com
 thrtle.com
 tiktok.com
+tiktokv.us
 tiqiq.com
 tiresomethunder.com
 tisoomi.com
@@ -2137,6 +2160,7 @@ unwieldyimpulse.com
 unwieldyplastic.com
 up-value.de
 uplynk.com
+upravel.com
 upsellit.com
 urtbk.com
 usageanalytics.coveo.com
@@ -2282,6 +2306,7 @@ yieldbuild.com
 yieldify.com
 yieldlab.de
 yieldlab.net
+yieldlove-ad-serving.net
 yieldmanager.com
 yieldmanager.net
 yieldmo.com
@@ -2310,5 +2335,6 @@ zincx.com
 zjs.klevu.com
 zlp6s.pw
 zstats.klevu.com
+zucks.net
 zumobi.com
 zypmedia.com
