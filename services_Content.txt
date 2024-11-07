@@ -237,6 +237,7 @@ org.coveo.com
 paypal.com
 pinimg.com
 pinterest.com
+platform.cloud.coveo.com
 recaptcha.net
 scene7.com
 searchspring.io

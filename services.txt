@@ -1586,7 +1586,6 @@ placidperson.com
 planebasin.com
 platform-eu.cloud.coveo.com
 platform-one.co.jp
-platform.cloud.coveo.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -3046,6 +3045,7 @@ org.coveo.com
 paypal.com
 pinimg.com
 pinterest.com
+platform.cloud.coveo.com
 recaptcha.net
 scene7.com
 searchspring.io
