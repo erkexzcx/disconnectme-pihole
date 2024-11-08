@@ -2628,7 +2628,6 @@ pdst.fm
 peerius.com
 pendo.io
 perfdrive.com
-perimeterx.net
 persianstat.com
 phonalytics.com
 phpmyvisites.us
@@ -2639,8 +2638,6 @@ pixanalytics.com
 polldaddy.com
 postrank.com
 punchtab.com
-px-cdn.net
-px-cloud.net
 pxlclnmdecom-a.akamaihd.net
 qualaroo.com
 qualtrics.com
@@ -2793,6 +2790,7 @@ hcaptcha.com
 nofraud.com
 notolytix.com
 perimeterx.com
+perimeterx.net
 px-cdn.net
 px-cloud.net
 recaptcha.net
@@ -3819,6 +3817,7 @@ pixanalytics.com
 pixlee.com
 ppcprotect.com
 prometheusintelligencetechnology.com
+px-cloud.net
 pxlclnmdecom-a.akamaihd.net
 quitzon.net
 reichelcormier.bid

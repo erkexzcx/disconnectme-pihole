@@ -10,6 +10,7 @@ hcaptcha.com
 nofraud.com
 notolytix.com
 perimeterx.com
+perimeterx.net
 px-cdn.net
 px-cloud.net
 recaptcha.net
