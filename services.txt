@@ -1584,7 +1584,6 @@ pjatr.com
 pjtra.com
 placidperson.com
 planebasin.com
-platform-eu.cloud.coveo.com
 platform-one.co.jp
 playground.xyz
 playwire.com
@@ -3043,6 +3042,7 @@ org.coveo.com
 paypal.com
 pinimg.com
 pinterest.com
+platform-eu.cloud.coveo.com
 platform.cloud.coveo.com
 recaptcha.net
 scene7.com
