@@ -2437,7 +2437,6 @@ convert.com
 convertexperiments.com
 convertro.com
 conviva.com
-cookielaw.org
 coremetrics.com
 cquotient.com
 crashlytics.com
@@ -2611,8 +2610,6 @@ observerapp.com
 oewa.at
 officelive.com
 onestat.com
-onetrust.com
-onetrust.io
 onlinewebstats.com
 onthe.io
 ooyala.com
@@ -2800,6 +2797,9 @@ simility.com
 whiteops.com
 cookiebot.com
 cookiebot.eu
+cookielaw.org
+onetrust.com
+onetrust.io
 osano.com
 privacy-mgmt.com
 summerhamster.com
