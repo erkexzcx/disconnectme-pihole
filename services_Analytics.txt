@@ -28,6 +28,7 @@ aol.com
 apnewsregistry.com
 at-o.net
 atgsvcs.com
+aticdn.net
 atinternet.com
 atoomic.com
 attracta.com
@@ -56,6 +57,7 @@ bmmetrix.com
 boldchat.com
 branica.com
 browser-intake-datadoghq.com
+btttag.com
 bubblestat.com
 bufferapp.com
 bugsnag.com
@@ -149,6 +151,7 @@ friendshipmale.com
 fullstory.com
 gaug.es
 geetest.com
+geoip-js.com
 getclicky.com
 getsatisfaction.com
 getsitecontrol.com
@@ -367,6 +370,7 @@ tnsglobal.com
 touchcommerce.com
 tracemyip.org
 tracify.ai
+trackedweb.net
 trackersimulator.org
 trackingsoft.com
 trackset.com
