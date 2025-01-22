@@ -4,6 +4,7 @@
 10web.io
 1dmp.io
 1rx.io
+24log.com
 24smi.net
 2leep.com
 2mdn.net
@@ -23,6 +24,7 @@
 4jnzhl0d0.com
 4u.pl
 51network.com
+51yes.com
 5mcwl.pw
 5min.com
 600z.com
@@ -127,6 +129,8 @@ adbureau.net
 adbutler.com
 adbutler.de
 adbuyer.com
+adcash.com
+adcell.de
 adchemy.com
 adclickmedia.com
 adcolony.com
@@ -135,6 +139,7 @@ adconnexa.com
 addecisive.com
 addfreestats.com
 addictedattention.com
+addme.com
 addthis.com
 addthiscdn.com
 addthisedge.com
@@ -166,11 +171,13 @@ adglare.com
 adglare.net
 adgrx.com
 adhaven.com
+adhese.com
 adhigh.net
 adhood.com
 adiant.com
 adify.com
 adimg.net
+adimpact.com
 adingo.jp
 adinplay.com
 adinsight.com
@@ -178,6 +185,7 @@ adinsight.eu
 adinterax.com
 adiquity.com
 adition.com
+adizio.com
 adjug.com
 adjuggler.com
 adjuggler.net
@@ -2459,6 +2467,7 @@ lookery.com
 loomia.com
 loopfuse.net
 loopme.com
+loopme.me
 lorenzourban.com
 losslace.com
 lotame.com
