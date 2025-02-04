@@ -3661,8 +3661,6 @@ trackingsoft.com
 trackset.com
 trafficfacts.com
 transcend.io
-trustarc.com
-truste.com
 ttvnw.net
 turnto.com
 tweetmeme.com
@@ -3754,6 +3752,9 @@ onetrust.io
 osano.com
 privacy-mgmt.com
 summerhamster.com
+trustarc.com
+truste-svc.net
+truste.com
 5min.com
 adobe.com
 affirm.com
