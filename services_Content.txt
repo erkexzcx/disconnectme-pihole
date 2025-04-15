@@ -1,6 +1,7 @@
 5min.com
 adobe.com
 affirm.com
+aliyuncs.com
 amazon.com
 anyclip.com
 aolcdn.com
@@ -8,14 +9,19 @@ azure.com
 azurefd.net
 bazaarvoice.com
 bing.com
+bitmovin.com
 blogger.com
+bloximages.newyork1.vip.townnews.com
 brightcove.com
 browser-update.org
+cdn.jsdelivr.net
+cdn.shopify.com
 cdninstagram.com
 cloudflare.com
 cloudflarestream.com
 cloudfront.net
 cloudinary.com
+content.powerapps.com
 dynamics.com
 fbcdn.net
 flickr.com
@@ -225,11 +231,13 @@ jwpcdn.com
 jwplatform.com
 jwplayer.com
 jwpsrv.com
+kakao.com
 kaltura.com
 kinopoisk.ru
 mcafee.com
 microsoft.com
 msn.com
+mux.com
 my.mail.ru
 nuance.com
 oracle.com
@@ -240,6 +248,9 @@ pinterest.com
 platform-eu.cloud.coveo.com
 platform.cloud.coveo.com
 recaptcha.net
+s3-ap-southeast-1.amazonaws.com
+s3.amazonaws.com
+s3.us-west-2.amazonaws.com
 scene7.com
 searchspring.io
 shop.app
@@ -259,6 +270,7 @@ uservoice.com
 vgwort.de
 vimeo.com
 vimeocdn.com
+websites.getjusto.com
 winamp.com
 wp.com
 yahoo.com
@@ -273,4 +285,5 @@ yimg.com
 yimg.jp
 youtube-nocookie.com
 youtube.com
+ytimg.com
 zencdn.net

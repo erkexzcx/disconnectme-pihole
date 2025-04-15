@@ -1,3 +1,5 @@
+2495may2024.com
+2522june2024.com
 3dstats.com
 4u.pl
 63squares.com
@@ -12,6 +14,7 @@ advombat.ru
 adxyield.com
 adzmath.com
 aidata.me
+airship.com
 akstat.io
 alexa.com
 alexametrics.com
@@ -25,7 +28,10 @@ anormal-media.de
 anormal-tracker.de
 antifraudjs.friends2follow.com
 aol.com
+api.fouanalytics.com
+api.iafstats.com
 apnewsregistry.com
+asnapieu.com
 at-o.net
 atgsvcs.com
 aticdn.net
@@ -38,6 +44,7 @@ autoblog.com
 axf8.net
 b3mxnuvcer.com
 baidu.com
+batch.com
 bdstatic.com
 behavioralengine.com
 belstat.be
@@ -54,6 +61,7 @@ bluecava.com
 blueconic.net
 bluemetrix.com
 bmmetrix.com
+bnbstatic.com
 boldchat.com
 branica.com
 browser-intake-datadoghq.com
@@ -65,6 +73,9 @@ bunchball.com
 buysafe.com
 cbox.ws
 cbsinteractive.com
+cdn-net.com
+cdn.gbqofs.com
+cdn.getdeviceinf.com
 cedexis.com
 cedexis.net
 certifica.com
@@ -73,6 +84,8 @@ chartbeat.com
 chartbeat.net
 clarity.ms
 clean.gg
+clevertap-prod.com
+clevertap.com
 clickability.com
 clickdensity.com
 clicktale.com
@@ -84,6 +97,7 @@ cloudflareinsights.com
 clustrmaps.com
 cmcore.com
 cnzz.com
+cohesionapps.com
 collarity.com
 collective.com
 collserve.com
@@ -96,6 +110,7 @@ conduit-banners.com
 conduit-services.com
 conduit.com
 contactatonce.com
+contents-search-windows.com
 contentsquare.net
 convert.com
 convertexperiments.com
@@ -105,9 +120,11 @@ coremetrics.com
 cquotient.com
 crashlytics.com
 crazyegg.com
+creditkarmacdn-a.akamaihd.net
 crowdscience.com
 cuebiq.com
 curalate.com
+d.rageagainstthesoap.com
 daphnecm.com
 datadoghq-browser-agent.com
 datadoghq.com
@@ -115,9 +132,11 @@ datadoghq.eu
 dataium.com
 datasift.com
 demandbase.com
+despegar.com
 distiltag.com
 dl-rms.com
 dlqm.net
+dnofd.com
 do-not-tracker.org
 domodomain.com
 doubleverify.com
@@ -181,12 +200,15 @@ homesessive.com
 hotjar.com
 hotjar.io
 hotlog.ru
+hrcdn.net
 hs-analytics.net
 hsforms.net
 hubspot.com
 ibm.com
+icfcdn.com
 iesnare.com
 igodigital.com
+images-na.ssl-images-amazon.com
 infernotions.com
 infonline.de
 informer.yandex.ru
@@ -213,6 +235,7 @@ judge.me
 jwpltx.com
 kampyle.com
 keymetric.net
+keytiles.com
 kissinsights.com
 kissmetrics.com
 leadfeeder.com
@@ -220,6 +243,7 @@ lightboxcdn.com
 limelight.com
 linezing.com
 live.net
+livecamcdn.com
 livefyre.com
 liveperson.com
 liveperson.net
@@ -233,6 +257,8 @@ luckyorange.net
 lynchpin.com
 lypn.com
 lyris.com
+m156b.com
+maggieeatstheangel.com
 mandatory.com
 markmonitor.com
 marktest.com
@@ -240,18 +266,22 @@ marktest.pt
 maxmind.com
 mdotlabs.com
 medallia.com
+media-rockstargames-com.akamaized.net
 merchant-center-analytics.goog
 merkleinc.com
 microsoftstore.com
+mimg.127.net
 mixpanel.com
 mktoresp.com
 ml314.com
 mmapiws.com
+mmcdn.com
 mongoosemetrics.com
 monitus.net
 monsido.com
 mouseflow.com
 mparticle.com
+muxanalytics.com
 mxpnl.com
 mycounter.com.ua
 myfonts.net
@@ -271,9 +301,11 @@ nr-data.net
 nuconomy.com
 nurago.com
 nurago.de
+nwwais.com
 observerapp.com
 oewa.at
 officelive.com
+omni-databank.com
 onestat.com
 onlinewebstats.com
 onthe.io
@@ -282,6 +314,7 @@ openfpcdn.io
 openstat.ru
 opentracker.net
 opolen.com.br
+p.nfltags.com
 p7cloud.net
 pantherssl.com
 parsely.com
@@ -296,8 +329,11 @@ piano.io
 pingdom.net
 piwik.org
 pixanalytics.com
+pixel.barion.com
+pixel.thoughtmetric.io
 polldaddy.com
 postrank.com
+pubnub.com
 punchtab.com
 pxlclnmdecom-a.akamaihd.net
 qualaroo.com
@@ -307,9 +343,11 @@ questionmarket.com
 quintelligence.com
 raasnet.com
 radarurl.com
+rdrctgoweb.com
 reedge.com
 reinvigorate.net
 researchnow.com
+ridicdn.net
 ringier.cz
 riskified.com
 roia.biz
@@ -358,12 +396,14 @@ stratigent.com
 svlu.net
 swymrelay.com
 synacor.com
+tazeros.com
 tealiumiq.com
 techsolutions.com.tw
 tensquare.com
 thecounter.com
 thirdwatch.ai
 tinypass.com
+tiqcdn.com
 tns-counter.ru
 tns-cs.net
 tnsglobal.com
@@ -377,6 +417,7 @@ trackset.com
 trafficfacts.com
 transcend.io
 ttvnw.net
+turner.com
 turnto.com
 tweetmeme.com
 ubermedia.com
@@ -392,6 +433,7 @@ v12group.com
 valuedopinions.co.uk
 verticalacuity.com
 vertster.com
+visitor-analytics.io
 visitstreamer.com
 visualstudio.com
 visualwebsiteoptimizer.com
@@ -415,6 +457,7 @@ websitealive7.com
 websitealive8.com
 websitealive9.com
 webtrackingservices.com
+webtrafficsource.com
 webtrekk.com
 webtrekk.net
 webtrends.com
@@ -426,6 +469,7 @@ woopra-ns.com
 woopra.com
 wsod.com
 wysistat.com
+xdiwbc.com
 xfyun.cn
 xiti.com
 y-track.com
@@ -434,6 +478,7 @@ yahoofs.com
 yandex.ua
 yellowtracker.com
 yoox.it
+z0000g.yvmads.com
 zdassets.com
 zendesk.com
 zoominfo.com
