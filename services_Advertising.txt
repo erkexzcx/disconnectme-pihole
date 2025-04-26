@@ -95,6 +95,7 @@ adalliance.io
 adamantsnail.com
 adaptiveads.com
 adaptly.com
+adara.com
 adaramedia.com
 adblade.com
 adbot.tw
@@ -225,6 +226,7 @@ adotmob.com
 adotsolution.com
 adotube.com
 adparlor.com
+adpartner.pro
 adpdealerservices.com
 adpepper.com
 adpepper.us
@@ -382,6 +384,7 @@ aivalabs.com
 ak0gsh40.com
 al-adtech.com
 albacross.com
+alcmpn.com
 alenty.com
 aliasanvil.com
 aliveachiever.com
@@ -595,6 +598,7 @@ bizible.com
 bizibly.com
 bizo.com
 bizographics.com
+bizrate.com
 bizweb.dktcdn.net
 bkrtx.com
 blackbrake.com
@@ -618,6 +622,7 @@ bluestreak.com
 blushingbeast.com
 blushingbread.com
 blutrumpet.com
+bncloudfl.com
 bnmla.com
 boatsvest.com
 boiledegglabs.com
@@ -696,6 +701,7 @@ butterbulb.com
 butterburst.com
 buy.at
 buysellads.com
+buysellads.net
 buysight.com
 buzzcity.com
 buzzlogic.com
@@ -1158,6 +1164,7 @@ ebayadservices.com
 ebayimg.com
 ebaystatic.com
 ebuzzing.com
+ebxcdn.com
 ecal.com
 echoinghaven.com
 effectivemeasure.com
@@ -1285,6 +1292,7 @@ eyeviewdigital.com
 ezodn.com
 ezoic.com
 ezoic.net
+ezoiccdn.com
 facilitatebreakfast.com
 facilitatedigital.com
 fadechildren.com
@@ -1356,6 +1364,7 @@ flameuncle.com
 flashtalking.com
 flimsycircle.com
 flimsythought.com
+flipp.com
 flippedfunnel.com
 flite.com
 flocktory.com
@@ -1449,6 +1458,8 @@ generateoffice.com
 genesismedia.com
 genesismediaus.com
 geniee.co.jp
+genieesspv.jp
+geniuslinkcdn.com
 geniusmonkey.com
 geoads.com
 geoedge.be
@@ -1524,6 +1535,8 @@ grow.me
 grumpydime.com
 grumpydrawer.com
 gsicommerce.com
+gsspat.jp
+gsspcln.jp
 gssprt.jp
 guardeddirection.com
 guardedschool.com
@@ -1605,6 +1618,7 @@ hotmart.com
 hotwords.com
 hotwords.es
 howdyinbox.com
+hprofits.com
 hs-banner.com
 hs-scripts.com
 hsadspixel.net
@@ -1682,6 +1696,7 @@ infectiousmedia.com
 infogroup.com
 infolinks.com
 inmobi.com
+inmobiapis.com
 inmobicdn.net
 inner-active.com
 innity.com
@@ -1741,6 +1756,7 @@ ivdopia.com
 ivitrack.com
 ivykiosk.com
 ixs1.net
+izooto.com
 j93557g.com
 jadeitite.com
 jaderooster.com
@@ -1770,6 +1786,7 @@ jubilanttempest.com
 jubilantwhisper.com
 jubnaadserve.com
 juicyads.com
+juicyads.me
 jumptap.com
 justicejudo.com
 justpremium.com
@@ -2009,6 +2026,7 @@ messagenovice.com
 messyoranges.com
 metadsp.co.uk
 metrics.psmmarketing.com
+metricswpsh.com
 metrixlab.com
 mexad.com
 mfadsrvr.com
@@ -2030,6 +2048,7 @@ mittencattle.com
 mixedreading.com
 mixpo.com
 mkt51.net
+mktoweb.com
 mmismm.com
 moat.com
 moatads.com
@@ -2225,6 +2244,7 @@ opulentsylvan.com
 orangesoda.com
 orbengine.com
 orbsrv.com
+oribi.io
 oridian.com
 orientedargument.com
 origo.hu
@@ -2470,6 +2490,7 @@ quitzon.net
 quixoticnebula.com
 quora.com
 qwtag.com
+r7.com
 rabbitbreath.com
 rabbitrifle.com
 radiantcanopy.com
@@ -2740,6 +2761,7 @@ serving-sys.com
 settleshoes.com
 sevenads.net
 sexinyourcity.com
+seznam.cz
 shadeship.com
 shaggytank.com
 shakyseat.com
@@ -2768,6 +2790,7 @@ showmeinn.com
 shredquiz.com
 shrillspoon.com
 shydinosaurs.com
+sibautomation.com
 sierrakermit.com
 signaturepod.com
 siliconslow.com
@@ -2794,6 +2817,7 @@ skimresources.com
 skisofa.com
 skupenet.com
 slaysweater.com
+sleeknote.com
 slimyscarf.com
 slinksuggestion.com
 slopesoap.com
@@ -2849,6 +2873,7 @@ soresneeze.com
 sorethunder.com
 soretrain.com
 sortsummer.com
+soundestlink.com
 soundstocking.com
 sovrn.com
 sp-trk.com
@@ -3178,6 +3203,7 @@ unusualtitle.com
 unwieldyhealth.com
 unwieldyimpulse.com
 unwieldyplastic.com
+uol.com.br
 up-value.de
 uplynk.com
 upravel.com
@@ -3322,6 +3348,7 @@ worriednumber.com
 wowanalytics.co.uk
 wpadmngr.com
 wpncdn.com
+wpshsdk.com
 wretchedfloor.com
 wrethicap.info
 wtaccesscontrol.com

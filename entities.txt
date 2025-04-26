@@ -134,6 +134,7 @@ adamantsnail.com
 adap.tv
 adaptiveads.com
 adaptly.com
+adara.com
 adaramedia.com
 adblade.com
 adbot.tw
@@ -270,6 +271,7 @@ adotmob.com
 adotsolution.com
 adotube.com
 adparlor.com
+adpartner.pro
 adpdealerservices.com
 adpepper.com
 adpepper.us
@@ -444,6 +446,7 @@ akstat.io
 al-adtech.com
 albacross.com
 albss.com
+alcmpn.com
 alenty.com
 alevco.de
 alexa.com
@@ -591,6 +594,7 @@ australiarevival.com
 authedmine.com
 authedwebmine.cz
 authoremail.com
+autoblog.com
 autocentre.ua
 autoklose.com
 automaticside.com
@@ -719,6 +723,7 @@ bizible.com
 bizibly.com
 bizo.com
 bizographics.com
+bizrate.com
 bkrtx.com
 blackbrake.com
 blacklabelads.com
@@ -751,6 +756,7 @@ blutrumpet.com
 bmmetrix.com
 bmst.pw
 bnbstatic.com
+bncloudfl.com
 bnmla.com
 boatsvest.com
 bobabillydirect.org
@@ -848,6 +854,7 @@ buttondown.email
 buy.at
 buysafe.com
 buysellads.com
+buysellads.net
 buysight.com
 buzzcity.com
 buzzlogic.com
@@ -1492,6 +1499,7 @@ ebayadservices.com
 ebayimg.com
 ebaystatic.com
 ebuzzing.com
+ebxcdn.com
 ecal.com
 echoinghaven.com
 ediemidnightzombies.com
@@ -1647,6 +1655,7 @@ eyeviewdigital.com
 ezodn.com
 ezoic.com
 ezoic.net
+ezoiccdn.com
 ezymarketer.net
 facebook.com
 facebook.de
@@ -1732,6 +1741,7 @@ flickr.com
 flightzy.date
 flimsycircle.com
 flimsythought.com
+flipp.com
 flippedfunnel.com
 flite.com
 flixcdn.com
@@ -1850,6 +1860,8 @@ generateoffice.com
 genesismedia.com
 genesismediaus.com
 geniee.co.jp
+genieesspv.jp
+geniuslinkcdn.com
 geniusmonkey.com
 geoads.com
 geoedge.be
@@ -2147,6 +2159,8 @@ grow.me
 grumpydime.com
 grumpydrawer.com
 gsicommerce.com
+gsspat.jp
+gsspcln.jp
 gssprt.jp
 gstatic.com
 gtop.ro
@@ -2234,6 +2248,7 @@ hlserve.com
 hodes.com
 hollowafterthought.com
 homelycrown.com
+homesessive.com
 honeybulb.com
 honeywhipped.com
 honorablehydrant.com
@@ -2252,6 +2267,7 @@ hotmart.com
 hotwords.com
 hotwords.es
 howdyinbox.com
+hprofits.com
 hrcdn.net
 hs-analytics.net
 hs-banner.com
@@ -2349,6 +2365,7 @@ infonline.de
 infostars.ru
 infusionsoft.com
 inmobi.com
+inmobiapis.com
 inmobicdn.net
 inner-active.com
 innity.com
@@ -2429,6 +2446,7 @@ ivwbox.de
 ivykiosk.com
 ixactcontact.com
 ixs1.net
+izooto.com
 j93557g.com
 jadeitite.com
 jaderooster.com
@@ -2465,6 +2483,7 @@ jubilantwhisper.com
 jubnaadserve.com
 judge.me
 juicyads.com
+juicyads.me
 juicyscore.com
 jumptap.com
 justicejudo.com
@@ -2783,6 +2802,7 @@ merryvault.com
 messagenovice.com
 messyoranges.com
 metadsp.co.uk
+metricswpsh.com
 metrixlab.com
 mexad.com
 mfadsrvr.com
@@ -2912,6 +2932,7 @@ mkt9862.com
 mkt9923.com
 mkt9942.com
 mktoresp.com
+mktoweb.com
 ml314.com
 mltrk.io
 mmapiws.com
@@ -3173,6 +3194,7 @@ oracle.com
 orangesoda.com
 orbengine.com
 orbsrv.com
+oribi.io
 oridian.com
 orientedargument.com
 origo.hu
@@ -3434,6 +3456,7 @@ pvd.to
 px-cdn.net
 px-cloud.net
 pxf.io
+pxlclnmdecom-a.akamaihd.net
 qcloud.com
 qksz.com
 qksz.net
@@ -3465,6 +3488,7 @@ quitzon.net
 quixoticnebula.com
 quora.com
 qwtag.com
+r7.com
 raasnet.com
 rabbitbreath.com
 rabbitrifle.com
@@ -3796,6 +3820,7 @@ sessioncam.com
 settleshoes.com
 sevenads.net
 sexinyourcity.com
+seznam.cz
 sf14g.com
 shadeship.com
 shaggytank.com
@@ -3835,6 +3860,7 @@ showmeyouradsnow.com
 shredquiz.com
 shrillspoon.com
 shydinosaurs.com
+sibautomation.com
 sierrakermit.com
 siftscience.com
 signaturepod.com
@@ -3871,6 +3897,7 @@ skisofa.com
 skupenet.com
 skype.com
 slaysweater.com
+sleeknote.com
 slickstream.com
 slimyscarf.com
 slinksuggestion.com
@@ -3935,6 +3962,7 @@ soresneeze.com
 sorethunder.com
 soretrain.com
 sortsummer.com
+soundestlink.com
 soundstocking.com
 sovrn.com
 sp-trk.com
@@ -4343,6 +4371,7 @@ unusualtitle.com
 unwieldyhealth.com
 unwieldyimpulse.com
 unwieldyplastic.com
+uol.com.br
 up-value.de
 uplynk.com
 upravel.com
@@ -4549,6 +4578,7 @@ wowanalytics.co.uk
 wp.com
 wpadmngr.com
 wpncdn.com
+wpshsdk.com
 wretchedfloor.com
 wrethicap.info
 wsod.com
