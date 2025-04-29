@@ -3836,7 +3836,6 @@ trackersimulator.org
 trackingsoft.com
 trackset.com
 trafficfacts.com
-transcend.io
 ttvnw.net
 turner.com
 turnto.com
@@ -3936,6 +3935,7 @@ onetrust.io
 osano.com
 privacy-mgmt.com
 summerhamster.com
+transcend.io
 trustarc.com
 truste-svc.net
 truste.com
