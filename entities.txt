@@ -80,7 +80,6 @@ accelerator-media.com
 accelia.net
 accelo.com
 accordantmedia.com
-accuenmedia.com
 accurateanimal.com
 accuratecoal.com
 acemlna.com
@@ -135,6 +134,7 @@ adap.tv
 adaptiveads.com
 adaptly.com
 adara.com
+adaraanalytics.com
 adaramedia.com
 adblade.com
 adbot.tw
@@ -256,6 +256,7 @@ adnxs-simple.com
 adnxs.com
 adobe.com
 adobedc.net
+adobetarget.com
 adocean-global.com
 adocean.pl
 adoftheyear.com
@@ -503,6 +504,7 @@ ancientact.com
 andbeyond.media
 andstarsbuilding.com
 aniview.com
+annalect.com
 annoyingacoustics.com
 annoyingclover.com
 anonymous-media.com
@@ -674,6 +676,7 @@ beanstockmedia.com
 bedsberry.com
 beginnerpancake.com
 begun.ru
+behave.com
 behavioralengine.com
 belboon.com
 belstat.be
@@ -1452,6 +1455,7 @@ dq95d35.com
 drainpaste.com
 dramaticdirection.com
 drawbrid.ge
+dreamdata.cloud
 drift.com
 driftpizza.com
 driftt.com
@@ -1474,6 +1478,7 @@ durchsichtig.xyz
 dustydime.com
 dustyhammer.com
 duube1y6ojsji.cloudfront.net
+dv.tech
 dwin1.com
 dwstat.cn
 dxkulture.com
@@ -1716,6 +1721,7 @@ fewkittens.com
 ffn.com
 fg8dgt.com
 fiftyt.com
+figpii.com
 fiksu.com
 fimserve.com
 finalizeforce.com
@@ -1840,6 +1846,8 @@ fwmrm.net
 fxj.com.au
 fyber.com
 fyre.co
+g2.com
+g2crowd.com
 game-advertising-online.com
 games2win.com
 gammaplatform.com
@@ -1881,6 +1889,7 @@ getrockerbox.com
 getsatisfaction.com
 getshogun.com
 getsitecontrol.com
+getwarmly.com
 gfk.com
 gfkdaphne.com
 gfl85trk.com
@@ -2373,6 +2382,7 @@ innocentlamp.com
 innocentwax.com
 innovid.com
 inputicicle.com
+inpwrd.net
 inq.com
 inquisitiveice.com
 inquisitiveinvention.com
@@ -2409,10 +2419,12 @@ inuvo.com
 investingchannel.com
 invitemedia.com
 inviziads.com
+invoca.net
 invocacdn.com
 ioam.de
 iocnt.net
 iovation.com
+ipapi.co
 ipcounter.de
 iperceptions.com
 ipify.org
@@ -2514,6 +2526,7 @@ keytiles.com
 keywee.co
 keywordmax.com
 kickfire.com
+kimberlite.io
 kindhush.com
 kinopoisk.ru
 kissinsights.com
@@ -2528,6 +2541,7 @@ klevu.com
 km0trk.com
 knitstamp.com
 knottyswing.com
+kochava.com
 kokteyl.com
 komli.com
 konduto.com
@@ -2623,10 +2637,10 @@ localytics.com
 lockerdome.com
 lockerz.com
 logdy.com
+logly.co.jp
 lonelyflavor.com
 longingtrees.com
 longtailvideo.com
-lookery.com
 loomia.com
 loopfuse.net
 loopme.com
@@ -2801,6 +2815,7 @@ merryopal.com
 merryvault.com
 messagenovice.com
 messyoranges.com
+metadata.io
 metadsp.co.uk
 metricswpsh.com
 metrixlab.com
@@ -3007,6 +3022,7 @@ mypressplus.com
 mysalo.store
 myshopline.com
 mysticalagoon.com
+mythad.com
 mythings.com
 myvisualiq.net
 mywebgrocer.com
@@ -3049,6 +3065,7 @@ networkedblogs.com
 networldmedia.com
 networldmedia.net
 neustar.biz
+new-programmatic.com
 newrelic.com
 newscgp.com
 newsinc.com
@@ -3132,7 +3149,6 @@ oldfashionedoffer.com
 omappapi.com
 omgthink.com
 omni-databank.com
-omnicomgroup.com
 omniscientfeeling.com
 omnisnippet1.com
 omnitagjs.com
@@ -3242,6 +3258,7 @@ parallelbulb.com
 pardonpopular.com
 pardot.com
 parentpicture.com
+parklogic.com
 parsely.com
 parsimoniouspolice.com
 partplanes.com
@@ -3466,6 +3483,7 @@ quadpay.com
 quaintcan.com
 quaintlake.com
 qualaroo.com
+qualified.com
 qualtrics.com
 quantcast.com
 quantcount.com
@@ -3889,6 +3907,7 @@ sitestat.com
 sitewithg.com
 sixscissors.com
 sizzlingsmoke.com
+sjv.io
 skem1.com
 skillfuldrop.com
 skimlinks.com
@@ -3913,6 +3932,7 @@ smartcaptcha.yandexcloud.net
 smartclip.com
 smartclip.net
 smartlook.com
+smartnews-ads.com
 smartsendy.com
 smartyads.com
 smashshoe.com
@@ -4402,6 +4422,7 @@ valueclickmedia.com
 valuedopinions.co.uk
 vanfireworks.com
 various.com
+vcmdiawe.com
 vcmedia.vn
 vdna-assets.com
 vdopia.com
@@ -4679,6 +4700,7 @@ zendesk.com
 zeotap.com
 zephyrlabyrinth.com
 zestycrime.com
+zi-scripts.com
 zincx.com
 zipmoney.com.au
 zlp6s.pw

@@ -158,6 +158,7 @@ extreme-dm.com
 extremetracking.com
 eyeota.net
 feedjit.com
+figpii.com
 flattr.com
 fndrsp.net
 footprintdns.com
@@ -221,6 +222,7 @@ intensedebate.com
 ioam.de
 iocnt.net
 iovation.com
+ipapi.co
 ipcounter.de
 ipify.org
 ipinfo.io
@@ -480,5 +482,6 @@ yoox.it
 z0000g.yvmads.com
 zdassets.com
 zendesk.com
+zi-scripts.com
 zoominfo.com
 zopim.com
