@@ -1,3 +1,4 @@
+2467april2024.com
 2495may2024.com
 2522june2024.com
 3dstats.com
@@ -125,6 +126,7 @@ crowdscience.com
 cuebiq.com
 curalate.com
 d.rageagainstthesoap.com
+d2lyx5ly60ksu3.cloudfront.net
 daphnecm.com
 datadoghq-browser-agent.com
 datadoghq.com
@@ -252,6 +254,7 @@ liveperson.net
 llnwd.net
 logdy.com
 longtailvideo.com
+loop11.com
 lpsnmedia.net
 ltassrv.com
 luckyorange.com
@@ -260,7 +263,10 @@ lynchpin.com
 lypn.com
 lyris.com
 m156b.com
+m2911p.com
+m314xw.com
 maggieeatstheangel.com
+magiceden.dev
 mandatory.com
 markmonitor.com
 marktest.com
@@ -269,6 +275,7 @@ maxmind.com
 mdotlabs.com
 medallia.com
 media-rockstargames-com.akamaized.net
+mentionideablit.com
 merchant-center-analytics.goog
 merkleinc.com
 microsoftstore.com
@@ -283,6 +290,7 @@ monitus.net
 monsido.com
 mouseflow.com
 mparticle.com
+muscache.com
 muxanalytics.com
 mxpnl.com
 mycounter.com.ua
@@ -318,6 +326,7 @@ opentracker.net
 opolen.com.br
 p.nfltags.com
 p7cloud.net
+pagesense.io
 pantherssl.com
 parsely.com
 pdst.fm
@@ -360,6 +369,7 @@ sageanalyst.net
 salesforce.com
 salesforceliveagent.com
 sardine.ai
+sattiostiounper.com
 scanalert.com
 scorecardresearch.com
 sedotracker.com
@@ -417,10 +427,12 @@ trackersimulator.org
 trackingsoft.com
 trackset.com
 trafficfacts.com
+trustdecision.com
 ttvnw.net
 turner.com
 turnto.com
 tweetmeme.com
+ubbfpm.com
 ubermedia.com
 umbel.com
 unseenreport.com
@@ -464,6 +476,7 @@ webtrekk.net
 webtrends.com
 webtrendslive.com
 whiteops.com
+wholituaten.com
 wibiya.com
 wingify.com
 woopra-ns.com

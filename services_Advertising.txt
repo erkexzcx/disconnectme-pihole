@@ -258,6 +258,7 @@ adsafety.net
 adsbwm.com
 adsbyisocket.com
 adscale.de
+adschill.com
 adscience.nl
 adserver.com
 adserver.yahoo.com
@@ -476,6 +477,7 @@ aroa.io
 aromamirror.com
 arrivegrowth.com
 artthevoid.com
+ascent360.com
 aspiringapples.com
 aspiringattempt.com
 aspiringtoy.com
@@ -515,6 +517,7 @@ avct.cloud
 averageactivity.com
 avidglobalmedia.com
 avidglobalmedia.eu
+avito.st
 avmws.com
 avocet.io
 avsads.com
@@ -564,6 +567,7 @@ beamvolcano.com
 beancontrol.com
 beanstockmedia.com
 bedsberry.com
+beelinks.solutions
 beginnerpancake.com
 begun.ru
 behave.com
@@ -714,6 +718,7 @@ bvmedia.ca
 c1exchange.com
 c3metrics.com
 c3tag.com
+c88rx.com
 cabnnr.com
 cadreon.com
 cakesdrum.com
@@ -766,6 +771,7 @@ cdn.luckylabs.io
 cdn.quadpay.com
 cdn.spxl.ink
 cdn.tapioni.com
+cdn4dd.com
 cdnma.com
 cdnroute.bpsgameserver.com
 cdnsnapwidget.com
@@ -775,6 +781,7 @@ celestialeuphony.com
 celestialquasar.com
 celestialspectra.com
 centraliprom.com
+cephei-b.com
 certona.com
 chaireggnog.com
 chairscrack.com
@@ -862,7 +869,6 @@ cloudjumbo.com
 clovenetwork.com
 clumsycar.com
 cmmeglobal.com
-cnd4dd.com
 coatfood.com
 cobalt.com
 cobaltoverture.com
@@ -883,6 +889,7 @@ combcattle.com
 combcompetition.com
 cometlytrack.com
 comfortablecheese.com
+commandbar.com
 commander1.com
 communicatorcorp.com
 comparereaction.com
@@ -1052,6 +1059,7 @@ delegatediscussion.com
 delicatecascade.com
 deliciousducks.com
 deliverimp.com
+deliveryjs.com
 delivr.com
 deltafault.com
 deluxecrate.com
@@ -1089,6 +1097,7 @@ digitaltarget.ru
 digitalwindow.com
 digitize.ie
 digitru.st
+digocdn.com
 dinclinx.com
 dinnerquartz.com
 diplomahawaii.com
@@ -1102,6 +1111,7 @@ displaymarketplace.com
 disqus.com
 disqusads.com
 disquscdn.com
+distinctrobin.com
 distributionneck.com
 distributionpocket.com
 distributiontomatoes.com
@@ -1124,6 +1134,7 @@ doubledefend.com
 doublepimp.com
 doublepositive.com
 doubtdrawer.com
+doyouad.com
 dp-dhl.com
 dq95d35.com
 drainpaste.com
@@ -1519,6 +1530,7 @@ gondolagnome.com
 goodbark.com
 google.com
 googleadservices.com
+googleadshost.net
 googlesyndication.com
 googletagservices.com
 gorillanation.com
@@ -1526,6 +1538,7 @@ goutee.top
 gracefulmilk.com
 grainmass.com
 grandfatherguitar.com
+granlite.com
 grapeshot.co.uk
 gravitykick.com
 grayoranges.com
@@ -1597,7 +1610,9 @@ heias.com
 hellobar.com
 helpcollar.com
 helpflame.com
+hepsiburada.net
 hextom.com
+heyaiii111iidsfsdbfjb132222ffco.xyz
 heyzap.com
 hfc195b.com
 hi-media.com
@@ -1957,6 +1972,7 @@ marchex.com
 marinsm.com
 markedmeasure.com
 marketgid.com
+marketingcloudfx.com
 marketingsolutions.yahoo.com
 marketiq.com
 marketo.com
@@ -2062,6 +2078,7 @@ mixedreading.com
 mixpo.com
 mkt51.net
 mktoweb.com
+mlstatic.com
 mmismm.com
 moat.com
 moatads.com
@@ -2124,6 +2141,7 @@ nanigans.com
 nappyattack.com
 nappyneck.com
 nativeads.com
+nativery.com
 navdmp.com
 navegg.com
 neatshade.com
@@ -2167,6 +2185,7 @@ nightwound.com
 nimbleplot.com
 ninthdecimal.com
 nitropay.com
+nmgassets.com
 nocturnalloom.com
 nocturnalmystique.com
 noiselessplough.com
@@ -2381,6 +2400,7 @@ pntrs.com
 po.st
 pocketcents.com
 pocketfaucet.com
+podium.com
 poeticpackage.com
 pointdigestion.com
 pointlesshour.com
@@ -2456,6 +2476,7 @@ prosperent.com
 protected.media
 protestcopy.com
 proximic.com
+pstatic.net
 pswec.com
 psychedelicarithmetic.com
 psychedelicchess.com
@@ -2481,6 +2502,7 @@ puppytooth.com
 purposepipe.com
 push-ad.com
 pxf.io
+qiota.com
 qksz.com
 qksz.net
 qnsr.com
@@ -2496,6 +2518,7 @@ quantumdex.io
 quantumlagoon.com
 quantumshine.com
 queenskart.com
+quill.run
 quillkick.com
 quinstreet.com
 quirkybliss.com
@@ -2642,6 +2665,7 @@ rottenray.com
 rovion.com
 rqtrk.eu
 rsz.sk
+rt-pixel.com
 rtactivate.com
 rtb.mx
 rtbhouse.com
@@ -2748,6 +2772,7 @@ seevast.com
 segment.com
 sekindo.com
 selectablemedia.com
+selectivesummer.com
 selectmedia.asia
 selfishsea.com
 semantiqo.com
@@ -3062,6 +3087,7 @@ tchibo.de
 teads.tv
 teamblue.services
 tearfulglass.com
+tebex.io
 technical-service.net
 technorati.com
 technoratimedia.com
@@ -3165,6 +3191,7 @@ truculentrate.com
 trueffect.com
 truffle.bid
 truoptik.com
+trustedshops.com
 trustedsite.com
 trustpilot.com
 trustx.org
@@ -3214,6 +3241,7 @@ unicast.com
 unknowncontrol.com
 unknowncrate.com
 unknowntray.com
+unmectappic.com
 unrulymedia.com
 untidyquestion.com
 untidyrice.com
@@ -3269,6 +3297,7 @@ versium.com
 vertamedia.com
 verticalhealth.net
 verticalresponse.com
+vevorstatic.com
 vi.ai
 viafoura.co
 viafoura.net
@@ -3289,6 +3318,7 @@ viewablemedia.net
 viewbix.com
 viglink.com
 vindicosuite.com
+vinid.net
 viralize.tv
 virgul.com
 virtualvincent.com
@@ -3392,6 +3422,7 @@ yadro.ru
 yahoo.co.jp
 yahoo.net
 yandex.ru
+yango.com
 ybp.yahoo.com
 ybrantdigital.com
 yceml.net
@@ -3431,7 +3462,9 @@ zemanta.com
 zeotap.com
 zephyrlabyrinth.com
 zestycrime.com
+zestyhorizon.com
 zincx.com
+zipthelake.com
 zjs.klevu.com
 zlp6s.pw
 zstats.klevu.com

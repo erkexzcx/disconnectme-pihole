@@ -22,10 +22,12 @@ cloudflarestream.com
 cloudfront.net
 cloudinary.com
 content.powerapps.com
+daumcdn.net
 dynamics.com
 fbcdn.net
 flickr.com
 fundraiseup.com
+geocomply.com
 ggpht.com
 gigya.com
 google.ad
@@ -240,6 +242,7 @@ msn.com
 mux.com
 my.mail.ru
 nuance.com
+o.alicdn.com
 oracle.com
 org.coveo.com
 paypal.com
@@ -248,6 +251,7 @@ pinterest.com
 platform-eu.cloud.coveo.com
 platform.cloud.coveo.com
 recaptcha.net
+riskid.security
 s3-ap-southeast-1.amazonaws.com
 s3.amazonaws.com
 s3.us-west-2.amazonaws.com
@@ -266,6 +270,7 @@ tumblr.com
 twitch.tv
 typekit.com
 typepad.com
+unpkg.com
 uservoice.com
 vgwort.de
 vimeo.com

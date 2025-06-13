@@ -3,6 +3,7 @@
 adbrain.com
 adbrn.com
 adjust.com
+admd.ink
 admeld.com
 admob.com
 adserver.com
@@ -21,9 +22,9 @@ audienceiq.com
 auditude.com
 avantlink.com
 avantmetrics.com
+beelinks.solutions
 bizweb.dktcdn.net
 bkrtx.com
-bloximages.newyork1.vip.townnews.com
 bluekai.com
 bt.fraud0.com
 cdn-net.com
@@ -31,9 +32,8 @@ cdn.alevco.de
 cdn.asksuite.com
 cdn.boletius.com
 cdn.cohesionapps.com
-cdn.jsdelivr.net
 cdn.quadpay.com
-cdn.shopify.com
+cdn4.forter.com
 chat-content.beanfun.com
 choozle.com
 consumable.com
@@ -57,6 +57,7 @@ ecal.com
 edge.eu1.fullstory.com
 edge.fullstory.com
 efrontier.com
+elements.stytch.com
 emjcd.com
 everestads.net
 everestjs.net
@@ -84,6 +85,7 @@ googletagservices.com
 greystripe.com
 hitbox.com
 hotmart.com
+imweb.me
 infolinks.com
 invitemedia.com
 js.securionpay.com
@@ -96,7 +98,9 @@ lduhtrp.net
 lf16-tiktok-web.tiktokcdn-us.com
 liftdna.com
 liveramp.com
+lmsqueezy.com
 lotame.com
+lura.live
 manhattan.hintup.io
 mathtag.com
 media-rockstargames-com.akamaized.net
@@ -104,6 +108,7 @@ mediamath.com
 mediaplex.com
 myshopline.com
 negishim.com
+ngenix.net
 omniture.com
 omtrdc.net
 openx.com
@@ -118,12 +123,12 @@ plus.google.com
 plusone.google.com
 polen.com.br
 postrank.com
+qiota.com
 refersion.com
 rqtrk.eu
 rto-study.oss-us-west-1.aliyuncs.com
 s1.kwai.net
 s20.tiktokcdn.com
-s91588.cdn.ngenix.net
 script.anura.io
 sdk.fek.pulselive.com
 seel.com
@@ -134,6 +139,7 @@ smartlock.google.com
 smartyads.com
 socital.com
 sparkloop.app
+static.airpackapp.com
 steelhouse.com
 steelhousemedia.com
 tapad.com
@@ -153,6 +159,7 @@ vreview.tv
 vtex.com.br
 wayin.com
 webmessenger.ekonsilio.io
+widgets.trustedshops.com
 y-track.com
 yieldmo.com
 ytsa.net
