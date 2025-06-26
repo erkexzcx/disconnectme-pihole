@@ -93,7 +93,6 @@ justuno.com
 kepler.captcha.qcloud.com
 kissmetrics.com
 krux.com
-kruxdigital.com
 lduhtrp.net
 lf16-tiktok-web.tiktokcdn-us.com
 liftdna.com
