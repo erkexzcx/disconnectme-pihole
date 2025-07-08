@@ -2462,7 +2462,6 @@ pricklypollution.com
 primevisibility.com
 primis.tech
 pristinegale.com
-privacy-center.org
 privacymanager.io
 privy.com
 prmutv.co
@@ -4006,6 +4005,7 @@ cookielaw.org
 onetrust.com
 onetrust.io
 osano.com
+privacy-center.org
 privacy-mgmt.com
 summerhamster.com
 transcend.io
