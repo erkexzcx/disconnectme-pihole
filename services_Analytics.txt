@@ -2,6 +2,7 @@
 2495may2024.com
 2522june2024.com
 3dstats.com
+3gl.net
 4u.pl
 63squares.com
 9c9media.ca
@@ -33,6 +34,7 @@ api.fouanalytics.com
 api.iafstats.com
 apnewsregistry.com
 asnapieu.com
+aswpsdkus.com
 at-o.net
 atgsvcs.com
 aticdn.net
@@ -115,6 +117,7 @@ contents-search-windows.com
 contentsquare.net
 convert.com
 convertexperiments.com
+convertlanguage.com
 convertro.com
 conviva.com
 coremetrics.com
@@ -215,6 +218,7 @@ informer.yandex.ru
 inq.com
 inrix.com
 inspectlet.com
+instana.io
 instantservice.com
 intensedebate.com
 ioam.de
@@ -357,9 +361,11 @@ researchnow.com
 ridicdn.net
 ringier.cz
 riskified.com
+roeyecdn.com
 roia.biz
 rollick.io
 roxr.net
+rtoaster.jp
 safecount.net
 sageanalyst.net
 salesforce.com
@@ -405,6 +411,7 @@ svlu.net
 swymrelay.com
 synacor.com
 tazeros.com
+tctm.co
 tealiumiq.com
 techsolutions.com.tw
 tensquare.com
@@ -449,6 +456,7 @@ visualwebsiteoptimizer.com
 vizisense.net
 voicefive.com
 w3roi.com
+waust.at
 web-stat.com
 webclicktracker.com
 webgozar.com
@@ -478,6 +486,7 @@ wingify.com
 woopra-ns.com
 woopra.com
 wsod.com
+wt-safetag.com
 wysistat.com
 xdiwbc.com
 xfyun.cn
@@ -488,6 +497,8 @@ yahoofs.com
 yandex.ua
 yellowtracker.com
 yoox.it
+yottaa.com
+yottaa.net
 z0000g.yvmads.com
 zdassets.com
 zendesk.com
