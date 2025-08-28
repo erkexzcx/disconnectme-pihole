@@ -1,10 +1,13 @@
+11ctch.com
 2467april2024.com
 2495may2024.com
+2514june2024.com
 2522june2024.com
 3dstats.com
 3gl.net
 4u.pl
 63squares.com
+8ctch.com
 9c9media.ca
 aamapiv2.com
 abmr.net
@@ -124,7 +127,7 @@ coremetrics.com
 cquotient.com
 crashlytics.com
 crazyegg.com
-creditkarmacdn-a.akamaihd.net
+croomaingly.com
 crowdscience.com
 cuebiq.com
 curalate.com
@@ -133,8 +136,10 @@ d2lyx5ly60ksu3.cloudfront.net
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+datafa.st
 dataium.com
 datasift.com
+dbankly.com
 demandbase.com
 despegar.com
 dl-rms.com
@@ -181,6 +186,7 @@ getsitecontrol.com
 gfk.com
 gfkdaphne.com
 go-mpulse.net
+godpvqnszo.com
 gogrid.com
 gomez.com
 google-analytics.com
@@ -211,6 +217,7 @@ ibm.com
 icfcdn.com
 iesnare.com
 igodigital.com
+illiweb.com
 images-na.ssl-images-amazon.com
 infernotions.com
 infonline.de
@@ -268,6 +275,7 @@ m314xw.com
 maggieeatstheangel.com
 magiceden.dev
 mandatory.com
+manuscdn.com
 markmonitor.com
 marktest.com
 marktest.pt
@@ -275,6 +283,7 @@ maxmind.com
 mdotlabs.com
 medallia.com
 media-rockstargames-com.akamaized.net
+megpxs.com
 mentionideablit.com
 merchant-center-analytics.goog
 merkleinc.com
@@ -283,6 +292,7 @@ mimg.127.net
 mixpanel.com
 mktoresp.com
 ml314.com
+mlytics.com
 mmapiws.com
 mmcdn.com
 mongoosemetrics.com
@@ -303,6 +313,7 @@ netapplications.com
 newrelic.com
 newsinc.com
 nielsen.com
+nitroscripts.com
 nocodelytics.com
 nofraud.com
 noibu.com
@@ -437,6 +448,7 @@ turnto.com
 tweetmeme.com
 ubbfpm.com
 ubermedia.com
+ujet.co
 umbel.com
 unseenreport.com
 uptrends.com
@@ -449,6 +461,7 @@ v12group.com
 valuedopinions.co.uk
 verticalacuity.com
 vertster.com
+videobaba.xyz
 visitor-analytics.io
 visitstreamer.com
 visualstudio.com
@@ -479,6 +492,7 @@ webtrekk.com
 webtrekk.net
 webtrends.com
 webtrendslive.com
+weligillysies.com
 whiteops.com
 wholituaten.com
 wibiya.com
@@ -486,6 +500,7 @@ wingify.com
 woopra-ns.com
 woopra.com
 wsod.com
+wt-eu02.net
 wt-safetag.com
 wysistat.com
 xdiwbc.com
@@ -502,6 +517,8 @@ yottaa.net
 z0000g.yvmads.com
 zdassets.com
 zendesk.com
+zhihu.com
 zi-scripts.com
 zoominfo.com
 zopim.com
+zprk.io

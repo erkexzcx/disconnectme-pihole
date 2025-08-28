@@ -1,3 +1,4 @@
+24metrics.com
 2mdn.net
 2o7.net
 adbrain.com
@@ -13,9 +14,11 @@ adsymptotic.com
 adwords.google.com
 ai.trk42.net
 albacross.com
+allstarunion.com
 ansira.com
 api.fouanalytics.com
 appcast.io
+apps.pingone.com
 atdmt.com
 atlassolutions.com
 audienceiq.com
@@ -38,7 +41,6 @@ chat-content.beanfun.com
 choozle.com
 consumable.com
 conversantmedia.com
-creditkarmacdn-a.akamaihd.net
 crwdcntrl.net
 demdex.com
 demdex.net
@@ -58,6 +60,7 @@ edge.eu1.fullstory.com
 edge.fullstory.com
 efrontier.com
 elements.stytch.com
+embed.cartfulsolutions.com
 emjcd.com
 everestads.net
 everestjs.net
@@ -105,6 +108,7 @@ mathtag.com
 media-rockstargames-com.akamaized.net
 mediamath.com
 mediaplex.com
+my.hornblower.com
 myshopline.com
 negishim.com
 ngenix.net
@@ -121,6 +125,7 @@ pinpoll.com
 plus.google.com
 plusone.google.com
 polen.com.br
+poll-maker.com
 postrank.com
 qiota.com
 refersion.com
@@ -139,6 +144,7 @@ smartyads.com
 socital.com
 sparkloop.app
 static.airpackapp.com
+static.airwallex.com
 steelhouse.com
 steelhousemedia.com
 tapad.com
@@ -148,6 +154,7 @@ thehotelsnetwork.com
 thetradedesk.com
 touchclarity.com
 tvpixel.com
+upscope.io
 valueclick.com
 valueclick.net
 valueclickmedia.com
@@ -163,3 +170,4 @@ y-track.com
 yieldmo.com
 ytsa.net
 zadn.vn
+zeronaught.com

@@ -225,6 +225,7 @@ adroll.com
 adrtx.net
 ads-twitter.com
 ads.yahoo.com
+ads7-adnow.com
 adsafemedia.com
 adsafeprotected.com
 adsafety.net
@@ -436,6 +437,7 @@ ascent360.com
 askdriver.com
 aspiringapples.com
 aspiringattempt.com
+assets.funraise.io
 assoc-amazon.com
 atedra.com
 atemda.com
@@ -456,6 +458,7 @@ audiencescience.com
 auditude.com
 audrte.com
 augme.com
+aulogirefaure.com
 autocentre.ua
 automattic.com
 avantlink.com
@@ -538,6 +541,7 @@ bleachbubble.com
 bleacherreport.net
 bleedlight.com
 blesspizzas.com
+blings.io
 blismedia.com
 blitzcampaigns.com
 blogads.com
@@ -809,6 +813,7 @@ cubepins.com
 currentcollar.com
 cutechin.com
 cxense.com
+da-services.ch
 dada.pro
 damagedadvice.com
 damageddistance.com
@@ -917,6 +922,7 @@ dyntrk.com
 e-kolay.net
 e-planning.net
 e-volution.ai
+e491328.com
 eagerknight.com
 earnify.com
 earthups.com
@@ -1047,6 +1053,7 @@ flashtalking.com
 flipp.com
 flite.com
 flocktory.com
+flodesk.com
 floors.dev
 floweryfact.com
 fluct.jp
@@ -1262,6 +1269,7 @@ imrworldwide.com
 incompetentjoke.com
 inconclusiveaction.com
 indexexchange.com
+indextops.com
 indexww.com
 indieclick.com
 industrybrains.com
@@ -1325,6 +1333,7 @@ ivdopia.com
 ivitrack.com
 ixs1.net
 izooto.com
+j189eb.com
 j93557g.com
 jads.co
 jailbulb.com
@@ -1376,6 +1385,7 @@ klarnaservices.com
 klaviyo.com
 klavyio.klevu.com
 km0trk.com
+kmalgo.com
 knitstamp.com
 knottyswing.com
 kochava.com
@@ -1465,6 +1475,7 @@ lunchroomlock.com
 lytics.io
 lytiks.com
 lzjl.com
+m167cw.com
 m6d.com
 madhouse.cn
 madisonlogic.com
@@ -1565,6 +1576,7 @@ mkt51.net
 mktoweb.com
 mlstatic.com
 mmismm.com
+mnaspm.com
 moat.com
 moatads.com
 moatpixel.com
@@ -1665,6 +1677,7 @@ nostalgicknot.com
 nostalgicneed.com
 nosto.com
 nostringsattached.com
+novaontech.com
 nowaymail.com
 nowspots.com
 npttech.com
@@ -1733,8 +1746,10 @@ optinmonster.com
 optmd.com
 optnmstr.com
 opulentsylvan.com
+oracleinfinity.io
 orangebirdie.com
 orangesoda.com
+orb.ee
 orbengine.com
 orbsrv.com
 oribi.io
@@ -1963,6 +1978,7 @@ redditstatic.com
 reduxmedia.com
 reemo-ad.jp
 refersion.com
+refinery89.com
 reflow.tv
 regularplants.com
 regulatesleet.com
@@ -2060,6 +2076,7 @@ sabre.com
 sabrehospitality.com
 sail-horizon.com
 sail-personalize.com
+salecycle.com
 salesmanago.com
 salmonfin.com
 salsacartel.com
@@ -2071,6 +2088,7 @@ sape.ru
 sapient.com
 sas.com
 sascdn.com
+satis.fi
 satisfycork.com
 savoryorange.com
 saymedia.com
@@ -2215,6 +2233,7 @@ soretrain.com
 soundestlink.com
 soundstocking.com
 sovrn.com
+sp-gn.com
 sp-trk.com
 spacechimpmedia.com
 sparklit.com
@@ -2257,6 +2276,7 @@ statistics.ro
 stats.klevu.com
 stats.ksearchnet.com
 statsjs.klevu.com
+stay22.com
 steadfastsound.com
 steadfastsystem.com
 steelhouse.com
@@ -2272,6 +2292,7 @@ stormiq.com
 storygize.com
 storygize.net
 storyly.io
+stpd.cloud
 straightnest.com
 strangeclocks.com
 streamray.com
@@ -2383,6 +2404,7 @@ tncid.app
 toasttutor.com
 tonemedia.com
 touchclarity.com
+townsquare.media
 tp88trk.com
 tpbid.com
 tqlkg.com
@@ -2551,6 +2573,7 @@ vividcanopy.com
 vividmeadow.com
 vizury.com
 vlitag.com
+vntsm.com
 vocento.com
 vocstatic.com
 voicepins.com
@@ -2582,6 +2605,7 @@ weborama.fr
 websitesdude.com
 webtraffic.se
 webtraxs.com
+webtrends-optimize.com
 webvisor.com
 webvisor.org
 whimsicalcanyon.com

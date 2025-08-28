@@ -52,6 +52,7 @@ engagingnetworks.app
 eu2-api.connectif.cloud
 eu3-api.connectif.cloud
 eu4-api.connectif.cloud
+flodesk.com
 gasv1.com
 google-analytics.com
 hodes.com

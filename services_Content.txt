@@ -1,6 +1,7 @@
 5min.com
 adobe.com
 affirm.com
+airnavradar.com
 aliyuncs.com
 amazon.com
 anyclip.com
@@ -13,10 +14,12 @@ bitmovin.com
 blogger.com
 bloximages.newyork1.vip.townnews.com
 brightcove.com
+brightcove.net
 browser-update.org
 cdn.jsdelivr.net
 cdn.shopify.com
 cdninstagram.com
+checkout.com
 cloudflare.com
 cloudflarestream.com
 cloudfront.net
@@ -237,6 +240,7 @@ kakao.com
 kaltura.com
 kinopoisk.ru
 mcafee.com
+media-amazon.com
 microsoft.com
 msn.com
 mux.com
@@ -246,10 +250,12 @@ o.alicdn.com
 oracle.com
 org.coveo.com
 paypal.com
+paystack.com
 pinimg.com
 pinterest.com
 platform-eu.cloud.coveo.com
 platform.cloud.coveo.com
+qq.com
 recaptcha.net
 riskid.security
 s3-ap-southeast-1.amazonaws.com

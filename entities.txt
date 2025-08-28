@@ -2,12 +2,14 @@
 1-2-1marketing.com
 103092804.com
 10web.io
+11ctch.com
 127.net
 1dmp.io
 1film.to
 1rx.io
 2449march2024.com
 2467april2024.com
+2475april2024.com
 2477april2024.com
 2487may2024.com
 2489may2024.com
@@ -15,8 +17,10 @@
 2495may2024.com
 2497may2024.com
 24log.com
+24metrics.com
 24smi.net
 24ttl.stream
+2514june2024.com
 2522june2024.com
 2leep.com
 2mdn.net
@@ -44,8 +48,10 @@
 777seo.com
 7a75ebcbd7.com
 7ool.net
+7roundprince.com
 7seasky.com
 82o9v830.com
+8ctch.com
 8d8.biz
 91app.com
 9c9media.ca
@@ -80,6 +86,7 @@ acint.net
 acmbtrc.com
 acmtrk.com
 acquisio.com
+acredo.space
 acsbapp.com
 acsmedia.us
 act-on.com
@@ -140,6 +147,7 @@ adconnexa.com
 addecisive.com
 addfreestats.com
 addictedattention.com
+addin1.name
 addme.com
 addthis.com
 addthiscdn.com
@@ -276,6 +284,7 @@ ads-twitter.com
 ads1-adnow.com
 ads5-adnow.com
 ads6-adnow.com
+ads7-adnow.com
 adsafemedia.com
 adsafeprotected.com
 adsafety.net
@@ -375,6 +384,7 @@ adzcentral.com
 adzerk.com
 adzerk.net
 adzilla.name
+adzilla1.name
 adzly.com
 adzmath.com
 aerifymedia.com
@@ -414,10 +424,12 @@ aidata.me
 aidemsrv.com
 aim4media.com
 aimatch.com
+airnavradar.com
 airpackapp.com
 airpr.com
 airpush.com
 airship.com
+airwallex.com
 aisleahead.com
 aivalabs.com
 akamaihd.net
@@ -435,6 +447,7 @@ alicdn.com
 aliveachiever.com
 aliyuncs.com
 allstarmediagroup.com
+allstarunion.com
 alocdn.com
 aloodo.com
 aloofvest.com
@@ -503,6 +516,7 @@ applovin.com
 applyless.com
 appmetrx.com
 appnexus.com
+apps.pingone.com
 appsflyer.com
 appssavvy.com
 aprecision.net
@@ -552,6 +566,7 @@ auditedmedia.com
 auditude.com
 audrte.com
 augme.com
+aulogirefaure.com
 aunstollarinets.com
 australiarevival.com
 authedmine.com
@@ -581,11 +596,13 @@ axf8.net
 axon.ai
 ay.delivery
 ayads.co
+azerion.com
 azionedge.net
 azure.com
 azurefd.net
 azuremystique.com
 b0e8.com
+b112j.com
 b2.ai
 b2c.com
 b3mxnuvcer.com
@@ -672,6 +689,7 @@ bleachbubble.com
 bleacherreport.net
 bleedlight.com
 blesspizzas.com
+blings.io
 blismedia.com
 blitzcampaigns.com
 bloblohub.com
@@ -732,6 +750,7 @@ breezygrove.com
 brid.tv
 bridgetrack.com
 brightcove.com
+brightcove.net
 brightedge.com
 brightroll.com
 brighttag.com
@@ -807,6 +826,7 @@ carloforward.com
 carrotquest.io
 cart.ro
 cartelsalsa.com
+cartfulsolutions.com
 carts.guru
 carvecakes.com
 casalemedia.com
@@ -822,6 +842,7 @@ ccgateway.net
 cdn-net.com
 cdn-path.com
 cdn-sitegainer.com
+cdn1cloudflare.xyz
 cdn4dd.com
 cdninstagram.com
 cdnma.com
@@ -846,6 +867,7 @@ chartbeat.net
 chartboost.com
 chaturbate.com
 checkm8.com
+checkout.com
 chemistry.com
 cheqzone.com
 chessbranch.com
@@ -1093,12 +1115,12 @@ createsend8.com
 createsend9.com
 creative-serving.com
 creativecdn.com
-creditkarmacdn-a.akamaihd.net
 crimtan.com
 crispmedia.com
 criteo.com
 criteo.net
 crm4d.com
+croomaingly.com
 crosspixel.net
 crosspixelmedia.com
 crowdscience.com
@@ -1124,7 +1146,6 @@ customer.io
 customeriomail.com
 cutechin.com
 cxense.com
-d19rpgkrjeba2z.cloudfront.net
 d1af033869koo7.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
@@ -1133,6 +1154,7 @@ d27xr6oh14aaqn.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
+da-services.ch
 dada.pro
 daexauto.com
 damagedadvice.com
@@ -1144,6 +1166,7 @@ datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
 datadome.co
+datafa.st
 dataium.com
 datamind.ru
 datasift.com
@@ -1154,6 +1177,7 @@ datranmedia.com
 daum.net
 daumcdn.net
 dazzlingbook.com
+dbankly.com
 dc-storm.com
 de17a.com
 debonairdust.com
@@ -1179,6 +1203,8 @@ despegar.com
 destinationurl.com
 detectdiscovery.com
 developermedia.com
+deviceatlas-cdn.com
+deviceinf.com
 df-srv.de
 dgit.com
 dianomi.com
@@ -1263,10 +1289,12 @@ dynamicyield.com
 dynata.com
 dynatrace.com
 dyntrk.com
+dz7188oz6lnyb.cloudfront.net
 e-kolay.net
 e-mail-servers.com
 e-planning.net
 e-volution.ai
+e491328.com
 eagerknight.com
 earnify.com
 earthups.com
@@ -1441,6 +1469,7 @@ flipp.com
 flite.com
 flixcdn.com
 flocktory.com
+flodesk.com
 floors.dev
 floweryfact.com
 fluct.jp
@@ -1491,6 +1520,7 @@ fullstory.com
 fulltango.com
 funcaptcha.com
 fundraiseup.com
+funraise.io
 fuseplatform.net
 futureads.com
 futuristicframe.com
@@ -1575,6 +1605,7 @@ goallbest.com
 goatbillions.com
 godaddy.com
 godatafeed.com
+godpvqnszo.com
 gogrid.com
 goldbach.com
 goldbachgroup.com
@@ -1584,6 +1615,7 @@ golfcartlaws.com
 golfersrow.com
 gomez.com
 gondolagnome.com
+gonreommon.com
 google-analytics.com
 google.ad
 google.ae
@@ -1800,6 +1832,7 @@ graphenedigitalanalytics.in
 gravatar.com
 greasysquare.com
 greencolumnart.com
+greencolumnhealth.com
 greystripe.com
 grocerycrew.com
 groceryshopping.net
@@ -1869,6 +1902,7 @@ homesessive.com
 honeybulb.com
 honorableland.com
 honorfile.com
+hornblower.com
 horyzon-media.com
 hospitablehall.com
 hospitablehat.com
@@ -1932,6 +1966,7 @@ igodigital.com
 iinfo.cz
 iivt.com
 ijhyugb.com
+illiweb.com
 illumin.com
 im-apps.net
 images-iherb.com
@@ -1948,6 +1983,7 @@ imrworldwide.com
 imweb.me
 incompetentjoke.com
 inconclusiveaction.com
+indextops.com
 indexww.com
 indieclick.com
 industrybrains.com
@@ -2037,6 +2073,7 @@ ivwbox.de
 ixactcontact.com
 ixs1.net
 izooto.com
+j189eb.com
 j93557g.com
 jads.co
 jailbulb.com
@@ -2111,6 +2148,7 @@ klarnaservices.com
 klaviyo.com
 klevu.com
 km0trk.com
+kmalgo.com
 knitstamp.com
 knottyswing.com
 kochava.com
@@ -2239,6 +2277,7 @@ lytics.io
 lytiks.com
 lzjl.com
 m156b.com
+m167cw.com
 m2911p.com
 m314xw.com
 m3651.net
@@ -2273,6 +2312,7 @@ mambasms.com
 mandatory.com
 mandrillapp.com
 manifest.ru
+manuscdn.com
 mapbasin.com
 mapcommand.com
 mapixl.com
@@ -2317,6 +2357,7 @@ meatydime.com
 mecglobal.com
 medallia.com
 meddleplant.com
+media-amazon.com
 media-rockstargames-com.akamaized.net
 media-servers.net
 media.net
@@ -2341,6 +2382,7 @@ medicxmedia.com
 medley.com
 meetic-partners.com
 megaindex.ru
+megpxs.com
 melodiouschorus.com
 melodiouscomposition.com
 memorizematch.com
@@ -2482,9 +2524,11 @@ mktoweb.com
 ml314.com
 mlstatic.com
 mltrk.io
+mlytics.com
 mmapiws.com
 mmcdn.com
 mmismm.com
+mnaspm.com
 moat.com
 moatads.com
 moatpixel.com
@@ -2555,6 +2599,7 @@ myvisualiq.net
 mywebgrocer.com
 naivestatement.com
 nakanohito.jp
+namastedharma.com
 nanigans.com
 nappyattack.com
 narrative.io
@@ -2605,6 +2650,7 @@ nielsen.com
 nightwound.com
 ninthdecimal.com
 nitropay.com
+nitroscripts.com
 nmgassets.com
 nnowa.com
 nocodelytics.com
@@ -2621,6 +2667,7 @@ nostalgicneed.com
 nosto.com
 nostringsattached.com
 notolytix.com
+novaontech.com
 nowaymail.com
 nowspots.com
 npttech.com
@@ -2717,8 +2764,10 @@ optmd.com
 optnmstr.com
 opulentsylvan.com
 oracle.com
+oracleinfinity.io
 orangebirdie.com
 orangesoda.com
+orb.ee
 orbengine.com
 orbsrv.com
 oribi.io
@@ -2770,6 +2819,7 @@ passivepolo.com
 patch.com
 paypal.com
 paypopup.com
+paystack.com
 pbbl.co
 pbstck.com
 pch.com
@@ -2850,6 +2900,7 @@ polarmobile.com
 polen.com.br
 polishedfolly.com
 politicalporter.com
+poll-maker.com
 polldaddy.com
 polymail.io
 pontiflex.com
@@ -2944,6 +2995,7 @@ qiota.com
 qksz.com
 qksz.net
 qnsr.com
+qq.com
 qsstats.com
 quadpay.com
 qualaroo.com
@@ -3008,6 +3060,7 @@ reduxmedia.com
 reedge.com
 reemo-ad.jp
 refersion.com
+refinery89.com
 reflow.tv
 regularplants.com
 regulatesleet.com
@@ -3118,6 +3171,7 @@ rundsp.com
 ruralrobin.com
 rusticprice.com
 rutarget.ru
+rxayc.com
 s-onetag.com
 s13emagst.akamaized.net
 sa-as.com
@@ -3133,6 +3187,7 @@ sail-personalize.com
 sailplay.ru
 sailthru.com
 salbraddrepilly.com
+salecycle.com
 salesforce.com
 salesforceiq.com
 salesforceliveagent.com
@@ -3150,6 +3205,7 @@ sapient.com
 sardine.ai
 sas.com
 sascdn.com
+satis.fi
 satisfycork.com
 sattiostiounper.com
 savoryorange.com
@@ -3224,6 +3280,7 @@ sentrymagic.com
 seoptiks.com
 separatesort.com
 serenepebble.com
+seroundprince.com
 serv1swork.com
 servebom.com
 servedbyadbutler.com
@@ -3353,6 +3410,7 @@ soretrain.com
 soundestlink.com
 soundstocking.com
 sovrn.com
+sp-gn.com
 sp-trk.com
 spacechimpmedia.com
 sparechange.io
@@ -3367,6 +3425,7 @@ spectate.com
 speedcurve.com
 spellknight.com
 sphere.com
+spiddefrexpron.com
 spongecell.com
 sponsorads.de
 spookystitch.com
@@ -3405,6 +3464,7 @@ statisfy.net
 statistics.ro
 statistik-gallup.net
 statsit.com
+stay22.com
 steadfastsound.com
 steadfastsystem.com
 steelhouse.com
@@ -3421,6 +3481,7 @@ stormiq.com
 storygize.com
 storygize.net
 storyly.io
+stpd.cloud
 straightnest.com
 strangeclocks.com
 stratigent.com
@@ -3561,16 +3622,20 @@ tisoomi.com
 tk0x1.com
 tlvmedia.com
 tmogul.com
+tnafpt.com
 tncid.app
 tns-counter.ru
 tns-cs.net
 tnsglobal.com
 toasttutor.com
+togreencolumn.com
 tonemedia.com
 tongdun.net
+topincome.cc
 touchclarity.com
 touchcommerce.com
 townnews.com
+townsquare.media
 tp88trk.com
 tpbid.com
 tqlkg.com
@@ -3673,6 +3738,7 @@ udzpel.com
 ufpcdn.com
 uidapi.com
 uimserv.net
+ujet.co
 ultraoranges.com
 ultravalid.com
 umbel.com
@@ -3700,6 +3766,7 @@ uol.com.br
 up-value.de
 uplynk.com
 upravel.com
+upscope.io
 upsellit.com
 uptrends.com
 urbanlaurel.com
@@ -3751,6 +3818,7 @@ vertster.com
 vevorstatic.com
 vgwort.de
 vi.ai
+viadata.store
 viafoura.co
 viafoura.net
 vibrantcelebration.com
@@ -3759,6 +3827,7 @@ vibrantsundown.com
 vic-m.co
 vidazoo.com
 videoamp.com
+videobaba.xyz
 videoplayerhub.com
 videoplaza.tv
 videostep.com
@@ -3794,6 +3863,7 @@ vizury.com
 vk.com
 vkontakte.ru
 vlitag.com
+vntsm.com
 vocento.com
 vocstatic.com
 vocus.io
@@ -3855,10 +3925,12 @@ webtrafficsource.com
 webtraxs.com
 webtrekk.com
 webtrekk.net
+webtrends-optimize.com
 webtrends.com
 webtrendslive.com
 webvisor.com
 webvisor.org
+weligillysies.com
 whimsicalcanyon.com
 whiteops.com
 wholituaten.com
@@ -3871,6 +3943,7 @@ wingify.com
 wirecomic.com
 wiredminds.com
 wiredminds.de
+wisej1355.com
 wisepops.com
 wisepops.net
 wishabi.com
@@ -3888,6 +3961,7 @@ wordfly.com
 wordstream.com
 workhorsefunds.com
 worldrealize.com
+wortindely.com
 wowanalytics.co.uk
 wp.com
 wpadmngr.com
@@ -3896,6 +3970,7 @@ wpshsdk.com
 wrethicap.info
 wrongwound.com
 wsod.com
+wt-eu02.net
 wt-safetag.com
 wtp101.com
 wunderkind.co
@@ -3971,6 +4046,7 @@ yougreencolumn.com
 youknowbest.com
 yourlifedream.com
 youseasky.com
+youstarsbuilding.com
 youtube-nocookie.com
 youtube.com
 ytimg.com
@@ -3992,13 +4068,16 @@ zencdn.net
 zendesk.com
 zeotap.com
 zeppelinradio.com
+zeronaught.com
 zestyhorizon.com
+zhihu.com
 zi-scripts.com
 zipmoney.com.au
 zipthelake.com
 zlp6s.pw
 zoominfo.com
 zopim.com
+zprk.io
 ztsrv.com
 zucks.net
 zumobi.com
