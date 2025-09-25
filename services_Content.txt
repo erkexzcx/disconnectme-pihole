@@ -232,6 +232,7 @@ gravatar.com
 gstatic.com
 imgix.net
 instagram.com
+judge.me
 jwpcdn.com
 jwplatform.com
 jwplayer.com
