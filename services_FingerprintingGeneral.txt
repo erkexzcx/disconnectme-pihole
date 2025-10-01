@@ -1,6 +1,7 @@
 24metrics.com
 2mdn.net
 2o7.net
+abtshield.com
 adbrain.com
 adbrn.com
 adjust.com
@@ -26,6 +27,7 @@ auditude.com
 avantlink.com
 avantmetrics.com
 beelinks.solutions
+benovel.com
 bizweb.dktcdn.net
 bkrtx.com
 bluekai.com
@@ -47,6 +49,7 @@ demdex.net
 designbloxlive.com
 destinationurl.com
 developers.google.com
+dfsdk.com
 digitalwindow.com
 dmtracker.com
 dotomi.com
@@ -147,6 +150,7 @@ static.airpackapp.com
 static.airwallex.com
 steelhouse.com
 steelhousemedia.com
+tag.fanhub.geniussports.com
 tapad.com
 teracent.com
 teracent.net
@@ -163,6 +167,7 @@ vocento.com
 voice.google.com
 vreview.tv
 vtex.com.br
+wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
 widgets.trustedshops.com

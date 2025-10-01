@@ -2737,6 +2737,7 @@ api.fouanalytics.com
 api.iafstats.com
 apnewsregistry.com
 asnapieu.com
+assets.macysassets.com
 aswpsdkus.com
 at-o.net
 atgsvcs.com
@@ -2744,6 +2745,7 @@ aticdn.net
 atinternet.com
 atoomic.com
 attracta.com
+attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net
 audienceinsights.net
 audioeye.com
 autoblog.com
@@ -2912,6 +2914,7 @@ hotlog.ru
 hrcdn.net
 hs-analytics.net
 hsforms.net
+hsprotect.net
 hubspot.com
 ibm.com
 icfcdn.com
@@ -3160,6 +3163,7 @@ v12group.com
 valuedopinions.co.uk
 verticalacuity.com
 vertster.com
+video-cdn.net
 videobaba.xyz
 visitor-analytics.io
 visitstreamer.com
@@ -3227,11 +3231,13 @@ arkoselabs.com
 browseranalytic.com
 captcha-delivery.com
 clean.gg
+cleantalk.org
 client.protechts.net
 datadome.co
 funcaptcha.com
 geetest.com
 hcaptcha.com
+kyc.red
 linkprotect.cudasvc.com
 nofraud.com
 notolytix.com
@@ -3508,6 +3514,7 @@ mux.com
 my.mail.ru
 nuance.com
 o.alicdn.com
+oddschecker.com
 oracle.com
 org.coveo.com
 paypal.com
@@ -4085,6 +4092,7 @@ yotpo.com
 24metrics.com
 2mdn.net
 2o7.net
+abtshield.com
 adbrain.com
 adbrn.com
 adjust.com
@@ -4110,6 +4118,7 @@ auditude.com
 avantlink.com
 avantmetrics.com
 beelinks.solutions
+benovel.com
 bizweb.dktcdn.net
 bkrtx.com
 bluekai.com
@@ -4131,6 +4140,7 @@ demdex.net
 designbloxlive.com
 destinationurl.com
 developers.google.com
+dfsdk.com
 digitalwindow.com
 dmtracker.com
 dotomi.com
@@ -4231,6 +4241,7 @@ static.airpackapp.com
 static.airwallex.com
 steelhouse.com
 steelhousemedia.com
+tag.fanhub.geniussports.com
 tapad.com
 teracent.com
 teracent.net
@@ -4247,6 +4258,7 @@ vocento.com
 voice.google.com
 vreview.tv
 vtex.com.br
+wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
 widgets.trustedshops.com
@@ -4318,6 +4330,7 @@ app-worker.visitor-analytics.io
 app.mambasms.com
 apxl.io
 aseasky.link
+asepourioter.com
 assets.alicdn.com
 assets.ibcstack.com
 assets.staticimg.com
@@ -4328,8 +4341,10 @@ b112j.com
 b2c.com
 bannercrowd.net
 bashirian.biz
+bestofall.info
 betssonpalantir.com
 bitmedia.io
+blackfire.io
 bloblohub.com
 bluecava.com
 bobabillydirect.org
@@ -4351,6 +4366,7 @@ cacheserv.com
 cafirebreather.com
 capitalaudience.com
 carts.guru
+catiuribripent.com
 cdn-onmar.novaontech.com
 cdn-path.com
 cdn.al-adtech.com
@@ -4433,9 +4449,11 @@ gw-ec.com
 hcaptcha.com
 healthroundprince.com
 herbgreencolumn.com
+herbstarsbuilding.com
 hilltopads.net
 hotelchamp.com
 iivt.com
+imedao.com
 imedia.cz
 iseaskies.com
 islay.tech
@@ -4507,6 +4525,7 @@ plerdy.com
 podname.com
 powerstarsbuilding.com
 ppcprotect.com
+prod-adenty-cdn.azureedge.net
 prometheusintelligencetechnology.com
 protoroundprince.com
 prvc.io
@@ -4587,6 +4606,7 @@ tag.dtk.abtasty.com
 tags.clickagy.com
 tags.dxmdp.com
 tags.tiqcdn.com
+tdslinetraffic.com
 teamblue.services
 techsolutions.com.tw
 thepointyspritesclub.com
@@ -4603,6 +4623,7 @@ tracking.server.bytecon.com
 trafficjunky.com
 tranquilveil.com
 trendemon.com
+trynow.net
 twik.io
 udzpel.com
 ufpcdn.com

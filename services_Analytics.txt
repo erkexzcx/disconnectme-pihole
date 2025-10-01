@@ -37,6 +37,7 @@ api.fouanalytics.com
 api.iafstats.com
 apnewsregistry.com
 asnapieu.com
+assets.macysassets.com
 aswpsdkus.com
 at-o.net
 atgsvcs.com
@@ -44,6 +45,7 @@ aticdn.net
 atinternet.com
 atoomic.com
 attracta.com
+attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net
 audienceinsights.net
 audioeye.com
 autoblog.com
@@ -212,6 +214,7 @@ hotlog.ru
 hrcdn.net
 hs-analytics.net
 hsforms.net
+hsprotect.net
 hubspot.com
 ibm.com
 icfcdn.com
@@ -460,6 +463,7 @@ v12group.com
 valuedopinions.co.uk
 verticalacuity.com
 vertster.com
+video-cdn.net
 videobaba.xyz
 visitor-analytics.io
 visitstreamer.com

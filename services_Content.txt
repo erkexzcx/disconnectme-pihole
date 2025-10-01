@@ -248,6 +248,7 @@ mux.com
 my.mail.ru
 nuance.com
 o.alicdn.com
+oddschecker.com
 oracle.com
 org.coveo.com
 paypal.com

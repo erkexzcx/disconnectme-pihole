@@ -73,6 +73,7 @@ absorbingband.com
 absorbingprison.com
 abstractedamount.com
 abtasty.com
+abtshield.com
 acblnk.com
 accelia.net
 accelo.com
@@ -528,6 +529,7 @@ arkoselabs.com
 aroa.io
 ascent360.com
 aseasky.link
+asepourioter.com
 askdriver.com
 asksuite.com
 asnapieu.com
@@ -649,9 +651,11 @@ belstat.de
 belstat.fr
 belstat.nl
 bemail.it
+benovel.com
 bentonow.com
 beop.io
 besstahete.info
+bestofall.info
 bestofluck.io
 betgenius.com
 betrad.com
@@ -683,6 +687,7 @@ bizo.com
 bizographics.com
 bizrate.com
 bkrtx.com
+blackfire.io
 blacklabelads.com
 blaze.com
 bleachbubble.com
@@ -831,6 +836,7 @@ carts.guru
 carvecakes.com
 casalemedia.com
 cashbeet.com
+catiuribripent.com
 causes.com
 cautiouscherries.com
 cautiouscredit.com
@@ -895,6 +901,7 @@ clarium.io
 classicnotebook.com
 clean.gg
 cleanhaircut.com
+cleantalk.org
 clearbit.com
 clearbitjs.com
 clearlink.com
@@ -1206,6 +1213,7 @@ developermedia.com
 deviceatlas-cdn.com
 deviceinf.com
 df-srv.de
+dfsdk.com
 dgit.com
 dianomi.com
 did-it.com
@@ -1552,6 +1560,7 @@ geniee.co.jp
 genieesspv.jp
 geniuslinkcdn.com
 geniusmonkey.com
+geniussports.com
 geoads.com
 geocomply.com
 geoedge.be
@@ -1877,6 +1886,7 @@ hellounbox.com
 helpscout.net
 hepsiburada.net
 herbgreencolumn.com
+herbstarsbuilding.com
 heronpartners.com.au
 hextom.com
 heyaiii111iidsfsdbfjb132222ffco.xyz
@@ -1927,6 +1937,7 @@ hsforms.com
 hsforms.net
 hsleadflows.net
 hsms06.com
+hsprotect.net
 htlbid.com
 htplayground.com
 httpool.com
@@ -1971,6 +1982,7 @@ illumin.com
 im-apps.net
 images-iherb.com
 imdb.com
+imedao.com
 imedia.cz
 imgix.net
 impact-ad.jp
@@ -2163,6 +2175,7 @@ ksearchnet.com
 ktkjmp.com
 kueezrtb.com
 kwai.net
+kyc.red
 laboredlocket.com
 ladsp.com
 lahar.com.br
@@ -2283,6 +2296,7 @@ m314xw.com
 m3651.net
 m3652.net
 m6d.com
+macysassets.com
 madhouse.cn
 madisonlogic.com
 madvertise.com
@@ -2698,6 +2712,7 @@ oberon-media.com
 obscenesidewalk.com
 observerapp.com
 ocms.cloud
+oddschecker.com
 oewa.at
 officelive.com
 offshoregeology.com
@@ -2948,6 +2963,7 @@ pro-market.net
 processplantation.com
 proclivitymedia.com
 proclivitysystems.com
+prod-adenty-cdn.azureedge.net
 profanstee.com
 profusesupport.com
 programattik.com
@@ -3559,6 +3575,7 @@ targetix.net
 tazeros.com
 tchibo.de
 tctm.co
+tdslinetraffic.com
 teads.tv
 tealiumiq.com
 teamblue.services
@@ -3702,6 +3719,7 @@ trustedsite.com
 trustpilot.com
 trustx.org
 trvdp.com
+trynow.net
 tsyndicate.com
 ttarget.ru
 ttvnw.net
@@ -3826,6 +3844,7 @@ vibrantmedia.com
 vibrantsundown.com
 vic-m.co
 vidazoo.com
+video-cdn.net
 videoamp.com
 videobaba.xyz
 videoplayerhub.com
@@ -3882,6 +3901,7 @@ w3counter.com
 w3roi.com
 w55c.net
 wahoha.com
+wandzcdn.com
 wanmo.com
 warmafterthought.com
 warmquiver.com
@@ -4054,6 +4074,7 @@ ytsa.net
 yume.com
 yumenetworks.com
 yvmads.com
+z01.azurefd.net
 zadn.vn
 zaful.com
 zanox-affiliate.de
