@@ -217,8 +217,6 @@ adreactor.com
 adready.com
 adreadypixels.com
 adreadytractions.com
-adrevolution.com
-adrevolver.com
 adriver.ru
 adrolays.com
 adroll.com
@@ -316,9 +314,7 @@ adxcel-ec2.com
 adxpansion.com
 adxpose.com
 adxvalue.com
-adxvalue.de
 adyard.de
-adyield.com
 adyoulike.com
 adzcentral.com
 adzerk.com
@@ -334,7 +330,6 @@ affili.net
 affiliatetracking.com
 affiliatly.com
 affilimate.io
-affilinet-inside.de
 affine.tv
 affinesystems.com
 affinity.com
@@ -428,8 +423,6 @@ appmetrx.com
 appnexus.com
 appsflyer.com
 appssavvy.com
-aprecision.net
-aquantive.com
 aralego.com
 arcspire.io
 aroa.io
@@ -451,7 +444,6 @@ attractionbanana.com
 attracto.com
 atwola.com
 audience2media.com
-audienceadnetwork.com
 audienceiq.com
 audiencemanager.de
 audiencescience.com
@@ -601,7 +593,6 @@ buildingknife.com
 bumlam.com
 bungeesleeves.com
 burnbubble.com
-burstdirectads.com
 burstly.com
 burstmedia.com
 burstnet.com
@@ -715,7 +706,6 @@ clickguard.com
 clickhype.com
 clickinc.com
 clickintext.net
-clickotmedia.com
 clicksor.com
 clicksor.net
 clicktripz.com
@@ -742,6 +732,7 @@ cometlytrack.com
 commandbar.com
 commander1.com
 communicatorcorp.com
+compass-fit.jp
 compasslabs.com
 complex.com
 complexmedianetwork.com
@@ -940,7 +931,6 @@ efrontier.com
 ekolay.net
 ekonsilio.io
 eleavers.com
-elfsight.com
 emarsys.net
 emediate.biz
 emediate.dk
@@ -958,6 +948,7 @@ engagebdr.com
 engago.com
 engineertrick.com
 engineseeker.com
+enhance.co.jp
 enigmaticcanyon.com
 enormousearth.com
 ensighten.com
@@ -1338,7 +1329,6 @@ j93557g.com
 jads.co
 jailbulb.com
 jaroop.com
-jasperlabs.com
 jetskiscovers.com
 jewelryforest.com
 jink.de
@@ -1533,7 +1523,6 @@ mediabrix.com
 mediaforge.com
 mediago.io
 medialead.de
-medialets.com
 mediamath.com
 medianet.com
 mediaocean.com
@@ -1546,7 +1535,6 @@ mediawallah.com
 mediawallahscript.com
 medicxmedia.com
 medley.com
-meetic-partners.com
 megaindex.ru
 melodiouschorus.com
 melodiouscomposition.com
@@ -1568,6 +1556,7 @@ mgid.com
 micpn.com
 microad.jp
 microad.net
+mieru-ca.com
 mindshare.nl
 minutemedia-prebid.com
 mirando.de
@@ -1575,7 +1564,6 @@ mixpo.com
 mkt51.net
 mktoweb.com
 mlstatic.com
-mmismm.com
 mnaspm.com
 moat.com
 moatads.com
@@ -1809,6 +1797,7 @@ permodo.com
 permutive.app
 permutive.com
 permuto.com
+personalizer.io
 pghub.io
 pheedo.com
 phoenix-widget.com
@@ -2165,7 +2154,6 @@ shoplineapp.com
 shopzilla.com
 shorte.st
 shorttailmedia.com
-showmeinn.com
 shredquiz.com
 shrillspoon.com
 shydinosaurs.com
@@ -2240,7 +2228,6 @@ sparklit.com
 sparkloop.app
 sparkstudios.com
 specificclick.net
-specificmedia.co.uk
 specificmedia.com
 spectacularstamp.com
 spectate.com
@@ -2340,6 +2327,7 @@ t13.io
 taboola.com
 tackytrains.com
 tacoda.net
+tagtoo.co
 tail.digital
 tailsweep.com
 tailtarget.com
@@ -2399,7 +2387,6 @@ tiresomethunder.com
 tisoomi.com
 tk0x1.com
 tlvmedia.com
-tmogul.com
 tncid.app
 toasttutor.com
 tonemedia.com
@@ -2409,6 +2396,7 @@ tp88trk.com
 tpbid.com
 tqlkg.com
 tracecontent.com
+trackad.cz
 trackalyzer.com
 trackcmp.net
 trackedlink.net
@@ -2533,7 +2521,6 @@ vendio.com
 veoxa.com
 verdantlabyrinth.com
 verdantsculpture.com
-veremedia.com
 verseballs.com
 versium.com
 vertamedia.com
@@ -2567,6 +2554,7 @@ visiblemeasures.com
 visistat.com
 visitor.service.ksearchnet.com
 visualdna.com
+visually-io.com
 visualrevenue.com
 visx.net
 vividcanopy.com
@@ -2649,6 +2637,7 @@ xplosion.de
 xplusone.com
 xtendmedia.com
 yadro.ru
+yads.tech
 yahoo.co.jp
 yahoo.net
 yandex.ru
@@ -2675,7 +2664,6 @@ ynxs.io
 yoc-performance.com
 yoc.com
 yoggrt.com
-youknowbest.com
 yourlifedream.com
 ytsa.net
 yume.com

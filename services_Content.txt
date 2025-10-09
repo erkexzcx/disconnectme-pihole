@@ -27,6 +27,7 @@ cloudinary.com
 content.powerapps.com
 daumcdn.net
 dynamics.com
+elfsight.com
 fbcdn.net
 flickr.com
 fundraiseup.com

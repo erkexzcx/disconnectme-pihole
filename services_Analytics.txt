@@ -80,7 +80,6 @@ bugsnag.com
 bunchball.com
 buysafe.com
 cbox.ws
-cbsinteractive.com
 cdn-net.com
 cdn.gbqofs.com
 cdn.getdeviceinf.com
@@ -90,6 +89,7 @@ certifica.com
 cetrk.com
 chartbeat.com
 chartbeat.net
+civicscience.com
 clarity.ms
 clean.gg
 clevertap-prod.com
@@ -99,7 +99,6 @@ clickdensity.com
 clicktale.com
 clicktale.net
 clicktracks.com
-clixmetrix.com
 clixpy.com
 cloudflareinsights.com
 clustrmaps.com
@@ -186,7 +185,6 @@ getclicky.com
 getsatisfaction.com
 getsitecontrol.com
 gfk.com
-gfkdaphne.com
 go-mpulse.net
 godpvqnszo.com
 gogrid.com
@@ -251,6 +249,7 @@ keymetric.net
 keytiles.com
 kissinsights.com
 kissmetrics.com
+kissmetrics.io
 leadfeeder.com
 lightboxcdn.com
 limelight.com
@@ -285,6 +284,7 @@ maxmind.com
 mdotlabs.com
 medallia.com
 media-rockstargames-com.akamaized.net
+medtargetsystem.com
 megpxs.com
 mentionideablit.com
 merchant-center-analytics.goog
@@ -302,6 +302,7 @@ monitus.net
 monsido.com
 mouseflow.com
 mparticle.com
+mpeasylink.com
 muscache.com
 muxanalytics.com
 mxpnl.com
@@ -311,6 +312,7 @@ mypagerank.net
 nakanohito.jp
 narrative.io
 nedstatbasic.net
+nereserv.com
 netapplications.com
 newrelic.com
 newsinc.com
@@ -370,6 +372,8 @@ radarurl.com
 rdrctgoweb.com
 reedge.com
 reinvigorate.net
+remotejs.com
+requestmetrics.com
 researchnow.com
 ridicdn.net
 ringier.cz
@@ -423,6 +427,8 @@ stratigent.com
 svlu.net
 swymrelay.com
 synacor.com
+system-notify.app
+tagcommander.com
 tazeros.com
 tctm.co
 tealiumiq.com
@@ -441,6 +447,7 @@ tracify.ai
 trackedweb.net
 trackersimulator.org
 trackingsoft.com
+trackjs.com
 trackset.com
 trafficfacts.com
 trustdecision.com
@@ -499,6 +506,7 @@ weligillysies.com
 whiteops.com
 wholituaten.com
 wibiya.com
+wideangle.co
 wingify.com
 woopra-ns.com
 woopra.com
@@ -525,3 +533,4 @@ zi-scripts.com
 zoominfo.com
 zopim.com
 zprk.io
+zqtk.net
