@@ -85,7 +85,6 @@ bounceexchange.com
 bouncex.com
 bouncex.net
 breaktime.com.tw
-browseranalytic.com
 buckridge.link
 buzzoola.com
 byroundprince.com
@@ -167,7 +166,6 @@ fraudjs.io
 fraudmetrix.cn
 friendshipmale.com
 g.alicdn.com
-geetest.com
 gfl85trk.com
 go.showmeyouradsnow.com
 goallbest.com
@@ -177,7 +175,6 @@ greencolumnart.com
 greencolumnhealth.com
 guoshipartners.com
 gw-ec.com
-hcaptcha.com
 healthroundprince.com
 herbgreencolumn.com
 herbstarsbuilding.com
@@ -231,8 +228,6 @@ namastedharma.com
 negishim.org
 news.jennydanny.com
 nnowa.com
-nofraud.com
-notolytix.com
 nsure.tebex.io
 nwwais.com
 o789thktrk.com
@@ -245,7 +240,6 @@ online-metrix.net
 onsite.joinground.com
 openfpcdn.io
 othersides.top
-perimeterx.net
 phoenix-widget.com
 pixanalytics.com
 pixel.barion.com
@@ -262,7 +256,6 @@ protoroundprince.com
 prvc.io
 pubfuture-ad.com
 push-ad.com
-px-cloud.net
 pxlclnmdecom-a.akamaihd.net
 quitzon.net
 rdrctgoweb.com
@@ -302,10 +295,6 @@ seseasky.com
 sf14g.com
 shiftdigitalapps.io
 shorte.st
-sift.com
-siftscience.com
-signifyd.com
-simility.com
 sitewithg.com
 smarketer.de
 smartcaptcha.yandexcloud.net

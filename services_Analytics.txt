@@ -16,8 +16,6 @@ adap.tv
 addfreestats.com
 adobedc.net
 advombat.ru
-adxyield.com
-adzmath.com
 aidata.me
 airship.com
 akstat.io
@@ -91,7 +89,6 @@ chartbeat.com
 chartbeat.net
 civicscience.com
 clarity.ms
-clean.gg
 clevertap-prod.com
 clevertap.com
 clickability.com
@@ -179,7 +176,6 @@ freeonlineusers.com
 friendshipmale.com
 fullstory.com
 gaug.es
-geetest.com
 geoip-js.com
 getclicky.com
 getsatisfaction.com
@@ -319,9 +315,7 @@ newsinc.com
 nielsen.com
 nitroscripts.com
 nocodelytics.com
-nofraud.com
 noibu.com
-notolytix.com
 nr-data.net
 nuconomy.com
 nurago.com
@@ -402,7 +396,6 @@ sesamestats.com
 sessioncam.com
 shinystat.com
 shoutcast.com
-sift.com
 simpleanalyticscdn.com
 simply.com
 siteimproveanalytics.com
@@ -503,7 +496,6 @@ webtrekk.net
 webtrends.com
 webtrendslive.com
 weligillysies.com
-whiteops.com
 wholituaten.com
 wibiya.com
 wideangle.co

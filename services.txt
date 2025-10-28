@@ -752,7 +752,6 @@ consumerzero.com
 contaxe.com
 contentabc.com
 contentexchange.me
-contentful.com
 contentwidgets.net
 contextin.com
 contextuads.com
@@ -2704,8 +2703,6 @@ adap.tv
 addfreestats.com
 adobedc.net
 advombat.ru
-adxyield.com
-adzmath.com
 aidata.me
 airship.com
 akstat.io
@@ -2779,7 +2776,6 @@ chartbeat.com
 chartbeat.net
 civicscience.com
 clarity.ms
-clean.gg
 clevertap-prod.com
 clevertap.com
 clickability.com
@@ -2867,7 +2863,6 @@ freeonlineusers.com
 friendshipmale.com
 fullstory.com
 gaug.es
-geetest.com
 geoip-js.com
 getclicky.com
 getsatisfaction.com
@@ -3007,9 +3002,7 @@ newsinc.com
 nielsen.com
 nitroscripts.com
 nocodelytics.com
-nofraud.com
 noibu.com
-notolytix.com
 nr-data.net
 nuconomy.com
 nurago.com
@@ -3090,7 +3083,6 @@ sesamestats.com
 sessioncam.com
 shinystat.com
 shoutcast.com
-sift.com
 simpleanalyticscdn.com
 simply.com
 siteimproveanalytics.com
@@ -3191,7 +3183,6 @@ webtrekk.net
 webtrends.com
 webtrendslive.com
 weligillysies.com
-whiteops.com
 wholituaten.com
 wibiya.com
 wideangle.co
@@ -3288,6 +3279,7 @@ cloudflarestream.com
 cloudfront.net
 cloudinary.com
 content.powerapps.com
+contentful.com
 daumcdn.net
 dynamics.com
 elfsight.com
@@ -3522,7 +3514,6 @@ pinterest.com
 platform-eu.cloud.coveo.com
 platform.cloud.coveo.com
 qq.com
-recaptcha.net
 riskid.security
 s3-ap-southeast-1.amazonaws.com
 s3.amazonaws.com
@@ -4352,7 +4343,6 @@ bounceexchange.com
 bouncex.com
 bouncex.net
 breaktime.com.tw
-browseranalytic.com
 buckridge.link
 buzzoola.com
 byroundprince.com
@@ -4434,7 +4424,6 @@ fraudjs.io
 fraudmetrix.cn
 friendshipmale.com
 g.alicdn.com
-geetest.com
 gfl85trk.com
 go.showmeyouradsnow.com
 goallbest.com
@@ -4444,7 +4433,6 @@ greencolumnart.com
 greencolumnhealth.com
 guoshipartners.com
 gw-ec.com
-hcaptcha.com
 healthroundprince.com
 herbgreencolumn.com
 herbstarsbuilding.com
@@ -4498,8 +4486,6 @@ namastedharma.com
 negishim.org
 news.jennydanny.com
 nnowa.com
-nofraud.com
-notolytix.com
 nsure.tebex.io
 nwwais.com
 o789thktrk.com
@@ -4512,7 +4498,6 @@ online-metrix.net
 onsite.joinground.com
 openfpcdn.io
 othersides.top
-perimeterx.net
 phoenix-widget.com
 pixanalytics.com
 pixel.barion.com
@@ -4529,7 +4514,6 @@ protoroundprince.com
 prvc.io
 pubfuture-ad.com
 push-ad.com
-px-cloud.net
 pxlclnmdecom-a.akamaihd.net
 quitzon.net
 rdrctgoweb.com
@@ -4569,10 +4553,6 @@ seseasky.com
 sf14g.com
 shiftdigitalapps.io
 shorte.st
-sift.com
-siftscience.com
-signifyd.com
-simility.com
 sitewithg.com
 smarketer.de
 smartcaptcha.yandexcloud.net

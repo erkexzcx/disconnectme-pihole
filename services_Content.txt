@@ -25,6 +25,7 @@ cloudflarestream.com
 cloudfront.net
 cloudinary.com
 content.powerapps.com
+contentful.com
 daumcdn.net
 dynamics.com
 elfsight.com
@@ -259,7 +260,6 @@ pinterest.com
 platform-eu.cloud.coveo.com
 platform.cloud.coveo.com
 qq.com
-recaptcha.net
 riskid.security
 s3-ap-southeast-1.amazonaws.com
 s3.amazonaws.com
