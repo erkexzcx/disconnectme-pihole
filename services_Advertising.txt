@@ -407,6 +407,7 @@ anonymous-media.com
 ansira.com
 anymind360.com
 aolcloud.net
+api-private.atlassian.com
 apmebf.com
 app-us1.com
 app.link
@@ -426,6 +427,7 @@ appssavvy.com
 aralego.com
 arcspire.io
 aroa.io
+as.atlassian.com
 ascent360.com
 askdriver.com
 aspiringapples.com
@@ -434,7 +436,6 @@ assets.funraise.io
 assoc-amazon.com
 atedra.com
 atemda.com
-atlassian.com
 atlassolutions.com
 atomex.net
 atrinsic.com
@@ -1341,6 +1342,7 @@ joystiq.com
 jpush.cn
 js.securionpay.com
 js7k.com
+jsd-widget.atlassian.com
 jsrdn.com
 jubilantglimmer.com
 jubilantwhisper.com

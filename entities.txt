@@ -496,6 +496,7 @@ aol.com
 aolcdn.com
 aolcloud.net
 api-maps.yandex.ru
+api-private.atlassian.com
 apmebf.com
 apms5.com
 apnewsregistry.com
@@ -520,6 +521,7 @@ aralego.com
 arcspire.io
 arkoselabs.com
 aroa.io
+as.atlassian.com
 ascent360.com
 aseasky.link
 asepourioter.com
@@ -538,7 +540,6 @@ atemda.com
 atgsvcs.com
 aticdn.net
 atinternet.com
-atlassian.com
 atlassolutions.com
 atomex.net
 atomicpark.email
@@ -2098,6 +2099,7 @@ joystiq.com
 jpush.cn
 js-kit.com
 js7k.com
+jsd-widget.atlassian.com
 jsdelivr.net
 jsecoin.com
 jsrdn.com
