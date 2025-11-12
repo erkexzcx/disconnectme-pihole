@@ -90,7 +90,6 @@ googlesyndication.com
 googletagservices.com
 greystripe.com
 hitbox.com
-hotmart.com
 imweb.me
 infolinks.com
 invitemedia.com
@@ -112,7 +111,6 @@ media-rockstargames-com.akamaized.net
 mediamath.com
 mediaplex.com
 my.hornblower.com
-myshopline.com
 negishim.com
 ngenix.net
 omniture.com
@@ -141,7 +139,6 @@ sdk.fek.pulselive.com
 seel.com
 servedbyopenx.com
 sf16-website-login.neutral.ttwstatic.com
-shoplineapp.com
 smartlock.google.com
 smartyads.com
 socital.com

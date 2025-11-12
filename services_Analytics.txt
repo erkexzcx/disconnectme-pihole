@@ -113,7 +113,6 @@ comscore.com
 conduit-banners.com
 conduit-services.com
 conduit.com
-contactatonce.com
 contents-search-windows.com
 contentsquare.net
 convert.com
@@ -253,13 +252,10 @@ linezing.com
 live.net
 livecamcdn.com
 livefyre.com
-liveperson.com
-liveperson.net
 llnwd.net
 logdy.com
 longtailvideo.com
 loop11.com
-lpsnmedia.net
 ltassrv.com
 luckyorange.com
 luckyorange.net
@@ -317,7 +313,6 @@ nitroscripts.com
 nocodelytics.com
 noibu.com
 nr-data.net
-nuconomy.com
 nurago.com
 nurago.de
 nwwais.com
@@ -345,7 +340,6 @@ perfdrive.com
 persianstat.com
 phonalytics.com
 phpmyvisites.us
-piano.io
 pingdom.net
 piwik.org
 pixanalytics.com
@@ -380,7 +374,6 @@ rtoaster.jp
 safecount.net
 sageanalyst.net
 salesforce.com
-salesforceliveagent.com
 sardine.ai
 sattiostiounper.com
 scanalert.com
@@ -429,7 +422,6 @@ techsolutions.com.tw
 tensquare.com
 thecounter.com
 thirdwatch.ai
-tinypass.com
 tiqcdn.com
 tns-counter.ru
 tns-cs.net
@@ -446,7 +438,6 @@ trafficfacts.com
 trustdecision.com
 ttvnw.net
 turner.com
-turnto.com
 tweetmeme.com
 ubbfpm.com
 ubermedia.com
@@ -518,11 +509,8 @@ yoox.it
 yottaa.com
 yottaa.net
 z0000g.yvmads.com
-zdassets.com
-zendesk.com
 zhihu.com
 zi-scripts.com
 zoominfo.com
-zopim.com
 zprk.io
 zqtk.net

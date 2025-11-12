@@ -1134,7 +1134,6 @@ gmads.net
 gmossp-sp.jp
 gnezdo.ru
 goatbillions.com
-godaddy.com
 godatafeed.com
 goldbach.com
 goldbachgroup.com
@@ -1208,7 +1207,6 @@ honorfile.com
 horyzon-media.com
 hospitablehall.com
 hospitablehat.com
-hotmart.com
 hotwords.com
 hotwords.es
 hprofits.com
@@ -1612,7 +1610,6 @@ myads.com
 mybuys.com
 mydas.mobi
 mypressplus.com
-myshopline.com
 mythad.com
 mythings.com
 mywebgrocer.com
@@ -1664,7 +1661,6 @@ nonstoppartner.net
 nordicdataresources.net
 nostalgicknot.com
 nostalgicneed.com
-nosto.com
 nostringsattached.com
 novaontech.com
 nowaymail.com
@@ -2151,7 +2147,6 @@ shesubscriptions.com
 shinobi.jp
 shinypond.com
 shop.pe
-shoplineapp.com
 shopzilla.com
 shorte.st
 shorttailmedia.com
@@ -2802,7 +2797,6 @@ comscore.com
 conduit-banners.com
 conduit-services.com
 conduit.com
-contactatonce.com
 contents-search-windows.com
 contentsquare.net
 convert.com
@@ -2942,13 +2936,10 @@ linezing.com
 live.net
 livecamcdn.com
 livefyre.com
-liveperson.com
-liveperson.net
 llnwd.net
 logdy.com
 longtailvideo.com
 loop11.com
-lpsnmedia.net
 ltassrv.com
 luckyorange.com
 luckyorange.net
@@ -3006,7 +2997,6 @@ nitroscripts.com
 nocodelytics.com
 noibu.com
 nr-data.net
-nuconomy.com
 nurago.com
 nurago.de
 nwwais.com
@@ -3034,7 +3024,6 @@ perfdrive.com
 persianstat.com
 phonalytics.com
 phpmyvisites.us
-piano.io
 pingdom.net
 piwik.org
 pixanalytics.com
@@ -3069,7 +3058,6 @@ rtoaster.jp
 safecount.net
 sageanalyst.net
 salesforce.com
-salesforceliveagent.com
 sardine.ai
 sattiostiounper.com
 scanalert.com
@@ -3118,7 +3106,6 @@ techsolutions.com.tw
 tensquare.com
 thecounter.com
 thirdwatch.ai
-tinypass.com
 tiqcdn.com
 tns-counter.ru
 tns-cs.net
@@ -3135,7 +3122,6 @@ trafficfacts.com
 trustdecision.com
 ttvnw.net
 turner.com
-turnto.com
 tweetmeme.com
 ubbfpm.com
 ubermedia.com
@@ -3207,12 +3193,9 @@ yoox.it
 yottaa.com
 yottaa.net
 z0000g.yvmads.com
-zdassets.com
-zendesk.com
 zhihu.com
 zi-scripts.com
 zoominfo.com
-zopim.com
 zprk.io
 zqtk.net
 adxyield.com
@@ -3280,6 +3263,8 @@ cloudflare.com
 cloudflarestream.com
 cloudfront.net
 cloudinary.com
+connect.nosto.com
+contactatonce.com
 content.powerapps.com
 contentful.com
 daumcdn.net
@@ -3291,6 +3276,7 @@ fundraiseup.com
 geocomply.com
 ggpht.com
 gigya.com
+godaddy.com
 google.ad
 google.ae
 google.al
@@ -3488,6 +3474,7 @@ googleusercontent.com
 googlevideo.com
 gravatar.com
 gstatic.com
+hotmart.com
 imgix.net
 instagram.com
 judge.me
@@ -3498,12 +3485,16 @@ jwpsrv.com
 kakao.com
 kaltura.com
 kinopoisk.ru
+liveperson.com
+liveperson.net
+lpsnmedia.net
 mcafee.com
 media-amazon.com
 microsoft.com
 msn.com
 mux.com
 my.mail.ru
+myshopline.com
 nuance.com
 o.alicdn.com
 oddschecker.com
@@ -3511,6 +3502,7 @@ oracle.com
 org.coveo.com
 paypal.com
 paystack.com
+piano.io
 pinimg.com
 pinterest.com
 platform-eu.cloud.coveo.com
@@ -3520,18 +3512,23 @@ riskid.security
 s3-ap-southeast-1.amazonaws.com
 s3.amazonaws.com
 s3.us-west-2.amazonaws.com
+salesforceliveagent.com
 scene7.com
 searchspring.io
 shop.app
 shopifyapps.com
 shopifysvc.com
+shoplineapp.com
 skype.com
 static.cloud.coveo.com
 staticflickr.com
 stripe.com
 techlab-cdn.com
+thumbs.nosto.com
+tinypass.com
 trumba.com
 tumblr.com
+turnto.com
 twitch.tv
 typekit.com
 typepad.com
@@ -3556,7 +3553,10 @@ yimg.jp
 youtube-nocookie.com
 youtube.com
 ytimg.com
+zdassets.com
 zencdn.net
+zendesk.com
+zopim.com
 adless.io
 analytics.blue
 authedmine.com
@@ -4172,7 +4172,6 @@ googlesyndication.com
 googletagservices.com
 greystripe.com
 hitbox.com
-hotmart.com
 imweb.me
 infolinks.com
 invitemedia.com
@@ -4194,7 +4193,6 @@ media-rockstargames-com.akamaized.net
 mediamath.com
 mediaplex.com
 my.hornblower.com
-myshopline.com
 negishim.com
 ngenix.net
 omniture.com
@@ -4223,7 +4221,6 @@ sdk.fek.pulselive.com
 seel.com
 servedbyopenx.com
 sf16-website-login.neutral.ttwstatic.com
-shoplineapp.com
 smartlock.google.com
 smartyads.com
 socital.com
