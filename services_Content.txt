@@ -296,6 +296,7 @@ typepad.com
 unpkg.com
 uservoice.com
 vgwort.de
+video-cdn.net
 vimeo.com
 vimeocdn.com
 websites.getjusto.com

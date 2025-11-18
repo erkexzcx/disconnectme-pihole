@@ -3138,7 +3138,6 @@ v12group.com
 valuedopinions.co.uk
 verticalacuity.com
 vertster.com
-video-cdn.net
 videobaba.xyz
 visitor-analytics.io
 visitstreamer.com
@@ -3535,6 +3534,7 @@ typepad.com
 unpkg.com
 uservoice.com
 vgwort.de
+video-cdn.net
 vimeo.com
 vimeocdn.com
 websites.getjusto.com
