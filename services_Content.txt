@@ -1,6 +1,7 @@
 5min.com
 adobe.com
 affirm.com
+afterpay.com
 airnavradar.com
 aliyuncs.com
 amazon.com
@@ -31,10 +32,12 @@ contentful.com
 daumcdn.net
 dynamics.com
 elfsight.com
+evgnet.com
 fbcdn.net
 flickr.com
 fundraiseup.com
 geocomply.com
+getshogun.com
 ggpht.com
 gigya.com
 godaddy.com
@@ -246,6 +249,7 @@ jwpsrv.com
 kakao.com
 kaltura.com
 kinopoisk.ru
+klarnaservices.com
 liveperson.com
 liveperson.net
 lpsnmedia.net
@@ -299,8 +303,10 @@ vgwort.de
 video-cdn.net
 vimeo.com
 vimeocdn.com
+vtex.com.br
 websites.getjusto.com
 winamp.com
+wistia.com
 wp.com
 yahoo.com
 yahooapis.com

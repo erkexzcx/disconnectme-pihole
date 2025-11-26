@@ -335,7 +335,6 @@ affinesystems.com
 affinity.com
 afraidlanguage.com
 afterdownload.com
-afterpay.com
 afy11.net
 agencytradingdesk.net
 aggregateknowledge.com
@@ -1111,7 +1110,6 @@ getiton.com
 getlasso.co
 getpolymorph.com
 getrockerbox.com
-getshogun.com
 getwarmly.com
 gfl85trk.com
 giantrealm.com
@@ -1370,7 +1368,6 @@ kissmyads.com
 kitd.com
 kitewheel.com
 kittycatking.com
-klarnaservices.com
 klaviyo.com
 klavyio.klevu.com
 km0trk.com
@@ -2568,7 +2565,6 @@ vreview.tv
 vrtcal.com
 vserv.com
 vserv.mobi
-vtex.com.br
 vtrenz.net
 w3counter.com
 w55c.net
@@ -2605,7 +2601,6 @@ wishabi.com
 wishabi.net
 wisokykulas.bid
 wistfulwaste.com
-wistia.com
 wizardstrategy.com
 wknd.ai
 wordstream.com
@@ -2841,7 +2836,6 @@ etracker.com
 etracker.de
 eulerian.com
 eulerian.net
-evgnet.com
 eviltracker.net
 extreme-dm.com
 extremetracking.com
@@ -3239,6 +3233,7 @@ truste.com
 5min.com
 adobe.com
 affirm.com
+afterpay.com
 airnavradar.com
 aliyuncs.com
 amazon.com
@@ -3269,10 +3264,12 @@ contentful.com
 daumcdn.net
 dynamics.com
 elfsight.com
+evgnet.com
 fbcdn.net
 flickr.com
 fundraiseup.com
 geocomply.com
+getshogun.com
 ggpht.com
 gigya.com
 godaddy.com
@@ -3484,6 +3481,7 @@ jwpsrv.com
 kakao.com
 kaltura.com
 kinopoisk.ru
+klarnaservices.com
 liveperson.com
 liveperson.net
 lpsnmedia.net
@@ -3537,8 +3535,10 @@ vgwort.de
 video-cdn.net
 vimeo.com
 vimeocdn.com
+vtex.com.br
 websites.getjusto.com
 winamp.com
+wistia.com
 wp.com
 yahoo.com
 yahooapis.com
@@ -4245,7 +4245,6 @@ vendemore.com
 vocento.com
 voice.google.com
 vreview.tv
-vtex.com.br
 wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
