@@ -165,6 +165,7 @@ admanmedia.com
 admarketplace.com
 admarketplace.net
 admarvel.com
+admaster.cc
 admatrix.jp
 admaximizer.com
 admedia.com
@@ -220,6 +221,7 @@ adreadytractions.com
 adriver.ru
 adrolays.com
 adroll.com
+adrta.com
 adrtx.net
 ads-twitter.com
 ads.yahoo.com
@@ -337,6 +339,7 @@ afraidlanguage.com
 afterdownload.com
 afy11.net
 agencytradingdesk.net
+agentio.com
 aggregateknowledge.com
 agkn.com
 agreeablearch.com
@@ -429,6 +432,7 @@ aroa.io
 as.atlassian.com
 ascent360.com
 askdriver.com
+aspireglobal.com
 aspiringapples.com
 aspiringattempt.com
 assets.funraise.io
@@ -583,6 +587,7 @@ brighttoe.com
 briskstorm.com
 broadborder.com
 browsiprod.com
+bs.yandex.ru
 btloader.com
 btrll.com
 btstatic.com
@@ -979,6 +984,7 @@ evergage.com
 evolvemediametrics.com
 ewaydirect.com
 ewebse.com
+ex.co
 exampleshake.com
 exdynsrv.com
 executeknowledge.com
@@ -1148,6 +1154,7 @@ googletagservices.com
 gorgeousedge.com
 gorillanation.com
 goutee.top
+govx.com
 grandfatherguitar.com
 grandkingdom.com
 grapeshot.co.uk
@@ -1162,6 +1169,7 @@ gsicommerce.com
 gsspat.jp
 gsspcln.jp
 gssprt.jp
+gtimg.cn
 guj.de
 gumgum.com
 guoshipartners.com
@@ -1264,6 +1272,7 @@ infectiousmedia.com
 infogroup.com
 infolinks.com
 informalbook.com
+ingage.tech
 inmobi.com
 inmobiapis.com
 inmobicdn.net
@@ -1315,6 +1324,7 @@ iqzone.com
 ismatlab.com
 isocket.com
 ispot.tv
+itsfogo.com
 itsoneiota.com
 ivdopia.com
 ivitrack.com
@@ -1468,6 +1478,7 @@ madisonlogic.com
 madvertise.com
 magnetic.com
 magnify360.com
+magsrv.com
 mailchimp.com
 mambasms.com
 manhattan.hintup.io
@@ -1476,6 +1487,7 @@ mapbasin.com
 mapcommand.com
 mapixl.com
 marchex.com
+marchex.io
 marinsm.com
 marketgid.com
 marketingautomation.services
@@ -1500,6 +1512,7 @@ maxbounty.com
 maxpointinteractive.com
 maxymiser.com
 mb01.com
+mc.yandex.com
 mc.yandex.md
 mc.yandex.ru
 mcizas.com
@@ -1723,6 +1736,8 @@ optim.al
 optimallimit.com
 optimatic.com
 optimizely.com
+optimonk.com
+optimove.net
 optimumresponse.com
 optinmonster.com
 optmd.com
@@ -1771,6 +1786,7 @@ paid-to-promote.net
 paleleaf.com
 pangle-ads.com
 papayads.net
+pardot.com
 parklogic.com
 passivepolo.com
 patch.com
@@ -1806,6 +1822,7 @@ piwik.pro
 pixel.ad
 pixel.anyclip.com
 pixel.sg
+pixels.spotify.com
 pixfuture.com
 piximedia.com
 pixlee.com
@@ -1814,6 +1831,7 @@ pjtra.com
 placidactivity.com
 planebasin.com
 platform-one.co.jp
+playbuzz.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -2241,6 +2259,7 @@ sproutinc.com
 sproutingbag.com
 spurioussquirrel.com
 ssm.codes
+st-hatena.com
 st-n.ads1-adnow.com
 st-n.ads5-adnow.com
 stackadapt.com
@@ -2575,6 +2594,7 @@ warmquiver.com
 warumbistdusoarm.space
 wavesmachine.com
 wayfair.com
+web-2-tel.com
 web-visor.com
 web.com
 webcontentassessor.com
@@ -2713,6 +2733,7 @@ aol.com
 api.fouanalytics.com
 api.iafstats.com
 apnewsregistry.com
+appdynamics.com
 asnapieu.com
 assets.macysassets.com
 aswpsdkus.com
@@ -2724,7 +2745,6 @@ atoomic.com
 attracta.com
 attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net
 audienceinsights.net
-audioeye.com
 autoblog.com
 axf8.net
 b3mxnuvcer.com
@@ -2917,6 +2937,7 @@ ivwbox.de
 jivosite.com
 js-kit.com
 jwpltx.com
+k5a.io
 kampyle.com
 keymetric.net
 keytiles.com
@@ -3024,6 +3045,7 @@ pixanalytics.com
 pixel.barion.com
 pixel.thoughtmetric.io
 polldaddy.com
+posthog.com
 postrank.com
 pubnub.com
 punchtab.com
@@ -3080,6 +3102,7 @@ solarwinds.com
 speedcurve.com
 sputnik.ru
 spylog.com
+src-play.com
 stat-track.com
 statcounter.com
 staticstuff.net
@@ -3239,6 +3262,7 @@ aliyuncs.com
 amazon.com
 anyclip.com
 aolcdn.com
+audioeye.com
 azure.com
 azurefd.net
 bazaarvoice.com

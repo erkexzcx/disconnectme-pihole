@@ -34,6 +34,7 @@ aol.com
 api.fouanalytics.com
 api.iafstats.com
 apnewsregistry.com
+appdynamics.com
 asnapieu.com
 assets.macysassets.com
 aswpsdkus.com
@@ -45,7 +46,6 @@ atoomic.com
 attracta.com
 attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net
 audienceinsights.net
-audioeye.com
 autoblog.com
 axf8.net
 b3mxnuvcer.com
@@ -238,6 +238,7 @@ ivwbox.de
 jivosite.com
 js-kit.com
 jwpltx.com
+k5a.io
 kampyle.com
 keymetric.net
 keytiles.com
@@ -345,6 +346,7 @@ pixanalytics.com
 pixel.barion.com
 pixel.thoughtmetric.io
 polldaddy.com
+posthog.com
 postrank.com
 pubnub.com
 punchtab.com
@@ -401,6 +403,7 @@ solarwinds.com
 speedcurve.com
 sputnik.ru
 spylog.com
+src-play.com
 stat-track.com
 statcounter.com
 staticstuff.net

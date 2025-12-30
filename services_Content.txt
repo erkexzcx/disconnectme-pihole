@@ -7,6 +7,7 @@ aliyuncs.com
 amazon.com
 anyclip.com
 aolcdn.com
+audioeye.com
 azure.com
 azurefd.net
 bazaarvoice.com

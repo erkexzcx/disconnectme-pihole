@@ -220,6 +220,7 @@ admanmedia.com
 admarketplace.com
 admarketplace.net
 admarvel.com
+admaster.cc
 admatrix.jp
 admaximizer.com
 admd.ink
@@ -278,6 +279,7 @@ adreadytractions.com
 adriver.ru
 adrolays.com
 adroll.com
+adrta.com
 adrtx.net
 ads-twitter.com
 ads1-adnow.com
@@ -406,6 +408,7 @@ afterdownload.com
 afterpay.com
 afy11.net
 agencytradingdesk.net
+agentio.com
 agentofficemail.com
 aggregateknowledge.com
 agilecrm.com
@@ -504,6 +507,7 @@ app-us1.com
 app.link
 appboycdn.com
 appcast.io
+appdynamics.com
 appenda.com
 appflood.com
 appier.com
@@ -528,6 +532,7 @@ asepourioter.com
 askdriver.com
 asksuite.com
 asnapieu.com
+aspireglobal.com
 aspiringapples.com
 aspiringattempt.com
 assoc-amazon.com
@@ -760,6 +765,7 @@ browser-update.org
 browseranalytic.com
 browsiprod.com
 brsrvr.com
+bs.yandex.ru
 btloader.com
 btrll.com
 btstatic.com
@@ -1384,6 +1390,7 @@ eviltracker.net
 evolvemediametrics.com
 ewaydirect.com
 ewebse.com
+ex.co
 exacttarget.com
 exampleshake.com
 exct.net
@@ -1825,6 +1832,7 @@ gorillanation.com
 gosquared.com
 gostats.com
 goutee.top
+govx.com
 gramombird.com
 grandfatherguitar.com
 grandkingdom.com
@@ -1845,6 +1853,7 @@ gsspat.jp
 gsspcln.jp
 gssprt.jp
 gstatic.com
+gtimg.cn
 gtop.ro
 gtopstats.com
 guj.de
@@ -1998,6 +2007,7 @@ infolinks.com
 infonline.de
 informalbook.com
 infusionsoft.com
+ingage.tech
 inmobi.com
 inmobiapis.com
 inmobicdn.net
@@ -2070,6 +2080,7 @@ isstarsbuilding.com
 istlandoll.com
 itch.io
 itisatracker.com
+itsfogo.com
 itsoneiota.com
 ivdopia.com
 ivitrack.com
@@ -2123,6 +2134,7 @@ jwplayer.com
 jwpltx.com
 jwpsrv.com
 k-analytix.com
+k5a.io
 kakao.com
 kaltura.com
 kameleoon.com
@@ -2203,6 +2215,7 @@ liadm.com
 libertystmedia.com
 libraryvalue.com
 licdn.com
+lifeatspotify.com
 lifestreetmedia.com
 liftdna.com
 liftedknowledge.com
@@ -2297,6 +2310,7 @@ maggieeatstheangel.com
 magiceden.dev
 magnetic.com
 magnify360.com
+magsrv.com
 mail.ru
 mailblue.eu
 mailbutler.io
@@ -2324,6 +2338,7 @@ mapbasin.com
 mapcommand.com
 mapixl.com
 marchex.com
+marchex.io
 marinsm.com
 marketgid.com
 marketingautomation.services
@@ -2352,6 +2367,7 @@ maxmind.com
 maxpointinteractive.com
 maxymiser.com
 mb01.com
+mc.yandex.com
 mcafee.com
 mcizas.com
 mczbf.com
@@ -2765,6 +2781,8 @@ optim.al
 optimallimit.com
 optimatic.com
 optimizely.com
+optimonk.com
+optimove.net
 optimumresponse.com
 optinmonster.com
 optmd.com
@@ -2881,6 +2899,7 @@ pjtra.com
 placidactivity.com
 planebasin.com
 platform-one.co.jp
+playbuzz.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -2924,6 +2943,7 @@ popunder.ru
 possibleboats.com
 possiblepencil.com
 postaffiliatepro.com
+posthog.com
 postrank.com
 postrelease.com
 powerad.ai
@@ -3441,6 +3461,9 @@ spookystitch.com
 sportradarserving.com
 sportyforum.com
 spot.im
+spotify.com
+spotifyforvendors.com
+spotifyjobs.com
 spotim.market
 spotx.tv
 spotxchange.com
@@ -3452,8 +3475,10 @@ spurioussquirrel.com
 sputnik.ru
 spxl.ink
 spylog.com
+src-play.com
 ssl-images-amazon.com
 ssm.codes
+st-hatena.com
 stable.cz
 stackadapt.com
 stackla.com
@@ -3908,6 +3933,7 @@ waust.at
 wavesmachine.com
 wayfair.com
 wayin.com
+web-2-tel.com
 web-stat.com
 web-visor.com
 web.com
