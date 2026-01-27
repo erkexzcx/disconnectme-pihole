@@ -510,6 +510,7 @@ bestofluck.io
 betgenius.com
 betweendigital.com
 bfmio.com
+bidberry.com
 bidfluence.com
 bidpapers.com
 bidr.io
@@ -538,6 +539,7 @@ bleacherreport.net
 bleedlight.com
 blesspizzas.com
 blings.io
+blis.com
 blismedia.com
 blitzcampaigns.com
 blogads.com
@@ -970,6 +972,7 @@ espssl.com
 estara.com
 etarget.eu
 etargetnet.com
+ethicalads.io
 etineria.com
 etrigue.com
 eu-1-id5-sync.com
@@ -1165,6 +1168,7 @@ groceryshopping.net
 groovinads.com
 groupm.com
 grow.me
+grsm.io
 gsicommerce.com
 gsspat.jp
 gsspcln.jp
@@ -1186,6 +1190,7 @@ harrenmedia.com
 harrenmedianetwork.com
 hatena.ne.jp
 hazmatworkshop.com
+hbagency.it
 hbrd.io
 heartbreakingmind.com
 heavyplayground.com
@@ -1473,6 +1478,7 @@ lytiks.com
 lzjl.com
 m167cw.com
 m6d.com
+macromill.com
 madhouse.cn
 madisonlogic.com
 madvertise.com
@@ -1788,6 +1794,8 @@ pangle-ads.com
 papayads.net
 pardot.com
 parklogic.com
+partnerlinks.io
+partnerstack.com
 passivepolo.com
 patch.com
 paypopup.com
@@ -2406,6 +2414,8 @@ touchclarity.com
 townsquare.media
 tp88trk.com
 tpbid.com
+tpmn.co.kr
+tpmn.io
 tqlkg.com
 tracecontent.com
 trackad.cz
@@ -2542,6 +2552,7 @@ vevorstatic.com
 vi.ai
 viafoura.co
 viafoura.net
+vibe.co
 vibrantcelebration.com
 vibrantmedia.com
 vibrantsundown.com

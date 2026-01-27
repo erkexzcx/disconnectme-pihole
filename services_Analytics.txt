@@ -81,6 +81,7 @@ cbox.ws
 cdn-net.com
 cdn.gbqofs.com
 cdn.getdeviceinf.com
+cdnbasket.net
 cedexis.com
 cedexis.net
 certifica.com
@@ -130,6 +131,7 @@ cuebiq.com
 curalate.com
 d.rageagainstthesoap.com
 d2lyx5ly60ksu3.cloudfront.net
+d9stats.com
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
@@ -150,6 +152,7 @@ driftt.com
 dtscdn.com
 dwstat.cn
 dynatrace.com
+edkt.io
 eloqua.com
 eproof.com
 estat.com
@@ -281,6 +284,7 @@ megpxs.com
 mentionideablit.com
 merchant-center-analytics.goog
 merkleinc.com
+metricscube.io
 microsoftstore.com
 mimg.127.net
 mixpanel.com
@@ -345,6 +349,7 @@ piwik.org
 pixanalytics.com
 pixel.barion.com
 pixel.thoughtmetric.io
+plausible.io
 polldaddy.com
 posthog.com
 postrank.com
@@ -372,6 +377,7 @@ roia.biz
 rollick.io
 roxr.net
 rtoaster.jp
+safe-iplay.com
 safecount.net
 sageanalyst.net
 salesforce.com
@@ -412,7 +418,9 @@ statistik-gallup.net
 statsit.com
 storeland.ru
 stratigent.com
+streetmetrics.io
 svlu.net
+swetrix.com
 swymrelay.com
 synacor.com
 system-notify.app
@@ -444,6 +452,7 @@ tweetmeme.com
 ubbfpm.com
 ubermedia.com
 ujet.co
+umami.is
 umbel.com
 unseenreport.com
 uptrends.com

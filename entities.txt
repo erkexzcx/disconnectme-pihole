@@ -660,6 +660,7 @@ betrad.com
 betssonpalantir.com
 betweendigital.com
 bfmio.com
+bidberry.com
 bidfluence.com
 bidpapers.com
 bidr.io
@@ -693,6 +694,7 @@ bleacherreport.net
 bleedlight.com
 blesspizzas.com
 blings.io
+blis.com
 blismedia.com
 blitzcampaigns.com
 bloblohub.com
@@ -847,6 +849,7 @@ cdn-path.com
 cdn-sitegainer.com
 cdn1cloudflare.xyz
 cdn4dd.com
+cdnbasket.net
 cdninstagram.com
 cdnma.com
 cdnsnapwidget.com
@@ -1159,6 +1162,7 @@ d27xr6oh14aaqn.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
+d9stats.com
 da-services.ch
 dada.pro
 daexauto.com
@@ -1312,6 +1316,7 @@ ebuzzing.com
 ebxcdn.com
 ecal.com
 ediemidnightzombies.com
+edkt.io
 edrone.me
 effectivemeasure.com
 effectivemeasure.net
@@ -1369,6 +1374,7 @@ estara.com
 estat.com
 etarget.eu
 etargetnet.com
+ethicalads.io
 ethtrader.de
 etineria.com
 etracker.com
@@ -1848,6 +1854,7 @@ groceryshopping.net
 groovinads.com
 groupm.com
 grow.me
+grsm.io
 gsicommerce.com
 gsspat.jp
 gsspcln.jp
@@ -1874,6 +1881,7 @@ harrenmedianetwork.com
 hashing.win
 hatena.ne.jp
 hazmatworkshop.com
+hbagency.it
 hbrd.io
 hcaptcha.com
 hdslb.com
@@ -2302,6 +2310,7 @@ m314xw.com
 m3651.net
 m3652.net
 m6d.com
+macromill.com
 macysassets.com
 madhouse.cn
 madisonlogic.com
@@ -2421,6 +2430,7 @@ merkleinc.com
 merryvault.com
 metadata.io
 metadsp.co.uk
+metricscube.io
 metricswpsh.com
 metrixlab.com
 mexad.com
@@ -2840,6 +2850,8 @@ papayads.net
 pardot.com
 parklogic.com
 parsely.com
+partnerlinks.io
+partnerstack.com
 passivepolo.com
 patch.com
 paypal.com
@@ -2899,6 +2911,7 @@ pjtra.com
 placidactivity.com
 planebasin.com
 platform-one.co.jp
+plausible.io
 playbuzz.com
 playground.xyz
 playwire.com
@@ -3211,6 +3224,7 @@ sabavision.com
 sablesong.com
 sabre.com
 sabrehospitality.com
+safe-iplay.com
 safecount.net
 sageanalyst.net
 sail-horizon.com
@@ -3520,6 +3534,7 @@ straightnest.com
 strangeclocks.com
 stratigent.com
 streamray.com
+streetmetrics.io
 stretchsister.com
 stretchsneeze.com
 strikead.com
@@ -3561,6 +3576,7 @@ survata.com
 survicate.com
 svlu.net
 swankysquare.com
+swetrix.com
 swiftmining.win
 swingslip.com
 swipechief.com
@@ -3676,6 +3692,8 @@ townnews.com
 townsquare.media
 tp88trk.com
 tpbid.com
+tpmn.co.kr
+tpmn.io
 tqlkg.com
 tracecontent.com
 tracemyip.org
@@ -3782,6 +3800,7 @@ uimserv.net
 ujet.co
 ultraoranges.com
 ultravalid.com
+umami.is
 umbel.com
 unaccountablepie.com
 unanimis.co.uk
@@ -3861,6 +3880,7 @@ vi.ai
 viadata.store
 viafoura.co
 viafoura.net
+vibe.co
 vibrantcelebration.com
 vibrantmedia.com
 vibrantsundown.com
