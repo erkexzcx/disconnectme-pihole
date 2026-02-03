@@ -1498,6 +1498,7 @@ fndrsp.net
 followup.cc
 footprintdns.com
 footprintlive.com
+foresee.com
 forevergears.com
 formalyzer.com
 forroundprince.com
@@ -2223,7 +2224,6 @@ liadm.com
 libertystmedia.com
 libraryvalue.com
 licdn.com
-lifeatspotify.com
 lifestreetmedia.com
 liftdna.com
 liftedknowledge.com
@@ -3476,8 +3476,6 @@ sportradarserving.com
 sportyforum.com
 spot.im
 spotify.com
-spotifyforvendors.com
-spotifyjobs.com
 spotim.market
 spotx.tv
 spotxchange.com
