@@ -19,6 +19,7 @@ perimeterx.net
 px-cdn.net
 px-cloud.net
 recaptcha.net
+score.juicyscore.com
 sift.com
 siftscience.com
 signifyd.com
