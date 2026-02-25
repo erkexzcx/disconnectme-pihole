@@ -72,7 +72,6 @@ mathtag.com
 myvisualiq.net
 nyl.as
 omtrdc.net
-ondemand.com
 open.mkt10008.com
 open.mkt10039.com
 open.mkt10049.com
@@ -199,7 +198,6 @@ smtp2go.com
 smtp2go.net
 sptracking.getblueshift.com
 stable.cz
-strikestack.com
 system.send24.pl
 tealiumiq.com
 thebrighttag.com

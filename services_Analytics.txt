@@ -97,18 +97,15 @@ clickdensity.com
 clicktale.com
 clicktale.net
 clicktracks.com
-clixpy.com
 cloudflareinsights.com
 clustrmaps.com
 cmcore.com
 cnzz.com
 cohesionapps.com
-collarity.com
 collective.com
 collserve.com
 com.com
 company-target.com
-compete.com
 compuware.com
 comscore.com
 conduit-banners.com
@@ -126,7 +123,6 @@ cquotient.com
 crashlytics.com
 crazyegg.com
 croomaingly.com
-crowdscience.com
 cuebiq.com
 curalate.com
 d.rageagainstthesoap.com
@@ -192,6 +188,7 @@ gorgias.chat
 gosquared.com
 gostats.com
 graphenedigitalanalytics.in
+growthbuddy.app
 gtop.ro
 gtopstats.com
 haloscan.com
@@ -208,9 +205,7 @@ hotjar.io
 hotlog.ru
 hrcdn.net
 hs-analytics.net
-hsforms.net
 hsprotect.net
-hubspot.com
 ibm.com
 icfcdn.com
 iesnare.com
@@ -284,6 +279,8 @@ megpxs.com
 mentionideablit.com
 merchant-center-analytics.goog
 merkleinc.com
+metrics-fe-eu1.hubspot.com
+metrics-fe-na1.hubspot.com
 metricscube.io
 microsoftstore.com
 mimg.127.net
@@ -380,7 +377,6 @@ rtoaster.jp
 safe-iplay.com
 safecount.net
 sageanalyst.net
-salesforce.com
 sardine.ai
 sattiostiounper.com
 scanalert.com
@@ -417,7 +413,6 @@ statisfy.net
 statistik-gallup.net
 statsit.com
 storeland.ru
-stratigent.com
 streetmetrics.io
 svlu.net
 swetrix.com
@@ -453,13 +448,11 @@ ubbfpm.com
 ubermedia.com
 ujet.co
 umami.is
-umbel.com
 unseenreport.com
 uptrends.com
 usabilitysciences.com
 usabilla.com
 usbrowserspeed.com
-usemessages.com
 v12data.com
 v12group.com
 valuedopinions.co.uk

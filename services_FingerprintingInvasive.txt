@@ -39,7 +39,6 @@ adsco.re
 adskeeper.com
 adsxtits.com
 adtng.com
-adzilla.name
 adzilla1.name
 aeis.alicdn.com
 aeu.alicdn.com
@@ -293,7 +292,6 @@ seroundprince.com
 seseasky.com
 sf14g.com
 shiftdigitalapps.io
-shorte.st
 sitewithg.com
 smarketer.de
 smartcaptcha.yandexcloud.net
