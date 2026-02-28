@@ -81,6 +81,7 @@ cbox.ws
 cdn-net.com
 cdn.gbqofs.com
 cdn.getdeviceinf.com
+cdn.pdst.fm
 cdnbasket.net
 cedexis.com
 cedexis.net
@@ -184,7 +185,6 @@ gogrid.com
 gomez.com
 google-analytics.com
 googleoptimize.com
-gorgias.chat
 gosquared.com
 gostats.com
 graphenedigitalanalytics.in
@@ -227,7 +227,6 @@ iovation.com
 ipapi.co
 ipcounter.de
 ipify.org
-ipinfo.io
 ipqualityscore.com
 ipregistry.co
 islay.tech
@@ -334,13 +333,13 @@ p7cloud.net
 pagesense.io
 pantherssl.com
 parsely.com
-pdst.fm
 peerius.com
 pendo.io
 perfdrive.com
 persianstat.com
 phonalytics.com
 phpmyvisites.us
+ping.pdst.fm
 pingdom.net
 piwik.org
 pixanalytics.com
@@ -354,7 +353,6 @@ pubnub.com
 punchtab.com
 pxlclnmdecom-a.akamaihd.net
 qualaroo.com
-qualtrics.com
 quantummetric.com
 questionmarket.com
 quintelligence.com
@@ -397,7 +395,6 @@ simply.com
 siteimproveanalytics.com
 siteimproveanalytics.io
 sitestat.com
-slickstream.com
 smartlook.com
 snoobi.com
 snplow.net

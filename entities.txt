@@ -487,7 +487,6 @@ anymind360.com
 aol.com
 aolcdn.com
 aolcloud.net
-api-maps.yandex.ru
 api-private.atlassian.com
 apmebf.com
 apms5.com
@@ -752,7 +751,6 @@ browser-update.org
 browseranalytic.com
 browsiprod.com
 brsrvr.com
-bs.yandex.ru
 btloader.com
 btrll.com
 btstatic.com
@@ -2348,7 +2346,6 @@ maxmind.com
 maxpointinteractive.com
 maxymiser.com
 mb01.com
-mc.yandex.com
 mcafee.com
 mcizas.com
 mczbf.com
@@ -2999,7 +2996,6 @@ pvd.to
 px-cdn.net
 px-cloud.net
 pxf.io
-pxlclnmdecom-a.akamaihd.net
 qcloud.com
 qiota.com
 qksz.com

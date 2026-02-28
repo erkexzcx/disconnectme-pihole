@@ -1,6 +1,7 @@
 addthis.com
 addthiscdn.com
 addthisedge.com
+alb.reddit.com
 atdmt.com
 avatars.yahoo.com
 buzz.yahoo.com
@@ -28,10 +29,10 @@ mail.ru
 mail.yahoo.com
 my.yahoo.com
 mybloglog.com
+pixel-config.reddit.com
 plus.google.com
 plusone.google.com
 pulse.yahoo.com
-reddit.com
 rocketmail.com
 shareaholic.com
 sharethis.com
@@ -40,7 +41,6 @@ snapchat.com
 stumble-upon.com
 stumbleupon.com
 tiktok.com
-twimg.com
 twitter.com
 twitter.jp
 userapi.com

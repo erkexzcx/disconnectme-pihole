@@ -487,7 +487,6 @@ batanga.com
 batanganetwork.com
 batch.com
 bawdybalance.com
-bc0a.com
 beachfront.com
 beaconads.com
 beamvolcano.com
@@ -760,6 +759,7 @@ conversive.nl
 convertbox.com
 convertglobal.com
 convertkit.com
+cookie-cdn.bc0a.com
 cookieless-data.com
 coolguesthouse.com
 cootlogix.com
@@ -1121,7 +1121,6 @@ gleam.io
 gleamingcow.com
 glisteningguide.com
 globo.com
-glomex.com
 gloriousbeef.com
 glotgrx.com
 gmads.net
@@ -1223,6 +1222,7 @@ hybrid.ai
 hydraconcept.com
 i-mobile.co.jp
 i.ua
+i.viafoura.co
 iac.com
 iasds01.com
 ib-ibi.com
@@ -1697,7 +1697,6 @@ onetag-sys.com
 oneupweb.com
 onevision.com.tw
 online-metrix.net
-onnetwork.tv
 onsite.joinground.com
 opecloud.com
 open-adsyield.com
@@ -2247,7 +2246,6 @@ stackla.com
 stakingbasket.com
 stakingsmile.com
 stalesummer.com
-stamped.io
 stargamesaffiliate.com
 static.affilae.com
 static.aviasales.com
@@ -2483,7 +2481,6 @@ unwieldyhealth.com
 unwieldyimpulse.com
 uol.com.br
 up-value.de
-uplynk.com
 upravel.com
 upsellit.com
 urbanlaurel.com
@@ -2525,7 +2522,6 @@ verticalhealth.net
 verticalresponse.com
 vevorstatic.com
 vi.ai
-viafoura.co
 viafoura.net
 vibe.co
 vibrantcelebration.com
