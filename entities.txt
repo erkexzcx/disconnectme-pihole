@@ -421,7 +421,6 @@ airship.com
 airwallex.com
 aisleahead.com
 aivalabs.com
-akamaihd.net
 akstat.io
 al-adtech.com
 albacross.com
@@ -2996,6 +2995,7 @@ pvd.to
 px-cdn.net
 px-cloud.net
 pxf.io
+pxlclnmdecom-a.akamaihd.net
 qcloud.com
 qiota.com
 qksz.com
