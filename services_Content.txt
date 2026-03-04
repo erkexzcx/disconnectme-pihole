@@ -43,6 +43,7 @@ contactatonce.com
 content.powerapps.com
 contentful.com
 daumcdn.net
+dev.visualwebsiteoptimizer.com
 dynamics.com
 edge.adobedc.net
 elfsight.com
