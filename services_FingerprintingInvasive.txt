@@ -33,7 +33,6 @@ addin1.name
 ade20c079e66.8bd379d4.us-east-1.token.awswaf.com
 admicro.vn
 adnium.com
-adsafeprotected.com
 adschill.com
 adsco.re
 adskeeper.com

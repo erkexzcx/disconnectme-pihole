@@ -2056,7 +2056,6 @@ sa-as.com
 saambaa.com
 sabavision.com
 sablesong.com
-sabre.com
 sabrehospitality.com
 sail-horizon.com
 sail-personalize.com
@@ -2724,7 +2723,6 @@ aticdn.net
 atinternet.com
 atoomic.com
 attracta.com
-attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net
 audienceinsights.net
 autoblog.com
 axf8.net
@@ -3283,6 +3281,7 @@ dynamics.com
 edge.adobedc.net
 elfsight.com
 evgnet.com
+f.wishabi.net
 fbcdn.net
 flickr.com
 fundraiseup.com
@@ -3544,6 +3543,7 @@ riskid.security
 s3-ap-southeast-1.amazonaws.com
 s3.amazonaws.com
 s3.us-west-2.amazonaws.com
+sabre.com
 salesforce.com
 salesforceliveagent.com
 scene7.com
@@ -4129,6 +4129,7 @@ adjust.com
 admd.ink
 admeld.com
 admob.com
+adsafeprotected.com
 adserver.com
 adservice.google.com
 adsrvr.org
@@ -4328,7 +4329,6 @@ addin1.name
 ade20c079e66.8bd379d4.us-east-1.token.awswaf.com
 admicro.vn
 adnium.com
-adsafeprotected.com
 adschill.com
 adsco.re
 adskeeper.com

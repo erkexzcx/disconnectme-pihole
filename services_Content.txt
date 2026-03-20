@@ -48,6 +48,7 @@ dynamics.com
 edge.adobedc.net
 elfsight.com
 evgnet.com
+f.wishabi.net
 fbcdn.net
 flickr.com
 fundraiseup.com
@@ -309,6 +310,7 @@ riskid.security
 s3-ap-southeast-1.amazonaws.com
 s3.amazonaws.com
 s3.us-west-2.amazonaws.com
+sabre.com
 salesforce.com
 salesforceliveagent.com
 scene7.com
