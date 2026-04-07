@@ -397,6 +397,7 @@ aniview.com
 annalect.com
 annoyedairport.com
 anontimes.com
+anonymised.io
 anonymous-media.com
 ansira.com
 anymind360.com
@@ -607,6 +608,7 @@ c3metrics.com
 c3tag.com
 c88rx.com
 cabnnr.com
+cadent.com
 cadreon.com
 cakeagenda.com
 callrail.com
@@ -1505,6 +1507,7 @@ mdadx.com
 mdhv.io
 mdotm.com
 meadowlullaby.com
+measureadv.com
 meatydime.com
 mecglobal.com
 meddleplant.com
@@ -1566,6 +1569,7 @@ mobclix.com
 mobfox.com
 mobials.com
 mobileadtrading.com
+mobilefuse.com
 mobilestorm.com
 mobiletheory.com
 mobsmith.com
@@ -1744,6 +1748,7 @@ otto.de
 out-there-media.com
 outbrain.com
 outbrainimg.com
+outcomes.net
 overconfidentfood.com
 oversee.net
 overture.com
@@ -1801,6 +1806,7 @@ photorank.me
 picadmedia.com
 pictela.com
 pictela.net
+pinklion.io
 pinpoll.com
 pippio.com
 piquantgrove.com
@@ -1819,6 +1825,7 @@ placidactivity.com
 planebasin.com
 platform-one.co.jp
 playbuzz.com
+playdigo.com
 playground.xyz
 playwire.com
 pleasantpump.com
@@ -1829,6 +1836,7 @@ pluckypocket.com
 pluckyzone.com
 plugin.management
 pm14.com
+pmbmonetize.live
 pntra.com
 pntrac.com
 pntrs.com
@@ -2311,6 +2319,7 @@ switchconcepts.com
 swoop.com
 sync.inmobi.com
 syncapse.com
+syncingbridge.com
 t.co
 t.makehook.ws
 t13.io
@@ -2343,6 +2352,7 @@ tellapart.com
 telstra.com.au
 tempertrick.com
 temptteam.com
+temu.com
 tendertest.com
 teracent.com
 teracent.net
@@ -2435,6 +2445,7 @@ truffle.bid
 truoptik.com
 trustedshops.com
 trustedsite.com
+trustedstack.com
 trustpilot.com
 trustx.org
 trvdp.com
@@ -2652,6 +2663,7 @@ yieldmo.com
 yieldoptimizer.com
 yldbt.com
 yldmgrimg.net
+ymmobi.com
 ynxs.io
 yoc-performance.com
 yoc.com
