@@ -29,7 +29,6 @@ builder-assets.unbounce.com
 cdn.jsdelivr.net
 cdn.segment.com
 cdn.shopify.com
-cdn.viafoura.net
 cdn2.hubspot.net
 cdninstagram.com
 checkout.com
@@ -346,6 +345,7 @@ usemessages.com
 uservoice.com
 vgwort.de
 viafoura.co
+viafoura.net
 video-cdn.net
 vimeo.com
 vimeocdn.com
