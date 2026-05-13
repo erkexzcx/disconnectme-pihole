@@ -220,6 +220,8 @@ admarketplace.com
 admarketplace.net
 admarvel.com
 admaster.cc
+admatic.com.tr
+admatic.de
 admatrix.jp
 admd.ink
 admedia.com
@@ -324,9 +326,11 @@ adsvelocity.com
 adswizz.com
 adsxtits.com
 adsymptotic.com
+adtarget.biz
 adtdp.com
 adtech.com
 adtech.de
+adtech.ink
 adtechjp.com
 adtechus.com
 adtegrity.com
@@ -359,6 +363,7 @@ advertstream.com
 advg.jp
 advisormedia.cz
 adviva.net
+advolve.io
 advombat.ru
 adwitserver.com
 adworx.at
@@ -466,6 +471,8 @@ amocrm.ru
 amplitude.com
 ampxchange.com
 amung.us
+amx1.net
+amxrtb.com
 analytics.blue
 analyzecorona.com
 ancientact.com
@@ -567,6 +574,7 @@ autocentre.ua
 autoklose.com
 automattic.com
 autopilotmail.io
+avads.net
 avantlink.com
 avct.cloud
 aviasales.com
@@ -650,6 +658,7 @@ betweendigital.com
 bfmio.com
 bidberry.com
 bidfluence.com
+bidmatic.io
 bidpapers.com
 bidr.io
 bidswitch.net
@@ -1563,6 +1572,7 @@ getjusto.com
 getlasso.co
 getlimy.ai
 getpolymorph.com
+getpublica.com
 getrockerbox.com
 getsatisfaction.com
 getshogun.com
@@ -2556,6 +2566,7 @@ mojiva.com
 monacobeatles.com
 monetate.com
 monetate.net
+monetixads.com
 monetizemore.com
 mongoosemetrics.com
 monitus.net
@@ -2759,6 +2770,7 @@ opinionbar.com
 opmnstr.com
 opolen.com.br
 opt.ne.jp
+optable.co
 optad360.io
 opti-digital.com
 optify.net
@@ -2788,6 +2800,7 @@ osano.com
 othersides.top
 otm-r.com
 otracking.com
+ottadvisors.com
 otto.de
 out-there-media.com
 outbrain.com
@@ -2805,6 +2818,7 @@ ownpage.fr
 p-advg.com
 p-n.io
 p7cloud.net
+pacvue.com
 pagefair.com
 pagefair.net
 pages01.net
@@ -3179,6 +3193,7 @@ rtb.mx
 rtbhouse.com
 rtbidder.net
 rtbsystem.com
+rtbwise.com
 rtk.io
 rtmark.net
 rtoaster.jp
@@ -3879,6 +3894,7 @@ visistat.com
 visitor-analytics.io
 visitstreamer.com
 visme.co
+vistarsagency.com
 visualdna.com
 visually-io.com
 visualrevenue.com
