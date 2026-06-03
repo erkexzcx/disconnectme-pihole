@@ -135,7 +135,6 @@ rqtrk.eu
 rto-study.oss-us-west-1.aliyuncs.com
 s1.kwai.net
 s20.tiktokcdn.com
-script.anura.io
 sdk.fek.pulselive.com
 seel.com
 servedbyopenx.com

@@ -41,8 +41,10 @@ connect.nosto.com
 contactatonce.com
 content.powerapps.com
 contentful.com
+datadoghq-browser-agent.com
 daumcdn.net
 dev.visualwebsiteoptimizer.com
+dnofd.com
 dynamics.com
 edge.adobedc.net
 elfsight.com

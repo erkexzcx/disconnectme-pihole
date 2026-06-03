@@ -2120,7 +2120,6 @@ screechingstocking.com
 screechingstove.com
 scribblestring.com
 scrippsdigital.com
-script.anura.io
 scupio.com
 sda.fyi
 sddan.com
@@ -2851,7 +2850,6 @@ curalate.com
 d.rageagainstthesoap.com
 d2lyx5ly60ksu3.cloudfront.net
 d9stats.com
-datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
 datafa.st
@@ -2862,7 +2860,6 @@ demandbase.com
 despegar.com
 dl-rms.com
 dlqm.net
-dnofd.com
 dns-finder.com
 do-not-tracker.org
 domodomain.com
@@ -3258,6 +3255,7 @@ px-cdn.net
 px-cloud.net
 recaptcha.net
 score.juicyscore.com
+script.anura.io
 sift.com
 siftscience.com
 signifyd.com
@@ -3320,8 +3318,10 @@ connect.nosto.com
 contactatonce.com
 content.powerapps.com
 contentful.com
+datadoghq-browser-agent.com
 daumcdn.net
 dev.visualwebsiteoptimizer.com
+dnofd.com
 dynamics.com
 edge.adobedc.net
 elfsight.com
@@ -4302,7 +4302,6 @@ rqtrk.eu
 rto-study.oss-us-west-1.aliyuncs.com
 s1.kwai.net
 s20.tiktokcdn.com
-script.anura.io
 sdk.fek.pulselive.com
 seel.com
 servedbyopenx.com
@@ -4478,7 +4477,6 @@ device.maxmind.com
 digital.flytedesk.com
 dlswbr.baidu.com
 dmpxs.com
-dnofd.com
 doyouad.com
 durchsichtig.xyz
 duube1y6ojsji.cloudfront.net
@@ -4694,7 +4692,6 @@ viadata.store
 vic-m.co
 vpaid.vidoomy.com
 warumbistdusoarm.space
-web.static.mmcdn.com
 webmecanik.com
 webtrafficsource.com
 wisej1355.com

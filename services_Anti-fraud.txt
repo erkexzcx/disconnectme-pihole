@@ -20,6 +20,7 @@ px-cdn.net
 px-cloud.net
 recaptcha.net
 score.juicyscore.com
+script.anura.io
 sift.com
 siftscience.com
 signifyd.com

@@ -136,7 +136,6 @@ device.maxmind.com
 digital.flytedesk.com
 dlswbr.baidu.com
 dmpxs.com
-dnofd.com
 doyouad.com
 durchsichtig.xyz
 duube1y6ojsji.cloudfront.net
@@ -352,7 +351,6 @@ viadata.store
 vic-m.co
 vpaid.vidoomy.com
 warumbistdusoarm.space
-web.static.mmcdn.com
 webmecanik.com
 webtrafficsource.com
 wisej1355.com
