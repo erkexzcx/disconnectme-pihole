@@ -2475,7 +2475,6 @@ truculentrate.com
 trueffect.com
 truffle.bid
 truoptik.com
-trustedshops.com
 trustedsite.com
 trustedstack.com
 trustpilot.com
@@ -3613,6 +3612,7 @@ techlab-cdn.com
 thumbs.nosto.com
 tinypass.com
 trumba.com
+trustedshops.com
 tumblr.com
 turnto.com
 twimg.com
@@ -4334,7 +4334,6 @@ vreview.tv
 wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
-widgets.trustedshops.com
 y-track.com
 yieldmo.com
 ytsa.net
