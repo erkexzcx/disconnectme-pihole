@@ -257,6 +257,7 @@ googlevideo.com
 gorgias.chat
 gravatar.com
 gstatic.com
+gubagoo.io
 hotmart.com
 hsappstatic.net
 hsforms.com

@@ -1335,6 +1335,7 @@ j189eb.com
 j93557g.com
 jads.co
 jailbulb.com
+janusaent.com
 jaroop.com
 jetskiscovers.com
 jewelryforest.com
@@ -2441,6 +2442,7 @@ tracking.friends2follow.com
 trackingsoft.com
 trackonomics.net
 tradedoubler.com
+tradehouse.media
 tradelab.fr
 tradetracker.com
 tradetracker.net
@@ -2477,6 +2479,7 @@ truffle.bid
 truoptik.com
 trustedsite.com
 trustedstack.com
+trustpielote.com
 trustpilot.com
 trustx.org
 trvdp.com
@@ -3077,6 +3080,7 @@ questionmarket.com
 quintelligence.com
 raasnet.com
 radarurl.com
+rbl.ms
 rdrctgoweb.com
 reedge.com
 reinvigorate.net
@@ -3534,6 +3538,7 @@ googlevideo.com
 gorgias.chat
 gravatar.com
 gstatic.com
+gubagoo.io
 hotmart.com
 hsappstatic.net
 hsforms.com
@@ -4471,6 +4476,7 @@ d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
 d9253bf4bdfd.edge.sdk.awswaf.com
 de5282c3ca0c.edge.sdk.awswaf.com
+demandingoverdriveunthread.com
 dep-x.com
 device.maxmind.com
 digital.flytedesk.com
@@ -4525,6 +4531,7 @@ islay.tech
 ismatlab.com
 isstarsbuilding.com
 itch.io
+janusaent.com
 jioadsweb.akamaized.net
 jsc.idealmedia.io
 jsc.mgid.com

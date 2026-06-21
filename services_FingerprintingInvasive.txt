@@ -130,6 +130,7 @@ d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
 d9253bf4bdfd.edge.sdk.awswaf.com
 de5282c3ca0c.edge.sdk.awswaf.com
+demandingoverdriveunthread.com
 dep-x.com
 device.maxmind.com
 digital.flytedesk.com
@@ -184,6 +185,7 @@ islay.tech
 ismatlab.com
 isstarsbuilding.com
 itch.io
+janusaent.com
 jioadsweb.akamaized.net
 jsc.idealmedia.io
 jsc.mgid.com
