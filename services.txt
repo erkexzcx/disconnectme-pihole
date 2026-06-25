@@ -816,6 +816,7 @@ damageddistance.com
 dampdock.com
 dapper.net
 dartsearch.net
+data.qiota.com
 datamind.ru
 dataxu.com
 dataxu.net
@@ -1942,7 +1943,6 @@ pulsepoint.com
 puppetcorp.com
 push-ad.com
 pxf.io
-qiota.com
 qksz.com
 qksz.net
 qnsr.com
@@ -2661,6 +2661,7 @@ wrongwound.com
 wtp101.com
 wunderkind.co
 wunderloop.net
+www.qiota.com
 xa.net
 xad.com
 xaded.com
@@ -4302,7 +4303,6 @@ plusone.google.com
 polen.com.br
 poll-maker.com
 postrank.com
-qiota.com
 refersion.com
 rqtrk.eu
 rto-study.oss-us-west-1.aliyuncs.com
@@ -4318,6 +4318,7 @@ socital.com
 sparkloop.app
 static.airpackapp.com
 static.airwallex.com
+static.qiota.com
 steelhouse.com
 steelhousemedia.com
 tag.fanhub.geniussports.com
@@ -4339,6 +4340,7 @@ vreview.tv
 wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
+www.qiota.com
 y-track.com
 yieldmo.com
 ytsa.net

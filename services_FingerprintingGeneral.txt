@@ -129,7 +129,6 @@ plusone.google.com
 polen.com.br
 poll-maker.com
 postrank.com
-qiota.com
 refersion.com
 rqtrk.eu
 rto-study.oss-us-west-1.aliyuncs.com
@@ -145,6 +144,7 @@ socital.com
 sparkloop.app
 static.airpackapp.com
 static.airwallex.com
+static.qiota.com
 steelhouse.com
 steelhousemedia.com
 tag.fanhub.geniussports.com
@@ -166,6 +166,7 @@ vreview.tv
 wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
+www.qiota.com
 y-track.com
 yieldmo.com
 ytsa.net
