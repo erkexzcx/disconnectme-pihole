@@ -434,7 +434,6 @@ askdriver.com
 aspireglobal.com
 aspiringapples.com
 aspiringattempt.com
-assets.funraise.io
 assoc-amazon.com
 atedra.com
 atemda.com
@@ -2374,7 +2373,6 @@ targetix.net
 tchibo.de
 teads.tv
 teamblue.services
-tebex.io
 technical-service.net
 technorati.com
 technoratimedia.com
@@ -2661,7 +2659,6 @@ wrongwound.com
 wtp101.com
 wunderkind.co
 wunderloop.net
-www.qiota.com
 xa.net
 xad.com
 xaded.com
@@ -3294,6 +3291,7 @@ api.hubspot.com
 api.ipify.org
 app-eu1.hubspot.com
 app.hubspot.com
+assets.funraise.io
 audioeye.com
 azure.com
 azurefd.net
@@ -3614,6 +3612,7 @@ static.cloud.coveo.com
 static.klaviyo.com
 staticflickr.com
 stripe.com
+tebex.io
 techlab-cdn.com
 thumbs.nosto.com
 tinypass.com
@@ -3642,6 +3641,7 @@ winamp.com
 wistia.com
 wp.com
 www.klaviyo.com
+www.qiota.com
 yahoo.com
 yahooapis.com
 yandex.by
@@ -4340,7 +4340,6 @@ vreview.tv
 wandzcdn.com
 wayin.com
 webmessenger.ekonsilio.io
-www.qiota.com
 y-track.com
 yieldmo.com
 ytsa.net
@@ -4575,7 +4574,6 @@ namastedharma.com
 negishim.org
 news.jennydanny.com
 nnowa.com
-nsure.tebex.io
 nwwais.com
 o789thktrk.com
 ocms.cloud

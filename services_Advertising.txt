@@ -434,7 +434,6 @@ askdriver.com
 aspireglobal.com
 aspiringapples.com
 aspiringattempt.com
-assets.funraise.io
 assoc-amazon.com
 atedra.com
 atemda.com
@@ -2374,7 +2373,6 @@ targetix.net
 tchibo.de
 teads.tv
 teamblue.services
-tebex.io
 technical-service.net
 technorati.com
 technoratimedia.com
@@ -2661,7 +2659,6 @@ wrongwound.com
 wtp101.com
 wunderkind.co
 wunderloop.net
-www.qiota.com
 xa.net
 xad.com
 xaded.com

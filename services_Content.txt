@@ -12,6 +12,7 @@ api.hubspot.com
 api.ipify.org
 app-eu1.hubspot.com
 app.hubspot.com
+assets.funraise.io
 audioeye.com
 azure.com
 azurefd.net
@@ -332,6 +333,7 @@ static.cloud.coveo.com
 static.klaviyo.com
 staticflickr.com
 stripe.com
+tebex.io
 techlab-cdn.com
 thumbs.nosto.com
 tinypass.com
@@ -360,6 +362,7 @@ winamp.com
 wistia.com
 wp.com
 www.klaviyo.com
+www.qiota.com
 yahoo.com
 yahooapis.com
 yandex.by
