@@ -90,6 +90,7 @@ chartbeat.com
 chartbeat.net
 civicscience.com
 clarity.ms
+claydar.com
 clevertap-prod.com
 clevertap.com
 clickability.com

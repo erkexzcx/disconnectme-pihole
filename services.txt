@@ -621,6 +621,7 @@ callrail.com
 calypsocapsule.com
 campaign-archive1.com
 campaigngrid.com
+campfirecroutondecorator.com
 cams.com
 canvasandsocks.com
 capitalaudience.com
@@ -832,11 +833,13 @@ decideinteractive.com
 decisivebase.com
 dedicatedmedia.com
 dedicatednetworks.com
+deductgreedyheadroom.com
 deepintent.com
 defybrick.com
 deliverimp.com
 deliveryjs.com
 delivr.com
+demandingoverdriveunthread.com
 demandmedia.com
 demdex.com
 demdex.net
@@ -925,6 +928,7 @@ e-planning.net
 e-volution.ai
 e491328.com
 eagerknight.com
+earmuffpostnasalrisotto.com
 earnify.com
 earthups.com
 ebay.com
@@ -981,6 +985,10 @@ eu-1-id5-sync.com
 euid.eu
 euroclick.com
 evasivejar.com
+eventer-display-identity.bqstreamer.com
+eventer-player.bqstreamer.com
+eventer-upsdisplay.bqstreamer.com
+eventer-widget.bqstreamer.com
 eventexistence.com
 everestads.net
 everestjs.net
@@ -1601,6 +1609,8 @@ monetate.net
 monetizemore.com
 monoloop.com
 monster.com
+monti-config.bqstreamer.com
+monti-version.bqstreamer.com
 monu.delivery
 mookie1.com
 moolahmedia.com
@@ -2067,6 +2077,7 @@ rqtrk.eu
 rsz.sk
 rt-pixel.com
 rtactivate.com
+rtb-configuration.bqstreamer.com
 rtb.mx
 rtbhouse.com
 rtbidder.net
@@ -2499,7 +2510,10 @@ ubembed.com
 ubiquitoussea.com
 ucfunnel.com
 udmserve.net
+uds-config.bqstreamer.com
+uds-selector.bqstreamer.com
 ufpcdn.com
+uid-creation.bqstreamer.com
 uidapi.com
 uimserv.net
 ultraoranges.com
@@ -2525,6 +2539,7 @@ unwieldyimpulse.com
 uol.com.br
 up-value.de
 upravel.com
+ups-library.bqstreamer.com
 upsellit.com
 urbanlaurel.com
 urtbk.com
@@ -2814,6 +2829,7 @@ chartbeat.com
 chartbeat.net
 civicscience.com
 clarity.ms
+claydar.com
 clevertap-prod.com
 clevertap.com
 clickability.com
@@ -4438,6 +4454,7 @@ c3tag.com
 c60708c831e2.b32e02cd.us-east-2.token.awswaf.com
 cacheserv.com
 cafirebreather.com
+campfirecroutondecorator.com
 capitalaudience.com
 carts.guru
 catiuribripent.com
@@ -4457,6 +4474,7 @@ cdn.spxl.ink
 cdn.tapioni.com
 cdn1cloudflare.xyz
 cityrobotflower.com
+claydar.com
 clearlink.com
 clickcease.com
 clickguard.com
@@ -4477,6 +4495,7 @@ d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
 d9253bf4bdfd.edge.sdk.awswaf.com
 de5282c3ca0c.edge.sdk.awswaf.com
+deductgreedyheadroom.com
 demandingoverdriveunthread.com
 dep-x.com
 device.maxmind.com
@@ -4487,6 +4506,7 @@ doyouad.com
 durchsichtig.xyz
 duube1y6ojsji.cloudfront.net
 dz7188oz6lnyb.cloudfront.net
+earmuffpostnasalrisotto.com
 ero-advertising.com
 f459fdc403a6.edge.sdk.awswaf.com
 f98792672267.edge.sdk.awswaf.com
@@ -4568,6 +4588,7 @@ metrics.psmmarketing.com
 michiganrobotflower.com
 mmapiws.com
 mobials.com
+monti-config.bqstreamer.com
 montwam.top
 mpsnare.iesnare.com
 namastedharma.com

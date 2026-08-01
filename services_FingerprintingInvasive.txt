@@ -91,6 +91,7 @@ c3tag.com
 c60708c831e2.b32e02cd.us-east-2.token.awswaf.com
 cacheserv.com
 cafirebreather.com
+campfirecroutondecorator.com
 capitalaudience.com
 carts.guru
 catiuribripent.com
@@ -110,6 +111,7 @@ cdn.spxl.ink
 cdn.tapioni.com
 cdn1cloudflare.xyz
 cityrobotflower.com
+claydar.com
 clearlink.com
 clickcease.com
 clickguard.com
@@ -130,6 +132,7 @@ d38xvr37kwwhcm.cloudfront.net
 d3dn269ayoh5p6.cloudfront.net
 d9253bf4bdfd.edge.sdk.awswaf.com
 de5282c3ca0c.edge.sdk.awswaf.com
+deductgreedyheadroom.com
 demandingoverdriveunthread.com
 dep-x.com
 device.maxmind.com
@@ -140,6 +143,7 @@ doyouad.com
 durchsichtig.xyz
 duube1y6ojsji.cloudfront.net
 dz7188oz6lnyb.cloudfront.net
+earmuffpostnasalrisotto.com
 ero-advertising.com
 f459fdc403a6.edge.sdk.awswaf.com
 f98792672267.edge.sdk.awswaf.com
@@ -221,6 +225,7 @@ metrics.psmmarketing.com
 michiganrobotflower.com
 mmapiws.com
 mobials.com
+monti-config.bqstreamer.com
 montwam.top
 mpsnare.iesnare.com
 namastedharma.com
