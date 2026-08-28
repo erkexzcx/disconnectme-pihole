@@ -259,6 +259,7 @@ gorgias.chat
 gravatar.com
 gstatic.com
 gubagoo.io
+hextom.com
 hotmart.com
 hsappstatic.net
 hsforms.com

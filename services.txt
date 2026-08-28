@@ -1207,7 +1207,6 @@ heavyplayground.com
 hellobar.com
 hellounbox.com
 hepsiburada.net
-hextom.com
 heyaiii111iidsfsdbfjb132222ffco.xyz
 hi-media.com
 hiconversion.com
@@ -3563,6 +3562,7 @@ gorgias.chat
 gravatar.com
 gstatic.com
 gubagoo.io
+hextom.com
 hotmart.com
 hsappstatic.net
 hsforms.com
