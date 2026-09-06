@@ -768,7 +768,6 @@ conversionruler.com
 conversive.nl
 convertbox.com
 convertglobal.com
-convertkit.com
 cookie-cdn.bc0a.com
 cookieless-data.com
 coolguesthouse.com
@@ -1749,7 +1748,6 @@ optify.net
 optim.al
 optimallimit.com
 optimatic.com
-optimizely.com
 optimonk.com
 optimove.net
 optimumresponse.com
@@ -2521,7 +2519,6 @@ unaccountablepie.com
 unanimis.co.uk
 unbecominghall.com
 unblockia.com
-unbounce.com
 unbxdapi.com
 underdog.media
 underdogmedia.com
@@ -2996,6 +2993,7 @@ livecamcdn.com
 livefyre.com
 llnwd.net
 logdy.com
+logx.optimizely.com
 longtailvideo.com
 loop11.com
 ltassrv.com
@@ -3329,7 +3327,6 @@ brid.tv
 brightcove.com
 brightcove.net
 browser-update.org
-builder-assets.unbounce.com
 cdn.jsdelivr.net
 cdn.segment.com
 cdn.shopify.com
@@ -3345,6 +3342,7 @@ connect.nosto.com
 contactatonce.com
 content.powerapps.com
 contentful.com
+convertkit.com
 datadoghq-browser-agent.com
 daumcdn.net
 dev.visualwebsiteoptimizer.com
@@ -3598,9 +3596,9 @@ o.alicdn.com
 oddschecker.com
 ondemand.com
 onnetwork.tv
+optimizely.com
 oracle.com
 org.coveo.com
-pages.convertkit.com
 paypal.com
 paystack.com
 pdst.fm
@@ -3649,6 +3647,7 @@ twimg.com
 twitch.tv
 typekit.com
 typepad.com
+unbounce.com
 unpkg.com
 uplynk.com
 usemessages.com

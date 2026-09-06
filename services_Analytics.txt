@@ -258,6 +258,7 @@ livecamcdn.com
 livefyre.com
 llnwd.net
 logdy.com
+logx.optimizely.com
 longtailvideo.com
 loop11.com
 ltassrv.com

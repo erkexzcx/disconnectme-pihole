@@ -768,7 +768,6 @@ conversionruler.com
 conversive.nl
 convertbox.com
 convertglobal.com
-convertkit.com
 cookie-cdn.bc0a.com
 cookieless-data.com
 coolguesthouse.com
@@ -1749,7 +1748,6 @@ optify.net
 optim.al
 optimallimit.com
 optimatic.com
-optimizely.com
 optimonk.com
 optimove.net
 optimumresponse.com
@@ -2521,7 +2519,6 @@ unaccountablepie.com
 unanimis.co.uk
 unbecominghall.com
 unblockia.com
-unbounce.com
 unbxdapi.com
 underdog.media
 underdogmedia.com
