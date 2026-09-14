@@ -9,7 +9,6 @@ anyclip.com
 aolcdn.com
 api-eu1.hubspot.com
 api.hubspot.com
-api.ipify.org
 app-eu1.hubspot.com
 app.hubspot.com
 assets.funraise.io
@@ -266,6 +265,7 @@ hsforms.com
 hsforms.net
 imgix.net
 instagram.com
+ipify.org
 ipinfo.io
 js-cdn.dynatrace.com
 judge.me
