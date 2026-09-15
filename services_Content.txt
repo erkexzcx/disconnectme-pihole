@@ -326,6 +326,7 @@ shopifysvc.com
 shoplineapp.com
 skype.com
 slickstream.com
+smile.io
 spot.im
 stamped.io
 static-forms.klaviyo.com

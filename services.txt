@@ -2219,7 +2219,6 @@ smartnews-ads.com
 smartyads.com
 smct.io
 smi2.ru
-smile.io
 smilewanted.com
 smoggysongs.com
 smoggystation.com
@@ -3626,6 +3625,7 @@ shopifysvc.com
 shoplineapp.com
 skype.com
 slickstream.com
+smile.io
 spot.im
 stamped.io
 static-forms.klaviyo.com
