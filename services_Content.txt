@@ -258,6 +258,7 @@ gorgias.chat
 gravatar.com
 gstatic.com
 gubagoo.io
+hatena.ne.jp
 hextom.com
 hotmart.com
 hsappstatic.net
@@ -328,6 +329,7 @@ skype.com
 slickstream.com
 smile.io
 spot.im
+st-hatena.com
 stamped.io
 static-forms.klaviyo.com
 static.chartbeat.com
