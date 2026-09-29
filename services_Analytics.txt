@@ -394,6 +394,7 @@ segment.io
 sensic.net
 sentry-cdn.com
 sentry.io
+serviceclic.com
 sesamestats.com
 sessioncam.com
 shinystat.com

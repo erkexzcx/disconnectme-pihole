@@ -190,6 +190,7 @@ adingo.jp
 adinplay.com
 adinsight.com
 adinsight.eu
+adipolo.live
 adiquity.com
 adition.com
 adizio.com
@@ -547,6 +548,7 @@ atomex.net
 atomicpark.email
 atoomic.com
 atrinsic.com
+attentionxyz.com
 attentivemobile.com
 attn.tv
 attracta.com
@@ -2783,6 +2785,7 @@ opt.ne.jp
 optable.co
 optad360.io
 opti-digital.com
+optidigital.com
 optify.net
 optim.al
 optimallimit.com
@@ -3268,6 +3271,7 @@ scatteredheat.com
 scatteredstream.com
 scene7.com
 scintillatingsilver.com
+scope3.com
 scorecardresearch.com
 screechingstocking.com
 screechingstove.com
@@ -3333,6 +3337,7 @@ servedbyopenx.com
 servenobid.com
 serverbid.com
 service4refresh.info
+serviceclic.com
 serving-sys.com
 sesamestats.com
 seseasky.com
@@ -3407,6 +3412,7 @@ smaato.com
 smaato.net
 smadex.com
 smarketer.de
+smart.link
 smartadserver.com
 smartcaptcha.yandexcloud.net
 smartclip.com
@@ -3923,6 +3929,7 @@ vizisense.net
 vizury.com
 vk.com
 vkontakte.ru
+vlcapi.net
 vlitag.com
 vntsm.com
 vocento.com
