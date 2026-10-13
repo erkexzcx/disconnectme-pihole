@@ -5,6 +5,7 @@ afterpay.com
 airnavradar.com
 aliyuncs.com
 amazon.com
+amazon.dev
 anyclip.com
 aolcdn.com
 api-eu1.hubspot.com
@@ -25,6 +26,7 @@ brid.tv
 brightcove.com
 brightcove.net
 browser-update.org
+cbox.ws
 cdn.jsdelivr.net
 cdn.segment.com
 cdn.shopify.com
@@ -42,6 +44,7 @@ content.powerapps.com
 contentful.com
 convertkit.com
 datadoghq-browser-agent.com
+datadoghq.com
 daumcdn.net
 dev.visualwebsiteoptimizer.com
 dnofd.com
@@ -264,6 +267,7 @@ hotmart.com
 hsappstatic.net
 hsforms.com
 hsforms.net
+ibm.com
 imgix.net
 instagram.com
 ipify.org
@@ -288,6 +292,7 @@ media-amazon.com
 meetings.hubspot.com
 microsoft.com
 msn.com
+muscache.com
 mux.com
 my.mail.ru
 myshopline.com
@@ -360,6 +365,7 @@ viafoura.net
 video-cdn.net
 vimeo.com
 vimeocdn.com
+visualstudio.com
 vtex.com.br
 websites.getjusto.com
 widget.trustpilot.com

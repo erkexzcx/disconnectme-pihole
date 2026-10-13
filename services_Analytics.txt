@@ -70,6 +70,7 @@ bmmetrix.com
 bnbstatic.com
 boldchat.com
 branica.com
+browser-http-intake.logs.datadoghq.com
 browser-intake-datadoghq.com
 btttag.com
 bubblestat.com
@@ -77,7 +78,6 @@ bufferapp.com
 bugsnag.com
 bunchball.com
 buysafe.com
-cbox.ws
 cdn-net.com
 cdn.gbqofs.com
 cdn.getdeviceinf.com
@@ -136,12 +136,12 @@ curalate.com
 d.rageagainstthesoap.com
 d2lyx5ly60ksu3.cloudfront.net
 d9stats.com
-datadoghq.com
 datadoghq.eu
 datafa.st
 dataium.com
 datasift.com
 dbankly.com
+dc.services.visualstudio.com
 demandbase.com
 despegar.com
 dl-rms.com
@@ -165,6 +165,7 @@ etracker.com
 etracker.de
 eulerian.com
 eulerian.net
+eventtracking-log.services.video.ibm.com
 eviltracker.net
 extreme-dm.com
 extremetracking.com
@@ -214,7 +215,8 @@ hotlog.ru
 hrcdn.net
 hs-analytics.net
 hsprotect.net
-ibm.com
+http-intake.logs.datadoghq.com
+http-intake.logs.us5.datadoghq.com
 icfcdn.com
 igodigital.com
 illiweb.com
@@ -302,7 +304,6 @@ monsido.com
 mouseflow.com
 mparticle.com
 mpeasylink.com
-muscache.com
 muxanalytics.com
 mxpnl.com
 mycounter.com.ua
@@ -380,6 +381,7 @@ roia.biz
 rollick.io
 roxr.net
 rtoaster.jp
+rum-http-intake.logs.datadoghq.com
 safe-iplay.com
 safecount.net
 sageanalyst.net
@@ -393,6 +395,7 @@ seevolution.com
 segment.io
 sensic.net
 sentry-cdn.com
+sentry-intake.datadoghq.com
 sentry.io
 serviceclic.com
 sesamestats.com
@@ -467,7 +470,6 @@ vertster.com
 videobaba.xyz
 visitor-analytics.io
 visitstreamer.com
-visualstudio.com
 visualwebsiteoptimizer.com
 vizisense.net
 voicefive.com
