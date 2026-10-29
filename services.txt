@@ -2825,11 +2825,6 @@ cdn.gbqofs.com
 cdn.getdeviceinf.com
 cdn.pdst.fm
 cdn.trialfire.com
-cdn11.editmysite.com
-cdn2.editmysite.com
-cdn3.editmysite.com
-cdn5.editmysite.com
-cdn6.editmysite.com
 cdnbasket.net
 cedexis.com
 cedexis.net
