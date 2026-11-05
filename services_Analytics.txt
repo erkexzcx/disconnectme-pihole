@@ -300,6 +300,7 @@ mouseflow.com
 mparticle.com
 mpeasylink.com
 muxanalytics.com
+mx.technolutions.net
 mxpnl.com
 mycounter.com.ua
 myfonts.net
@@ -384,6 +385,7 @@ sardine.ai
 sattiostiounper.com
 scanalert.com
 scorecardresearch.com
+scriptintel.io
 sedotracker.com
 sedotracker.de
 seevolution.com
@@ -469,6 +471,7 @@ visualwebsiteoptimizer.com
 vizisense.net
 voicefive.com
 w3roi.com
+wat.test.technolutions.net
 waust.at
 web-stat.com
 webclicktracker.com

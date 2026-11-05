@@ -798,6 +798,7 @@ buzzoola.com
 buzzparadise.com
 bvmedia.ca
 byroundprince.com
+byspotify.com
 bytecon.com
 bytetos.com
 c1exchange.com
@@ -1260,6 +1261,7 @@ doubleverify.com
 doubtdrawer.com
 doyouad.com
 dp-dhl.com
+dpmsrv.com
 drainpaste.com
 dramaticdirection.com
 drawbrid.ge
@@ -3277,6 +3279,7 @@ screechingstocking.com
 screechingstove.com
 scribblestring.com
 scrippsdigital.com
+scriptintel.io
 scupio.com
 sda.fyi
 sddan.com
@@ -3620,6 +3623,7 @@ teamblue.services
 tebex.io
 techlab-cdn.com
 technical-service.net
+technolutions.net
 technorati.com
 technoratimedia.com
 techsolutions.com.tw
