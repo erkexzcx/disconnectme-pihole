@@ -2663,7 +2663,6 @@ wiredminds.de
 wisepops.com
 wisepops.net
 wishabi.com
-wishabi.net
 wisokykulas.bid
 wistfulwaste.com
 wizardstrategy.com
@@ -2975,7 +2974,6 @@ iovation.com
 ipapi.co
 ipcounter.de
 ipqualityscore.com
-ipregistry.co
 islay.tech
 itisatracker.com
 ivwbox.de
@@ -3258,7 +3256,6 @@ yahoofs.com
 yandex.ua
 yellowtracker.com
 yoox.it
-yottaa.com
 yottaa.net
 z0000g.yvmads.com
 zhihu.com
@@ -3362,7 +3359,6 @@ dynamics.com
 edge.adobedc.net
 elfsight.com
 evgnet.com
-f.wishabi.net
 fbcdn.net
 flickr.com
 fundraiseup.com
@@ -3582,6 +3578,7 @@ imgix.net
 instagram.com
 ipify.org
 ipinfo.io
+ipregistry.co
 js-cdn.dynatrace.com
 judge.me
 jwpcdn.com
@@ -3680,6 +3677,7 @@ vtex.com.br
 websites.getjusto.com
 widget.trustpilot.com
 winamp.com
+wishabi.net
 wistia.com
 wp.com
 www.klaviyo.com
@@ -3694,6 +3692,7 @@ yandex.ru
 yandex.st
 yimg.com
 yimg.jp
+yottaa.com
 youtube-nocookie.com
 youtube.com
 ytimg.com

@@ -231,7 +231,6 @@ iovation.com
 ipapi.co
 ipcounter.de
 ipqualityscore.com
-ipregistry.co
 islay.tech
 itisatracker.com
 ivwbox.de
@@ -514,7 +513,6 @@ yahoofs.com
 yandex.ua
 yellowtracker.com
 yoox.it
-yottaa.com
 yottaa.net
 z0000g.yvmads.com
 zhihu.com
