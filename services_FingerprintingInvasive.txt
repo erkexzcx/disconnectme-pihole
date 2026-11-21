@@ -313,7 +313,6 @@ static.developer.riotgames.com
 static.mocortech.com
 stats.tazeros.com
 storeland.ru
-stripe.network
 stripst.com
 superpinkday.com
 t.adcell.com
